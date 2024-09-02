@@ -1,0 +1,636 @@
+tweet_url,author_url,avatar_url,avatar_binary,topic,author_name,content,tweet_type,tweet_language,comment_count,retweet_count,quote_count,praise_count,publish_time,fetch_time,tweet_id,screen_id,screen_name,tourist_crawl_status,video_urls,original_author,tweet_img_url,tweet_img_binary
+https://twitter.com/7320972/status/1756750925828624476,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Stop the presses! You have just about one week left to submit your responses to the Secure by Design RFI. Please make sure your voice is heard!
+
+https://t.co/jTUsESgLRU https://t.co/eimuypVINn",原创,en,0,0,0,2,2024-02-11 18:43:54,2024-04-16 16:18:52,1756750925828624476,7320972,boblord,0,[],,['https://pbs.twimg.com/media/GGE7XknasAA4MAp.jpg'],
+https://twitter.com/7320972/status/1748355938145505344,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"You have about 30 days to submit your ideas on how to make software secure by design. Don't sit on the sidelines!
+
+https://t.co/jTUsESgLRU",原创,en,0,4,0,6,2024-01-19 14:45:13,2024-04-16 16:18:52,1748355938145505344,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1714275141784576057,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"📢CISA released the second version of its Secure by Design whitepaper. https://t.co/hWdira3YVY 
+
+Want to learn what’s new? Read on! #secureByDesign 🔐",原创,en,1,18,3,36,2023-10-17 13:40:18,2024-04-16 16:18:52,1714275141784576057,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1710134330125881494,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Do you have some thoughts on how to improve the security of open source software? 
+What?! You DO? Well, have I got an opportunity for you! 
+(Note the deadline at the bottom)
+
+https://t.co/5JV5VPPUHs",原创,en,0,6,0,14,2023-10-06 03:26:11,2024-04-16 16:18:52,1710134330125881494,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1706487745424630180,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Have any of you Rust developers poked around these Windows kernel changes? I'd love to get some analysis. 
+
+https://t.co/U6LnXONha7",原创,en,1,1,0,1,2023-09-26 01:55:58,2024-04-16 16:19:05,1706487745424630180,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1705651554047680684,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,Are there any good papers or presentations on how software companies measure the cost of CVEs in dollars?,原创,en,3,0,0,4,2023-09-23 18:33:14,2024-04-16 16:19:05,1705651554047680684,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1705340794885050685,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"What word would you use to describe the process of making an application hard to compromise? Examples include using memory safe languages and sandboxing. Is ""hardening"" acceptable? That term also has other meanings, but it seems the most appropriate. Help!",原创,en,10,0,1,5,2023-09-22 21:58:23,2024-04-16 16:19:05,1705340794885050685,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1705203563906179250,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Aleph One's article ""Smashing The Stack For Fun And Profit"" appeared in Phrack on 1996-11-08. The 30th anniversary of that paper will be in 1142 days. 
+
+What can we do between now and then to show him that we're finally taking the matter seriously? #memorySafety #secureByDesign",原创,en,0,0,1,3,2023-09-22 12:53:05,2024-04-16 16:19:05,1705203563906179250,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1704844792017088591,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Sometimes the people with the best ideas don't speak up. Sometimes they speak up, but no one is listening. 
+
+This open source security RFI is your opportunity to speak, and to be heard.🗣️📢
+
+Do not sit on the sidelines!
+
+(note the looming deadline!)
+https://t.co/5JV5VPPUHs",原创,en,0,9,0,13,2023-09-21 13:07:27,2024-04-16 16:19:05,1704844792017088591,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1704843452855501237,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"@msuiche @CISAJen If you think funding would advance the cause, perhaps you'll consider replying to this RFI (note the looming deadline!):
+https://t.co/5JV5VPPUHs",原创,en,0,0,0,0,2023-09-21 13:02:08,2024-04-16 16:19:05,1704843452855501237,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1702481622350930390,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"When ransomware initial access brokers break into a network, which product/technology is most often the first to be compromised, and how? (include data sources, please)",原创,en,3,1,0,3,2023-09-15 00:37:04,2024-04-16 16:19:21,1702481622350930390,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1702073011388752037,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,It’s entirely possible that well-funded security teams do not always result in well-defended organizations. 🤔,原创,en,0,1,0,7,2023-09-13 21:33:23,2024-04-16 16:19:21,1702073011388752037,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1701342600253542428,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Sample questions reporters can ask software manufacturers after they release a CVE:
+What class of coding errors were involved? (Memory safety? Input sanitation? Etc.) 
+How long was it present?
+What are you doing to eliminate this class of defect in the future? 
+🔐 🤔",原创,en,1,2,1,10,2023-09-11 21:10:59,2024-04-16 16:19:37,1701342600253542428,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1700646969956585750,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,HTTPS deniers are a hoot.,原创,en,0,0,0,4,2023-09-09 23:06:48,2024-04-16 16:19:37,1700646969956585750,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1700533097824153682,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,Close calls are a goldmine of information for those brave enough to mine for it.,原创,en,0,0,0,2,2023-09-09 15:34:19,2024-04-16 16:19:37,1700533097824153682,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1698856146713337882,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"NIST is requesting feedback on SP 800-50 Rev. 1: ""Building a Cybersecurity and Privacy Learning Program"".
+https://t.co/SRepBsuUBO",原创,en,0,5,0,11,2023-09-05 00:30:43,2024-04-16 16:19:37,1698856146713337882,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1697752090758840374,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"What examples of the ""streetlight effect"" have you seen recently in the security industry? https://t.co/XtloYkPc6j",原创,en,4,2,2,19,2023-09-01 23:23:35,2024-04-16 16:19:53,1697752090758840374,7320972,boblord,0,[],,['https://pbs.twimg.com/media/F4-gZxxaAAAJvvc.jpg'],
+https://twitter.com/7320972/status/1696926777787232673,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Compare “authentication bypass vulnerability” and “authentication validation vulnerability”. 
+Who is the implicit actor in each one?",原创,en,0,1,1,3,2023-08-30 16:44:05,2024-04-16 16:19:53,1696926777787232673,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1696889433528684761,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,Let me guess: Is it a memory safety vulnerability? 🐞 🔐,原创,en,0,1,1,4,2023-08-30 14:15:42,2024-04-16 16:19:53,1696889433528684761,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1692942621583274072,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Just a regular reminder: SaaS vendors should mandate FIDO auth for staff to 100% of customer data, 100% of the time, with no legacy MFA fallback.
+
+Orgs moved their data to cloud services, and those services must demonstrate their commitment to customer security. #SecureByDesign",原创,en,1,6,0,23,2023-08-19 16:52:28,2024-04-16 16:20:10,1692942621583274072,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1692360398312534482,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"SaaS vendors: Do you mandate FIDO authentication for all access to customer and other sensitive data? If not, what blockers are you running into?",原创,en,2,1,0,5,2023-08-18 02:18:56,2024-04-16 16:20:10,1692360398312534482,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1691999585760379059,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"The CISA #SecureByDesign whitepaper asks sw companies to take ownership of customer security outcomes. What does that look like in practice? 🤔
+A recent example:
+https://t.co/82tTg7UDIp",原创,en,1,2,1,15,2023-08-17 02:25:11,2024-04-16 16:20:10,1691999585760379059,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1690415169397309440,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,Chris Butera on a panel on secure by design engineering. 🔐 https://t.co/74u2MHNS3g,原创,en,0,0,0,3,2023-08-12 17:29:17,2024-04-16 16:20:27,1690415169397309440,7320972,boblord,0,[],,['https://pbs.twimg.com/media/F3WPomRawAAfJyw.jpg'],
+https://twitter.com/7320972/status/1650340978690244608,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"If you are at RSAC this week and have not yet mandated phishing-resistant FIDO authentication for your organization, please spend some time looking into it. Here's one place to learn more: 
+https://t.co/kLbXEeb7mR
+
+I'm honored to be speaking alongside many great folks!",原创,en,0,8,1,21,2023-04-24 03:28:45,2024-04-16 16:20:55,1650340978690244608,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1646549598788538369,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"📝 Today @CISAgov published a new site (https://t.co/hWdira3YVY), and launched a paper titled ""Shifting the Balance of Cybersecurity Risk: Principles and Approaches for Security-by-Design and -Default"".
+See https://t.co/j5YjSfxb9F
+#SecureByDesign",原创,en,1,10,2,22,2023-04-13 16:23:10,2024-04-16 16:20:56,1646549598788538369,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1594182081097400320,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"This may be the wrong time to bring it up, but in these desperate times, one @dickc quote may be just the thing to soothe an ailing nation:
+
+""Extraordinary is taking a simple idea and revolutionizing it in a way that changes the world.""
+
+♥️
+
+https://t.co/v8pVzQOtbF",原创,en,1,0,0,3,2022-11-20 04:13:21,2024-04-16 16:21:13,1594182081097400320,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1585667369598189569,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Please stop using the passive voice.
+You are making your good work hard for me to understand.
+🙏",原创,en,0,0,0,6,2022-10-27 16:18:55,2024-04-16 16:22:28,1585667369598189569,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1585319338281644033,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Have any tech vendors published a ""Memory Safety Roadmap"" that explains how they will eliminate memory unsafe code in their products over time?",原创,en,4,6,0,18,2022-10-26 17:15:58,2024-04-16 16:22:28,1585319338281644033,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1585256818854744065,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"I keep thinking about the breaches over the past couple of years, especially MFA bypasses, that only came to light because the attackers made their hacks known.",原创,en,0,7,2,29,2022-10-26 13:07:32,2024-04-16 16:22:28,1585256818854744065,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1583605029440606208,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,Are there any commercial VPN products (for enterprises) that nudge sysadmins and users to use MFA?,原创,en,7,0,1,3,2022-10-21 23:43:55,2024-04-16 16:22:44,1583605029440606208,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1582888488651091969,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,#Authenticate2022 Closing session. “Security by Community” is a great way to think about our efforts for the next few years. https://t.co/BhK3M7veDN,原创,en,1,1,0,12,2022-10-20 00:16:38,2024-04-16 16:22:57,1582888488651091969,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FfeMsFPaAAAZUq9.jpg'],
+https://twitter.com/7320972/status/1582847055038681088,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Arynn Crow and Sarah Cecchetti present on earning trust at scale 
+#Authenticate2022 https://t.co/Pyy17TfXgu",原创,en,3,1,0,7,2022-10-19 21:32:00,2024-04-16 16:22:57,1582847055038681088,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FfdnAWwacAEDM7U.jpg'],
+https://twitter.com/7320972/status/1582837791033290752,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,".@pamelarosiedee about to present on navigating the ever evolving authentication landscape 
+#Authenticate2022",原创,en,1,1,0,5,2022-10-19 20:55:11,2024-04-16 16:22:57,1582837791033290752,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1582813376342011904,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Tina Srivastava talks about the great privacy challenge for reusable identity. 
+#Authenticate2022 https://t.co/9Qlt42Z9q6",原创,en,1,0,0,2,2022-10-19 19:18:10,2024-04-16 16:23:13,1582813376342011904,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FfdIX3UagAA3bZj.jpg'],
+https://twitter.com/7320972/status/1582806145303216133,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Rita Mounir and Chad Spensky talk about merging passwordless and physical access. 
+#Authenticate2022 https://t.co/245arfVg3m",原创,en,1,0,0,1,2022-10-19 18:49:26,2024-04-16 16:23:14,1582806145303216133,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FfdBq6EaMAA9wRx.jpg'],
+https://twitter.com/7320972/status/1582766230578294785,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"The term “phishing” can mean either “credential theft”, or “social engineering to trick a user into downloading and running malware” (or similar). Is there a shorthand term for the second type? We often talk past each other because of these differences. Input welcome!",原创,en,8,0,0,14,2022-10-19 16:10:50,2024-04-16 16:23:14,1582766230578294785,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1582779573863088134,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Maliheh Shirvanian from Visa on proactive approaches to FIDO account recovery. 
+#Authenticate2022 https://t.co/hPT4yZ9IUC",原创,en,2,0,0,1,2022-10-19 17:03:51,2024-04-16 16:23:14,1582779573863088134,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FfcpoY8aAAMmlV8.jpg'],
+https://twitter.com/7320972/status/1582771642954285056,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,Jiphun Satapathy talks about implementing FIDO for a cloud and SaaS first enterprise. #Authenticate2022 https://t.co/9rNQXfK7Zc,原创,en,1,1,0,5,2022-10-19 16:32:20,2024-04-16 16:23:31,1582771642954285056,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FfciaaiaYAAOOlY.jpg'],
+https://twitter.com/7320972/status/1582543568153235456,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,The FIDO t-shirts are a hit! #Authenticate2022 https://t.co/XIjqk2i2YE,原创,en,0,1,0,12,2022-10-19 01:26:03,2024-04-16 16:23:31,1582543568153235456,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FfZS--NUAAIW_l5.jpg'],
+https://twitter.com/7320972/status/1582508008625819650,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,Darrell Hawkins from Otis Worldwide talking about authentication at scale. #Authenticate2022 https://t.co/KimN4r68xl,原创,en,0,0,0,2,2022-10-18 23:04:45,2024-04-16 16:23:31,1582508008625819650,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FfYyonUXkAAkI4a.jpg'],
+https://twitter.com/7320972/status/1582488014009552896,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Yves Massard from HID speaks about the CTAP 2.1 standard in enterprises. 
+#Authenticate2022 https://t.co/K5F0gzXnPJ",原创,en,0,0,0,5,2022-10-18 21:45:18,2024-04-16 16:23:31,1582488014009552896,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FfYgdYnagAATqe6.jpg'],
+https://twitter.com/7320972/status/1582481473999081473,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Marianne Crowe from Fed Reserve Bank of Boston talking about remote authentication fraud. 
+#Authenticate2022 https://t.co/SA7j6T5jfi",原创,en,0,0,0,2,2022-10-18 21:19:19,2024-04-16 16:23:31,1582481473999081473,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FfYagOYaMAA1Edp.jpg'],
+https://twitter.com/7320972/status/1582448390377734144,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Greg Cannon and @StephSchuckers talk about biometrics maturity. 
+#Authenticate2022 https://t.co/hPonrI2io2",原创,en,1,0,0,3,2022-10-18 19:07:51,2024-04-16 16:23:48,1582448390377734144,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FfX8ayWXEAkYSwD.jpg'],
+https://twitter.com/7320972/status/1582437247848439809,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Great preso from @timcappalli on passkeys. Full house! Several good usability and accessibility questions. 
+#Authenticate2022 https://t.co/KtcFmk8qvq",原创,en,1,2,0,22,2022-10-18 18:23:34,2024-04-16 16:23:48,1582437247848439809,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FfXySZragAANjIl.jpg'],
+https://twitter.com/7320972/status/1582409555388268545,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,Roger Grimes explains MFA bypass attacks. #Authenticate2022 https://t.co/4OylG7IqsE,原创,en,1,0,0,10,2022-10-18 16:33:32,2024-04-16 16:23:48,1582409555388268545,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FfXZGYuaYAAUjDP.jpg'],
+https://twitter.com/7320972/status/1582156599074115584,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,Phishing resistant MFA and the Exec Order talk by @dmennis. https://t.co/czlT3GJwoj,原创,en,1,1,0,7,2022-10-17 23:48:22,2024-04-16 16:24:05,1582156599074115584,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FfTzChNaEAga-GW.jpg'],
+https://twitter.com/7320972/status/1582153393107529733,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,Ryan Galluzzo says NIST 800-63 updates are coming! Looking for information on the future of passkeys. #Authenticate2022,原创,en,0,0,0,9,2022-10-17 23:35:38,2024-04-16 16:24:05,1582153393107529733,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1582140672920154112,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,Eric Mill and Chris DeRusha in an OMB fireside chat with @jgrantindc. Bigger than life! Well done! #Authenticate2022 https://t.co/SP0AySivIe,原创,en,0,1,0,8,2022-10-17 22:45:05,2024-04-16 16:24:05,1582140672920154112,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FfTkjbeaYAIYIc_.jpg'],
+https://twitter.com/7320972/status/1582117913368334339,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,Great talk by @0x636e68 about FIDO in use in different vertical markets. #Authenticate2022 https://t.co/ixfpYVxYCU,原创,en,0,1,1,3,2022-10-17 21:14:39,2024-04-16 16:24:05,1582117913368334339,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FfTP2tlaYAA4y2i.jpg'],
+https://twitter.com/7320972/status/1582103238354305025,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"(Almost) 10 years of FIDO! 
+Most “overnight success” bands have spent years perfecting their craft. This next year FIDO will be on everyone’s radar. 
+#Authenticate2022 https://t.co/paZ95aZOmO",原创,en,0,3,0,17,2022-10-17 20:16:20,2024-04-16 16:24:05,1582103238354305025,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FfTCgelaYAATwta.jpg'],
+https://twitter.com/7320972/status/1582099900036435968,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,Here is @RachelTobac getting a shoutout at #authenticate2022 https://t.co/Fu0vq1bYR4,原创,en,1,2,0,17,2022-10-17 20:03:04,2024-04-16 16:24:05,1582099900036435968,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FfS_eHJacAEvb8d.jpg'],
+https://twitter.com/7320972/status/1582093963250790400,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,Can’t wait for the start of #Authenticate2022 to start! Come say hi if you see me! https://t.co/iGr831lhlK,原创,en,0,1,0,31,2022-10-17 19:39:29,2024-04-16 16:24:05,1582093963250790400,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FfS6EnMaEAAxqyL.jpg'],
+https://twitter.com/7320972/status/1581858396277702659,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,Just started listening to the @ransomwarefiles podcast. Fascinating to hear first hand accounts from front line defenders who share details of attacks on their systems. Great stuff!,原创,en,1,2,0,6,2022-10-17 04:03:25,2024-04-16 16:24:20,1581858396277702659,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1581813416255426561,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,Excited to attend the @AuthenticateCon conference starting tomorrow. All FIDO all the time! 🔐,原创,en,0,3,0,27,2022-10-17 01:04:41,2024-04-16 16:24:20,1581813416255426561,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1579499956171264001,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Which vendors are making the most progress implementing a ""secure by design"" philosophy? (memory safety, etc.) Examples and links to docs welcome!",原创,en,6,0,0,6,2022-10-10 15:51:49,2024-04-16 16:24:20,1579499956171264001,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1578108257809223680,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,What are your recent FIDO wins? Share even the small ones! 🔐,原创,en,9,2,0,14,2022-10-06 19:41:43,2024-04-16 16:24:20,1578108257809223680,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1575870334955245568,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"""How Cloudflare implemented hardware keys with FIDO2 and Zero Trust to prevent phishing""
+
+If you want to know how one organization migrated to FIDO internally, check out this blog post. It's detailed, and easy to read. #moreThanAPassword 
+
+https://t.co/kGVJdP6O4T https://t.co/xeuYwYz7gP",原创,en,1,11,0,53,2022-09-30 15:29:00,2024-04-16 16:24:35,1575870334955245568,7320972,boblord,0,[],,['https://pbs.twimg.com/media/Fd6dMsQUAAEBuJ8.jpg'],
+https://twitter.com/7320972/status/1576731884452618240,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"When you give security advice, ask yourself if you are teaching people how to survive using a product that is not #safeByDesign and #safeByDefault rather than pressuring the vendor to take ownership of the security outcomes of the customer.",原创,en,2,6,0,19,2022-10-03 00:32:30,2024-04-16 16:24:35,1576731884452618240,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1575159971712729088,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Even in a crowded conference hall of several hundred people, the CO2 numbers are good. Impressive. https://t.co/iTE7yILVrk",原创,en,2,0,0,12,2022-09-28 16:26:16,2024-04-16 16:25:07,1575159971712729088,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FdwXo3aaAAAiDNX.jpg'],
+https://twitter.com/7320972/status/1573704047986556930,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Like @CISAJen says, security is a team sport. In this article, @MattT_Cyber spells out why. Bravo Matt! 
+
+https://t.co/4LJypi8dR5",原创,en,0,7,1,25,2022-09-24 16:00:57,2024-04-16 16:25:22,1573704047986556930,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1573706277561065472,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,@MattT_Cyber @CISAJen It really captured the spirit of how we partner. I'll be sure to cite it frequently. Really awesome.,原创,en,0,0,0,0,2022-09-24 16:09:49,2024-04-16 16:25:22,1573706277561065472,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1572956619075620864,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Twitter doesn't get enough credit for publishing these stats:
+https://t.co/FNByjmraOn
+
+What I like:
+-Shows MFA usage
+-Shows trend over time (though a line graph would help!)
+-Shows breakdown of MFA types
+-Regular updates
+
+All online service providers should do the same. 🙏",原创,en,2,8,1,22,2022-09-22 14:30:56,2024-04-16 16:25:22,1572956619075620864,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1569774826428178432,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,Weren't we supposed to have microtransactions for things like website visits by now?,原创,en,1,0,0,3,2022-09-13 19:47:38,2024-04-16 16:25:37,1569774826428178432,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1569777848298389504,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"@CyberJarno Ah, so that's why! Thanks.",原创,en,0,0,0,0,2022-09-13 19:59:38,2024-04-16 16:25:37,1569777848298389504,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1554838093244420098,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"If you drive your car without using the seatbelt, the car will beep at you until you buckle up. It’s too dangerous, so the manufacturer nudges you to safety.
+If you try to use most online services without MFA... nothing. No warning even though you are in danger. 
+
+Why?",原创,en,5,13,4,40,2022-08-03 14:34:23,2024-04-16 16:25:37,1554838093244420098,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1568595018725859334,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"🧵Hardening guides are a roadmap of technology vendors deliberately and routinely deprioritizing the safety of their customers. 
+
+Hardening guides can also be a roadmap for attackers, pinpointing unsafe features. 
+
+We need products that are #safeByDesign and #safeByDefault.",原创,en,2,11,2,46,2022-09-10 13:39:30,2024-04-16 16:25:51,1568595018725859334,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1567511029177012225,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"""The internet was supposed to be the great equalizer… But it can never achieve that vision if security is itself unequal—if some users are more vulnerable to cybercriminals than others simply because they can’t see as well…""
+https://t.co/EL9gKHEzM9",原创,en,3,2,1,7,2022-09-07 13:52:06,2024-04-16 16:26:04,1567511029177012225,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1565744721888043008,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"memory (un)safety
+
+(are we still doing this??)",原创,en,0,0,0,4,2022-09-02 16:53:26,2024-04-16 16:31:21,1565744721888043008,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1565352107619729409,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,Imagine publishing a long and complicated hardening guide and thinking that your org has made security a priority for your customers.,原创,en,2,0,0,7,2022-09-01 14:53:19,2024-04-16 16:31:21,1565352107619729409,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1564612105801584647,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"There's a lot to unpack in this Canadian government report.
+https://t.co/n3oKOKZ8F2
+Like: https://t.co/itmWSk2qTf",原创,en,1,0,0,2,2022-08-30 13:52:49,2024-04-16 16:31:34,1564612105801584647,7320972,boblord,0,[],,['https://pbs.twimg.com/media/Fbada03VsBEM6C6.png'],
+https://twitter.com/7320972/status/1557833798401724416,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"All organizations should be as transparent as Cisco has been with this blog post about their intrusion. Full stop. This is what being responsible looks like. This is how you help other defenders. Thank you!
+
+https://t.co/xPgdhH1BK1",原创,en,1,18,2,70,2022-08-11 20:58:15,2024-04-16 16:31:49,1557833798401724416,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1557527188135563264,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Let me get this straight: The attackers sent convincing phishing messages, some employees FELL for the ruse and even then, the attack FAILED‽
+
+What kind of MIRACLE product were they using?
+
+&lt;ASMR whisper&gt;FIDO... 
+
+https://t.co/tlY4agMH4x",原创,en,1,35,2,109,2022-08-11 00:39:53,2024-04-16 16:32:06,1557527188135563264,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1556085789292785664,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,What programming languages are most commonly used to write code for execution on satellites?,原创,en,4,0,0,0,2022-08-07 01:12:17,2024-04-16 16:32:21,1556085789292785664,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1556074187428573184,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Fun fact: Abraham Lincoln was the first sitting US President to use a FIDO security key, and he was never successfully phished. 
+It's your turn now! 🔑🔒🔐 https://t.co/XdPKe1ChDN",原创,en,3,11,3,58,2022-08-07 00:26:11,2024-04-16 16:32:21,1556074187428573184,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FZhI3IQVUAEJmdM.jpg'],
+https://twitter.com/7320972/status/1555187375927853056,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"https://t.co/WmGAemFFhx 
+“the single biggest attack vector for nation-states is stealing an identity, an authorized username and password set, and using it to exploit things”.
+
+Then why doesn’t Amazon require MFA?",原创,en,5,9,0,15,2022-08-04 13:42:19,2024-04-16 16:32:39,1555187375927853056,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1554830139669614597,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"There are 2 types of MFA: 
+1. Legacy (SMS, authenticator, push) that stop some attacks, but are still susceptible to phishing 
+2. FIDO authentication, which is phishing resistant
+
+MFA bypass attacks using phishing are on the rise. Migrate to FIDO authentication *this year*.",原创,en,11,49,6,188,2022-08-03 14:02:47,2024-04-16 16:32:51,1554830139669614597,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1555049962664185858,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"I was going through the Consumer Reports Security Planner again tonight. It's a fantastic resource for regular people who want to improve their security posture. Maybe you'll help someone go through it this weekend?
+https://t.co/yOqxryBvoT",原创,en,0,2,1,8,2022-08-04 04:36:17,2024-04-16 16:32:51,1555049962664185858,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1554998191891759104,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"@ronnj18 @FIDOAlliance All true. While I will continue to ask the tech companies to make deployments simpler, I'll note that you can start your deployment in small waves. We completed the FIDO migration a few years ago at my last job. It is easier today than it was then.",原创,en,0,1,0,4,2022-08-04 01:10:34,2024-04-16 16:32:51,1554998191891759104,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1553747071416487936,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,I wonder what percentage of people seeing this message would do as the attackers say? https://t.co/MEAb2GZ8EO,原创,en,7,1,3,10,2022-07-31 14:19:03,2024-04-16 16:33:03,1553747071416487936,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FZAEHTdVsAImmtW.jpg'],
+https://twitter.com/7320972/status/1553471913900396544,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Companies need to take ownership for the security outcomes of their customers. Example:
+""Salesforce managed to convert approximately 80% of its monthly active users — about 14 million in total — to multi-factor authentication (MFA)""
+
+https://t.co/gdC0WFJDNo",原创,en,2,11,1,31,2022-07-30 20:05:41,2024-04-16 16:33:19,1553471913900396544,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1552647126710042625,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"As you think about your backups from 30 days ago, are they actually backups? 
+
+Or are they ""Heisenberg backups""?
+
+They are not backups until you test them, regularly.",原创,en,3,1,0,18,2022-07-28 13:28:16,2024-04-16 16:33:19,1552647126710042625,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1552659459771494403,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"What is this system?
+""That's John's dev test box""
+But it has access to production data.
+""Um, I guess?""
+Where is John?
+He left last year.
+
+#SecurityHorrorStories",原创,en,3,2,2,28,2022-07-28 14:17:16,2024-04-16 16:33:19,1552659459771494403,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1549041518698082305,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"ATTENTION! Break out your Enigma machines, radios, and Morse code tables!
+
+Encrypted communications will commence at 2000Z (1300 Pacific) on 23 July on all KPH CW frequencies!
+
+More details here:
+https://t.co/HP91kmDIaP",原创,en,0,4,1,4,2022-07-18 14:40:52,2024-04-16 16:33:35,1549041518698082305,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1544986504899964928,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,Time flies! 🤯 #MyTwitterAnniversary https://t.co/1T7x11O5Tj,原创,en,0,0,0,2,2022-07-07 10:07:41,2024-04-16 16:33:35,1544986504899964928,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FXDlCabVEAAT8O2.jpg'],
+https://twitter.com/7320972/status/1544012942068174849,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Time to take another look at the NY State Department of Financial Services stance on MFA! 🔑🔒
+https://t.co/Hch2yBzSOo and
+https://t.co/gWx8RnUTuf (December 7, 2021)
+You should read that second document.
+#MoreThanAPassword",原创,en,2,3,0,8,2022-07-04 17:39:06,2024-04-16 16:33:52,1544012942068174849,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1542302101631406081,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"""We require MFA for all remote access to our systems""
+
+I have never been able to hide my micro-expressions when I hear/read that sentence.",原创,en,4,1,0,10,2022-06-30 00:20:50,2024-04-16 16:34:11,1542302101631406081,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1542298431481212929,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,Regular reminder that a common element in many compromises is a lack of MFA. https://t.co/0QG7RqcgWC,原创,en,2,1,0,7,2022-06-30 00:06:15,2024-04-16 16:34:11,1542298431481212929,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FWdTX15VsAAiE5z.jpg'],
+https://twitter.com/7320972/status/1542186321992511488,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Looking forward to any comments from @LazyFishBarrel  about memory safety on this report! 🔑🔒🤔
+  
+https://t.co/pGdyqhMYnM",原创,en,0,0,0,0,2022-06-29 16:40:46,2024-04-16 16:34:11,1542186321992511488,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1541151957510828032,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"If Twitter ever creates an Edit feature, it should only be available to accounts protected by phishing-resistant FIDO security keys. 🔑 🔒 
+Today only 2.5% of Twitter accounts use MFA. 
+#MoreThanAPassword",原创,en,6,6,5,33,2022-06-26 20:10:34,2024-04-16 16:34:11,1541151957510828032,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1541418312692670464,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"I always push for FIDO keys for privileged accounts. People rightly observe possible speed bumps (perception of cost is the main one), and then we collectively give up.
+
+Why do we let the problems of the last 10% block progress on the first 90%? Just start!🔒🔑
+#MoreThanAPassword",原创,en,3,1,0,23,2022-06-27 13:48:58,2024-04-16 16:34:23,1541418312692670464,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1541199196652376065,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"This Twitter ""Verified Account"" help page says that the security requirement to qualify for a blue badge is that ""Your account must have a confirmed email address or phone number"".
+
+Does Twitter not require verified accounts to use MFA?
+
+https://t.co/dN6Fc7IV4T",原创,en,1,0,0,3,2022-06-26 23:18:17,2024-04-16 16:34:23,1541199196652376065,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1541133960666685440,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,Using FIDO security keys means never having to say you're sorry. 🔑🔒,原创,en,2,1,0,20,2022-06-26 18:59:03,2024-04-16 16:34:23,1541133960666685440,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1539719074862743558,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,Someone please crank up the air scrubbers at the Austin airport. CO2 levels much higher than SFO’s. https://t.co/dsA90VmJLf,原创,en,7,1,0,13,2022-06-22 21:16:48,2024-04-16 16:34:40,1539719074862743558,7320972,boblord,0,[],,"['https://pbs.twimg.com/media/FV4uVZDWQAA9md1.jpg', 'https://pbs.twimg.com/media/FV4uVZBXoAATAa0.jpg']",
+https://twitter.com/7320972/status/1539015142985175040,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"SSO should not be priced as a luxury good like a yacht 🛥 . The SSO tax is a force that keeps organizations below the security poverty line. 
+SSO should be free, and a customer right. 🔐 🔑  https://t.co/OGUYp3Al2r",原创,en,1,3,1,13,2022-06-20 22:39:38,2024-04-16 16:34:40,1539015142985175040,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1538929399860297729,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"This is a *brutal* SMB story. Some tactics that would have helped:
+MFA (#MoreThanAPassword)
+IRP (roles, comms, attorneys, LEA contacts, insurance)
+Limiting on-prem services
+Backup testing
+
+Every SMB CEO should read this transcript *monthly*.
+
+https://t.co/muzXFC6BTE",原创,en,1,2,0,4,2022-06-20 16:58:55,2024-04-16 16:34:40,1538929399860297729,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1537254971774668801,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"What is the copyright status of these #dallemini images? Who owns them? Can I use them? 
+#MoreThanAPassword https://t.co/WfgQq86Ogr",原创,en,1,0,1,3,2022-06-16 02:05:20,2024-04-16 16:34:40,1537254971774668801,7320972,boblord,0,[],,"['https://pbs.twimg.com/media/FVVtPpqVsAA2H2W.jpg', 'https://pbs.twimg.com/media/FVVtPprUcAYanMd.jpg', 'https://pbs.twimg.com/media/FVVtPpqUUAAwBFT.jpg', 'https://pbs.twimg.com/media/FVVtPprUUAAMdmM.jpg']",
+https://twitter.com/7320972/status/1535990802161098753,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,How is you enterprise migration to FIDO? Any wins or speed bumps? Please share! 🔐🔑🙏🏻,原创,en,3,2,0,8,2022-06-12 14:21:59,2024-04-16 16:34:55,1535990802161098753,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1534935707625480208,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Come see ⁦@DrHughThompson⁩ tell me more scary security stories like he did in 2029! 👻🔐
+
+10:50 this morning, Moscone South Esplanade. 
+
+Come early to get a good seat! https://t.co/dYuOK5OJxu",原创,en,3,0,0,10,2022-06-09 16:29:25,2024-04-16 16:34:55,1534935707625480208,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FU0v4_nUYAse8OP.jpg'],
+https://twitter.com/7320972/status/1533519467140898816,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"I am formally declaring @alex_gaynor's memory unsafety ""stages of grief"" video to be mandatory viewing by all security professionals.
+
+If you are at @RSAConference, perhaps you'll find yourself talking to fellow attendees and even vendors about it.
+🔑🔐
+https://t.co/QU3ePPWxGT",原创,en,1,15,1,46,2022-06-05 18:41:47,2024-04-16 16:35:27,1533519467140898816,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1533463996992368642,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,Has anyone made a necklace for the Aranet4 CO2 meter?,原创,en,2,0,1,4,2022-06-05 15:01:21,2024-04-16 16:35:27,1533463996992368642,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1531648743216254978,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"""I tallied up all of the privacy policies just for the apps on my phone. It totaled nearly 1 million words. 'War and Peace' is about half as long.""
+
+https://t.co/5zwnXzJlOx",原创,en,1,1,0,5,2022-05-31 14:48:11,2024-04-16 16:35:27,1531648743216254978,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1531063180796932096,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"If I see you next week and ask if your org has started a FIDO authentication pilot/rollout, what will be your honest answer? 
+🔑🔐",原创,en,15,4,0,27,2022-05-30 00:01:22,2024-04-16 16:35:43,1531063180796932096,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1531335190529703936,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Vendors need to take ownership of the security outcomes of their customers. 
+
+That looks like this: ""Due to the power admins have to make changes to your environment, they’re required to perform MFA every time they sign in.""
+Bravo!🔐
+cc @Alex_T_Weinert 
+
+https://t.co/soUKp1iZq1",原创,en,1,1,0,7,2022-05-30 18:02:14,2024-04-16 16:35:43,1531335190529703936,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1531064773579657216,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,Are there any small businesses out there that would be willing to share their FIDO rollout successes?,原创,en,0,1,0,7,2022-05-30 00:07:42,2024-04-16 16:35:56,1531064773579657216,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1529676252902109185,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Great talk by @alex_gaynor and @reaperhulk. Python! Cryptography! Rust! ASN.1! It’s all in there. 
+
+https://t.co/KrPnJ49AZm",原创,en,0,0,0,4,2022-05-26 04:10:13,2024-04-16 16:35:56,1529676252902109185,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1521946351617028096,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Someone needs to reshoot the SNL cowbell skit to be about MFA.
+""Fellas. I coulda used a little more MFA..."" 
+""I'm telling ya! Fellas! You're going to want that MFA!""
+""I got a fevah! And the only prescription! Is more MFA!""
+
+Bonus points for including FIDO security keys. 
+🔐🔐🔐",原创,en,2,3,2,22,2022-05-04 20:14:21,2024-04-16 16:36:11,1521946351617028096,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1519800465583603712,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,Should I? Is it dangerous? https://t.co/3HPAQsCVB7,原创,en,15,1,0,11,2022-04-28 22:07:22,2024-04-16 16:36:11,1519800465583603712,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FRdqd69VcAAZHW7.jpg'],
+https://twitter.com/7320972/status/1518744614504525824,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,@msager Thanks Mike! I'm looking forward to helping out where I can. 🔐,原创,en,0,0,0,0,2022-04-26 00:11:47,2024-04-16 16:36:43,1518744614504525824,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1517261416926916608,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"What techniques do you recommend for sending credentials securely to other people? I'm thinking of cases where you don't have an existing relationship with them, so no Signal, corporate password managers, etc. Here's one possible example:
+https://t.co/magbittUgc
+🔐🤔🧐❓",原创,en,7,2,0,10,2022-04-21 21:58:05,2024-04-16 16:36:43,1517261416926916608,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1515421404103016450,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Reader’s Digest has explained 2FA (and FIDO!). Can we finally get every CEO and board to ask what % of their internal apps require it for staff to login? 🔑🔐🗝️🧐
+
+https://t.co/mYLRGn6H0r",原创,en,0,2,0,7,2022-04-16 20:06:32,2024-04-16 16:36:43,1515421404103016450,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1513171727303421956,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Where can I read up on what universities teach computer science students these days? I’m especially interested in programming languages, security concepts and tools. Stats and trends.
+
+I assume I’m not even asking the right questions, so any insights would be much appreciated.",原创,en,6,1,0,7,2022-04-10 15:07:07,2024-04-16 16:36:57,1513171727303421956,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1513905222866800642,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,@chrisblizzard https://t.co/KTXTwTIwWh,原创,qme,0,0,0,1,2022-04-12 15:41:46,2024-04-16 16:36:57,1513905222866800642,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FQJ4wzRVgAkJn6X.jpg'],
+https://twitter.com/7320972/status/1513891099164741645,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"@fugueish @riskybusiness I've been begging people to migrate all users, especially admins, to FIDO for several years. When they get hacked, they shrug and conclude that they need more employee training, or better detection, etc. 
+So few say, Let's just eliminate phishing as a vector entirely.
+Bonkers.",原创,en,0,0,0,1,2022-04-12 14:45:39,2024-04-16 16:36:57,1513891099164741645,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1512914596046118918,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"@LannaMichalisko @mmurray Deepest condolences Lanna, and to Mike's family. Mike contributed greatly to our field and to many people, like me, on a personal level. We will all miss him greatly.",原创,en,0,0,0,9,2022-04-09 22:05:22,2024-04-16 16:37:14,1512914596046118918,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1512812148212199426,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,@msager Do you have this set? https://t.co/nunyy8Pm2X,原创,en,0,0,0,0,2022-04-09 15:18:17,2024-04-16 16:37:14,1512812148212199426,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FP6WkfhWUAcshva.png'],
+https://twitter.com/7320972/status/1512811512997429252,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,@msager https://t.co/JAamtLEiup,原创,qme,0,0,0,0,2022-04-09 15:15:46,2024-04-16 16:37:14,1512811512997429252,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FP6WCojaUAYBZBN.png'],
+https://twitter.com/7320972/status/1512460424897126402,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"It’s critical that consumers, enterprises protect themselves with MFA. But we don’t know if they do. Online services should publish monthly stats showing MFA usage broken down by:
+- Consumer users
+- Enterprise users
+- Enterprise users with elevated privileges/sysadmins
+
+Thoughts?",原创,en,4,4,1,15,2022-04-08 16:00:40,2024-04-16 16:37:15,1512460424897126402,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1512462351492079621,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"@chrismerkel We're on the same page. I suspect that increased transparency would yield a few things:
+-Increased pressure from the services (can't be an admin without FIDO!)
+-Awareness among execs that they are above/below average
+-Evidence that regulators need to step in",原创,en,0,0,0,1,2022-04-08 16:08:19,2024-04-16 16:37:15,1512462351492079621,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1512241131525795840,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"@CindyOtis_ I'd be curious what would happen if you politely explain that you'd need funding. I've had success with that, but I've heard several other counter stories.",原创,en,0,0,0,0,2022-04-08 01:29:16,2024-04-16 16:37:15,1512241131525795840,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1512227695215534082,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,@jp4gs @chetdorn Not enough references to FIDO. 🔐,原创,en,1,0,0,1,2022-04-08 00:35:53,2024-04-16 16:37:15,1512227695215534082,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1512135106244202501,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"You know I love the DNC Security Checklist (https://t.co/SDrXMoMdzQ) which focuses on device and account security basics.
+
+I also want to give a shout-out to the @ConsumerReports Security Planner which covers more ground in a thoughtful manner. It's great!
+https://t.co/yOqxryBvoT",原创,en,0,7,0,13,2022-04-07 18:27:58,2024-04-16 16:37:32,1512135106244202501,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1512099504681467909,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"""The court orders allowed the F.B.I. to go into domestic corporate networks and remove the malware, sometimes without the company’s knowledge.""
+
+Are any of them publicly traded companies?
+
+Will we get details so we can protect our networks, too?
+
+https://t.co/CtCKtC1wIt",原创,en,0,2,0,2,2022-04-07 16:06:30,2024-04-16 16:37:32,1512099504681467909,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1511016089823506432,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"The WSJ published an article by @nicnguyen about security keys here:
+https://t.co/gOkDzaUtqu
+
+Some thoughts… 🧵",原创,en,1,4,1,12,2022-04-04 16:21:23,2024-04-16 16:37:32,1511016089823506432,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1509982747112402946,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,".@mononcqc's talk at #IRConf is great. It's called ""Errors are constructed, not discovered"". 
+
+Fred, I hope you publish a reading list so we can catch up with you! 🙏",原创,en,1,0,0,0,2022-04-01 19:55:15,2024-04-16 16:37:32,1509982747112402946,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1509544908603809793,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"DuoLingo, but for cybersecurity concepts.",原创,en,70,166,32,1781,2022-03-31 14:55:26,2024-04-16 16:37:48,1509544908603809793,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1509203698357964802,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"What impresses me about FIDO security keys isn’t the technology, despite the use of cool cryptography. What impresses me most is that it’s supported by modern browsers, phones, dozens of major online services (like Twitter!), and that there are multiple manufacturers of hardware.",原创,en,6,8,1,57,2022-03-30 16:19:35,2024-04-16 16:37:48,1509203698357964802,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1491941905789186051,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Which cybersecurity vendors have migrated all staff logins to FIDO authentication so they won't get phished? Have there been any announcements or conference talks?
+(If you approve vendor contracts, you should ask!)",原创,en,6,1,0,17,2022-02-11 01:07:23,2024-04-16 16:37:48,1491941905789186051,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1507485992474742791,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"This documentary about Elizebeth Smith Friedman is amazing. 
+
+https://t.co/WcwdBhyjci",原创,en,0,2,0,7,2022-03-25 22:34:02,2024-04-16 16:38:03,1507485992474742791,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1507060264453099523,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"In light of recent events, I’ve been thinking about account and MFA lifecycles. I’ve been thinking about different preventive and detective controls, and also the differences between administrative (process) and technical controls. Some questions for orgs… 🧵",原创,en,1,1,1,16,2022-03-24 18:22:21,2024-04-16 16:38:03,1507060264453099523,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1506657378057748484,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"@lukasbradley Fair points! And to be clear, some teams need help with some business process reengineering. New tools. New vendors. Training. New workflows. And of course we are all human and resist change. I need to learn more about the various cloud-based IDEs. Maybe you can teach us! 😀",原创,en,0,0,0,0,2022-03-23 15:41:25,2024-04-16 16:38:03,1506657378057748484,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1506655034510958593,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,@lukasbradley Some of us have been successful in getting people to make the migration. We also found it much easier and cheaper for IT to support them. It's worth keeping an open mind and looking for places where you might be able to help people evolve their workflow and tools. Good luck! 🍀,原创,en,0,0,0,0,2022-03-23 15:32:07,2024-04-16 16:38:03,1506655034510958593,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1506652618021486593,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"@lukasbradley You get a few things in a Chromebook that you don't necessarily get in other Linux-based systems out of the box, like verified boot, and encrypted storage. I've also liked the ""context aware"" feature of Workspace that enforces policies on the devices.",原创,en,0,0,0,1,2022-03-23 15:22:31,2024-04-16 16:38:03,1506652618021486593,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1506418268709351429,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"In case I forgot to mention it before, you can eliminate _massive_ amounts of attack surface by moving staff to Chromebooks and mandating FIDO security keys. 
+💻🔐",原创,en,21,48,11,291,2022-03-22 23:51:17,2024-04-16 16:38:03,1506418268709351429,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1506301227994296321,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Defenders have very little technical visibility into attacks on other companies. In light of the Okta incident, it would be incredibly helpful to all learn more. I'm hoping the great people at Okta will share *all* the technical details. Some initial questions com to mind 🧵...",原创,en,2,11,4,50,2022-03-22 16:06:13,2024-04-16 16:38:18,1506301227994296321,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1506097717290074112,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,Congratulations to everyone who got FIDO security keys deployed! https://t.co/5EX7uUl63d,原创,en,1,0,1,23,2022-03-22 02:37:32,2024-04-16 16:38:34,1506097717290074112,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FOa75EpVIAM5rpr.jpg'],
+https://twitter.com/7320972/status/1504185094591827969,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"This is a good guide. If every CEO read it and personally took action, we'd be in a _much_ different place.
+
+I especially like the link to a draft IRP. Starting an IRP is the hardest part. I'd only add that it needs formal sign off from sr execs.
+
+https://t.co/ptmGVZ7IpY",原创,en,0,2,0,4,2022-03-16 19:57:27,2024-04-16 16:38:34,1504185094591827969,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1503867281012846592,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"I see security recommendations like “Ensure users create strong passwords”. OK, but what is a “strong” password?",原创,en,14,3,1,10,2022-03-15 22:54:34,2024-04-16 16:38:49,1503867281012846592,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1503514356499111936,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"""Last year, we showed that more than 70% of our severe security bugs are memory safety problems""
+
+""...we’ll be exploring whether we can use a memory safe language for parts of Chrome in the future""
+
+https://t.co/rStlIrYEKI",原创,en,1,0,0,5,2022-03-14 23:32:11,2024-04-16 16:38:50,1503514356499111936,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1503502558106595332,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Sometimes when I hear security advice I wonder who the intended audience is. My non-technical friends? Big companies? Spies?
+
+Most US companies are small. (2018 data below. The slices for the larger companies are razor thin.) https://t.co/FXYBKNA6jy",原创,en,2,0,0,0,2022-03-14 22:45:18,2024-04-16 16:38:50,1503502558106595332,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FN2CfrRVcAEmNng.png'],
+https://twitter.com/7320972/status/1502049412918480897,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,@adamcaudill @1Password Many thanks!!,原创,en,0,0,0,2,2022-03-10 22:31:01,2024-04-16 16:44:20,1502049412918480897,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1501294060841017353,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,I’m halfway through the documentary “Icarus” by @bryanfogel and it’s even more surprising and unsettling than I expected.,原创,en,1,1,0,4,2022-03-08 20:29:31,2024-04-16 16:44:20,1501294060841017353,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1500650905430999042,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"I know I'm the ""OMG enable 2FA right meow (esp FIDO)!"" guy, but…
+I spent a good chunk of today trying to help a friend enable 2FA on his Facebook account.
+Services need to invest more in security UI/UX, esp around SMS 2FA. It's not just Facebook.",原创,en,1,1,0,25,2022-03-07 01:53:51,2024-04-16 16:44:20,1500650905430999042,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1499799476415860737,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"A friend asked me recently why I push FIDO security keys so hard. Should orgs really delay other important work to get FIDO keys rolled out to their staff? Yes!
+A thread… 🧵",原创,en,13,161,35,537,2022-03-04 17:30:34,2024-04-16 16:44:20,1499799476415860737,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1498360954081316865,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"If your org allows users to have admin rights on their laptops, is that a risk that the CEO and the board know about? (If not, why not?) 🙏",原创,en,2,1,0,8,2022-02-28 18:14:24,2024-04-16 16:45:08,1498360954081316865,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1497337840451002369,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"The advice in this article includes ""back up important computer files"" and ""avoid 'suspicious' links"" (whatever that means). No MFA‽🤔
+https://t.co/QBGHXGLPR6
+
+What a missed opportunity to teach people about real security basics, like these:
+https://t.co/SDrXMoMdzQ",原创,en,2,0,0,3,2022-02-25 22:28:55,2024-04-16 16:45:08,1497337840451002369,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1496918097340485637,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"BEC scams are highly lucrative. Yet many (most?) could be stopped if payment systems implemented technical controls to limit who can add/change vendors &amp; routing numbers.
+Question: Which banks/payment systems implement these controls to eliminate BEC for their customers?",原创,en,0,0,0,3,2022-02-24 18:41:00,2024-04-16 16:45:08,1496918097340485637,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1496558234194386949,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Chromebook users: Have you used an Apple keyboard and gotten the top row of function keys to work (full page, show windows, screenshot chords, etc.)?",原创,en,2,0,0,1,2022-02-23 18:51:02,2024-04-16 16:45:24,1496558234194386949,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1496528285047857152,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,Security is hard. 🔐 https://t.co/4WS5qirkWc,原创,en,0,2,0,6,2022-02-23 16:52:01,2024-04-16 16:45:24,1496528285047857152,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FMS8eZUVEAMpQYc.png'],
+https://twitter.com/7320972/status/1496367847244992513,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,Twitter served me this ad. I may be hard to reach for a few days while I do some research (after I buy a CD player). https://t.co/yBHoL7HTra,原创,en,2,0,0,5,2022-02-23 06:14:30,2024-04-16 16:45:24,1496367847244992513,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FMQqoFCVQAQT2O4.jpg'],
+https://twitter.com/7320972/status/1496262737248538627,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"I wonder what would happen if every cybersecurity expert going on TV this week said something like ""Every CEO/board should ask what % of their staff are enrolled in MFA, and they should not be satisfied with any number other than 100%"".",原创,en,6,28,3,183,2022-02-22 23:16:50,2024-04-16 16:45:24,1496262737248538627,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1496261976049205248,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"@m33x @Alex_T_Weinert What would the world look like if 100% of admins were enrolled in MFA (which MS could mandate)? For things like this it's normal to measure _progress_, but for critical security practices, I only look at the cold hard _outcomes_.",原创,en,0,0,0,0,2022-02-22 23:13:48,2024-04-16 16:45:24,1496261976049205248,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1496152258534330384,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"""The jump is due in part to cyber thieves finding a way around the increased security of multifactor authentication protections that rely on a text message or code sent to a customer’s phone to confirm their identity.""
+https://t.co/anw8dF8URV",原创,en,1,3,0,7,2022-02-22 15:57:50,2024-04-16 16:45:38,1496152258534330384,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1494720178814271490,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Conference talk idea: We migrated from legacy MFA to FIDO security keys, with no fallback, for 100% of our users. Learn how we changed procedures ranging from training, to enrollment, to account recovery, to offboarding to _eliminate_ credential theft in our org.",原创,en,8,23,7,192,2022-02-18 17:07:15,2024-04-16 16:45:38,1494720178814271490,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1495067652808536070,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,@daviddpd @jessysaurusrex @Google @Atlassian @SlackHQ @github @Apple @1Password This can indeed be a big problem. Imagine if every neighborhood had its own standards for road signs and lane markings. Driving across town would be quite stressful and dangerous.,原创,en,1,0,0,0,2022-02-19 16:08:00,2024-04-16 16:45:38,1495067652808536070,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1494802364603113474,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"This NSA password guidance recommends password complexity (numbers, special chars). 
+Any ideas why, given 800-63B? Did I misread?
+https://t.co/n3zDfg4b0l",原创,en,1,0,0,3,2022-02-18 22:33:50,2024-04-16 16:45:38,1494802364603113474,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1494723257383014401,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"There are so many people doing amazing work to address the most _critical_ security problems we face today. Please don't discount your efforts. Submit talks! You'll get rejected a lot. Refine, and submit to another conference! 
+Or, and I know this is crazy, just post on Youtube!",原创,en,0,0,0,3,2022-02-18 17:19:29,2024-04-16 16:45:50,1494723257383014401,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1494722106143084548,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Conference talk idea: We moved our developers to  a cloud-based IDE and Chromebooks, dramatically increasing security of the code, and reducing the effort of trying to secure and manage laptops.",原创,en,0,1,0,3,2022-02-18 17:14:55,2024-04-16 16:45:50,1494722106143084548,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1494719408438059008,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Conference talk idea: We moved from C++ to a memory safe language. Learn what we did right, and what gotchas we ran into.",原创,en,1,0,0,4,2022-02-18 17:04:12,2024-04-16 16:45:50,1494719408438059008,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1494713931918557184,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Free research/conference talk idea:
+Take the @CISAgov Known Exploited Vulnerabilities Catalog and analyze the vulns against different vulnerability types, specifically memory unsafety. Are there trends that could help defenders and vendors?",原创,en,0,0,0,4,2022-02-18 16:42:26,2024-04-16 16:45:50,1494713931918557184,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1493640303739211778,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"We have warned users to not click on ""suspicious"" links for years. The idea is that a single click can compromise your machine.
+
+In 2022 what are the actual risks to clicking on links? Exclude 0days &amp; phishing. I’m only interested in that first click. Be super technical! 🙏",原创,en,21,4,2,50,2022-02-15 17:36:13,2024-04-16 16:45:50,1493640303739211778,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1493658211395772424,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"@SecurityAmar Yes, we have both more secure products, and more data about how attacks work. We should adjust our guidance appropriately.",原创,en,0,0,0,1,2022-02-15 18:47:23,2024-04-16 16:46:05,1493658211395772424,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1493657933753712640,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Humble request to security pros: When a reporter calls to ask you for a quote about the security risks to users of &lt;random thing that is not a risk&gt;, please reframe to get the _real_ messages out there.",原创,en,2,5,0,13,2022-02-15 18:46:16,2024-04-16 16:46:05,1493657933753712640,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1493636071355084801,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"In 2007 I wrote: ""Adding [a SecureID] device will protect the early adopters.  But as soon as a large percentage of customers use this device, the phishers will take it into account""
+
+Bypassing legacy MFA has always been possible.
+
+https://t.co/ASk4Utvsxn",原创,en,1,0,0,1,2022-02-15 17:19:24,2024-04-16 16:46:06,1493636071355084801,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1493266494796361728,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Most people have very little appetite for changing their behaviors to be more secure. So it's important to think deeply about how we give security advice. I wrote this doc to summarize my thinking. Feedback welcome!
+https://t.co/Sz7NXMNcPN",原创,en,5,11,6,37,2022-02-14 16:50:50,2024-04-16 16:46:20,1493266494796361728,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1493252525478187010,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"@wompdev @_mwc Training can be an important tool, but has a limited shelf-life. At work, I've worked to deploy systems that were safe by default, like Chromebooks and FIDO security keys. 
+Feel free to check out this doc on how I think about advice:
+https://t.co/Sz7NXMNcPN",原创,en,0,0,0,0,2022-02-14 15:55:20,2024-04-16 16:46:20,1493252525478187010,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1493151425173471237,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"@wompdev @_mwc People have a very limited appetite for behavior change to be more secure. We need to prioritize and focus people on the top 2-3 things to be more secure. Lack of MFA leads to account compromises every second, not scanning QR codes. 
+My suggestion: https://t.co/SDrXMoMdzQ",原创,en,0,1,0,9,2022-02-14 09:13:35,2024-04-16 16:46:34,1493151425173471237,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1493023998258548738,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"I didn't see the commercial, but why in 2022 do people think QR codes are any worse than visiting a new site? You do that daily, right?",原创,en,7,3,2,45,2022-02-14 00:47:14,2024-04-16 16:46:34,1493023998258548738,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1493051496815939587,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"If you think that was a Schitt's Creek commercial, you need to learn about SCTV.",原创,en,0,0,0,6,2022-02-14 02:36:31,2024-04-16 16:46:35,1493051496815939587,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1493042562633920514,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"@EveningStarIT @DougBarbin For sure! All software has bugs, and some of those bugs are security bugs. 😱
+
+Cybersecurity is about risk management. People get hacked every second, but not by scanning QR codes. That's why I focus people's attention on these basics: https://t.co/SDrXMoMdzQ
+Be safe!",原创,en,0,0,0,0,2022-02-14 02:01:00,2024-04-16 16:46:48,1493042562633920514,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1493031106932662272,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Now that we had a commercial for QR codes, I'm looking forward to seeing some promoting free wi-fi and free USB charging stations!
+
+#hacklore",原创,en,0,0,0,5,2022-02-14 01:15:29,2024-04-16 16:46:48,1493031106932662272,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1493024235031130112,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"@msager Every time you do an internet search you are visiting a site you don't trust. We put our trust in the browsers. Most of the time, that trust is justified.",原创,en,0,0,0,0,2022-02-14 00:48:11,2024-04-16 16:46:48,1493024235031130112,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1493023516026826752,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"@msager Is it any worse than visiting a new URL? If you're patched, you should be ok. Yes? No?",原创,en,0,0,0,0,2022-02-14 00:45:19,2024-04-16 16:46:48,1493023516026826752,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1492557789926940673,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Which major online services mandate MFA when you sign-up (or at least make it hard to opt out)? 
+If not mandatory at sign-up, which services push MFA hard later on?",原创,en,1,0,1,4,2022-02-12 17:54:42,2024-04-16 16:47:02,1492557789926940673,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1491165199470309376,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"I’m interested in cybersecurity urban legends. I’m adding this one to my list: “FBI, cybersecurity experts warn about QR code privacy and security concerns”
+https://t.co/D8efiwXBHC
+
+A short thread… 🧵",原创,en,2,1,2,4,2022-02-08 21:41:02,2024-04-16 16:47:16,1491165199470309376,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1491541706906353665,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,Has anyone given a recent conference talk about how they migrated their staff to Chromebooks and mandated FIDO security keys to eliminate malware and credential theft? Surely someone has but I cannot find such a talk (outside the FIDO Alliance).,原创,en,2,4,0,17,2022-02-09 22:37:09,2024-04-16 16:47:16,1491541706906353665,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1491631745984188418,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"@steveishacking I have, but it seems like there should be lots of talks from orgs that have basically eliminated entire classes of vulnerabilities like credential theft and malware for large percentages (or all) of their staff. 
+Isn't this why we're here, to actually _solve_ problems?",原创,en,0,0,0,0,2022-02-10 04:34:56,2024-04-16 16:47:16,1491631745984188418,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1491439160384966656,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Google posted a new blog titled “Making you safer with 2SV”
+https://t.co/dDyerUvWlR
+
+Some initial thoughts. 🧵…",原创,en,1,3,0,4,2022-02-09 15:49:40,2024-04-16 16:47:16,1491439160384966656,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1491542921165688834,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"@daviddpd Change is hard! You know what else people tell me is hard? Getting hacked. 🤔
+All forms of MFA available today can be phished, other than FIDO security keys. And they are becoming easier to use all the time. We're counting on you! 😀",原创,en,0,0,0,0,2022-02-09 22:41:58,2024-04-16 16:47:16,1491542921165688834,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1491506032505352198,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"@daviddpd Google and I do not agree on timeout recommendations. I've had to deal with users who enrolled in APP, but who lost their key. So much time had passed that they were not even sure if they _ever_ had a key! Getting users to press the button at least every 1-2 weeks seems workable.",原创,en,1,0,0,0,2022-02-09 20:15:23,2024-04-16 16:47:16,1491506032505352198,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1491419460439519232,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"If you want to know what it looks like for a company to take responsibility for the security outcomes of their customers, this is it.
+
+https://t.co/dDyerUvWlR https://t.co/bqPvbn6MxS",原创,en,0,0,0,3,2022-02-09 14:31:23,2024-04-16 16:47:30,1491419460439519232,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FLKVznGaAAUzq-f.png'],
+https://twitter.com/7320972/status/1490135866638934016,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"What’s your prediction on when vendors won’t charge extra for security features? (Thinking of https://t.co/XOZ6T2k0ch etc again, natch)",原创,en,2,1,0,6,2022-02-06 01:30:50,2024-04-16 16:47:42,1490135866638934016,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1490070946647973889,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"If you manage a Google Workspaces instance, consider doing a *detailed* review against this security guide this weekend. 
+
+https://t.co/O7GjwRvPmz
+
+(Google should also review to see if Workspaces is actually secure by default…)",原创,en,0,3,0,12,2022-02-05 21:12:52,2024-04-16 16:47:57,1490070946647973889,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1490067551514075136,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Poor headline. 
+Better headline: “Why won’t vendors mandate minimum security controls to help their customers?”
+
+https://t.co/XAvVEbmdj4",原创,en,0,4,1,8,2022-02-05 20:59:23,2024-04-16 16:47:57,1490067551514075136,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1490006117006462977,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"@BigPipPinching If we can identify the website, it is easy to check on its configs.
+This compromise (which I'm sure was painful!) is so close to normal, less-technical compromises like phishing, password reuse, compromise of the vendor, etc. 
+Anything else should be a DEF CON presentation.",原创,en,0,0,0,0,2022-02-05 16:55:15,2024-04-16 16:47:57,1490006117006462977,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1490001892658667520,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"@BigPipPinching Correlation and causation are easy to confuse when there is only one data point for sure. In this case, how did they rule out a compromise of the vendor's CC system, for example? Unless the site's HTTPS configs were poor, the theft wasn't over the network.",原创,en,0,0,0,0,2022-02-05 16:38:28,2024-04-16 16:47:57,1490001892658667520,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1489996719924264962,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"@piescott04 5 years was arbitrary. Sorry about that!
+There has been gradual progress since 2010 (look up ""Firesheep""). There have been improvements in OSs, browsers, CAs, websites, TLS, Google down-ranks non-HTTPS sites (punishing the holdouts), etc.",原创,en,0,0,0,1,2022-02-05 16:17:55,2024-04-16 16:47:57,1489996719924264962,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1489996000823447553,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"@BigPipPinching What information, exactly? What web sites did they visit? Were they using other (possibly less secure) apps? How did they eliminate other common attack vectors (like password reuse, lack of MFA, phishing)? How did they isolate the time of compromise to the use of wifi? etc",原创,en,0,0,0,1,2022-02-05 16:15:04,2024-04-16 16:47:57,1489996000823447553,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1489638765505122307,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Sending positive waves of energy to all defenders having a bad day/month/year. ⚡️⚡️⚡️
+Remember to breathe. Walk around the block when you can. You got this!",原创,en,0,2,0,24,2022-02-04 16:35:32,2024-04-16 16:48:11,1489638765505122307,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1489635397084725254,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Just thinking about my interview with @sheeraf at #Enigma2022 yesterday. I highly recommend her book ""An Ugly Truth: Inside Facebook's Battle for Domination"". So much to think about.",原创,en,2,0,0,4,2022-02-04 16:22:09,2024-04-16 16:48:11,1489635397084725254,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1488890835626184707,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,Headed back to #Enigma2022 shortly. See you all soon!,原创,en,0,0,0,4,2022-02-02 15:03:32,2024-04-16 16:48:29,1488890835626184707,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1488546346994786311,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,The Covid safety protocols at the @enigmaconf are awesome. Thanks to the team for making the event so safe and yet welcoming!,原创,en,1,2,0,17,2022-02-01 16:14:39,2024-04-16 16:48:42,1488546346994786311,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1486738230988869633,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"How did I miss this video of Duo moving staff to Chromebooks‽
+https://t.co/mOgmZAYi4w
+Moving staff to Chromebooks removes a great deal of attack surface. I'd love to hear more from companies that have done that.",原创,en,2,5,2,22,2022-01-27 16:29:51,2024-04-16 16:48:42,1486738230988869633,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1487492908030717952,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"When you think about the projects in your information security program, what % of them are business process re-engineering efforts that replace old processes and technologies (rather than attempting to secure existing ones as best you can)?",原创,en,1,0,0,3,2022-01-29 18:28:40,2024-04-16 16:48:43,1487492908030717952,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1486737325128175621,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Just a periodic reminder that phishing simulations against staff are weak _administrative_ controls (at best). You should replace them with strong _technical_ controls like FIDO security keys, ideally through a SSO system. 🔐🔑🎣",原创,en,9,34,13,227,2022-01-27 16:26:15,2024-04-16 16:48:43,1486737325128175621,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1486875455588241413,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"@EveningStarIT Keeping my fingers crossed that you can find a rollout program that works for them! If you find one that works, please publish the winning formula.",原创,en,0,0,0,0,2022-01-28 01:35:08,2024-04-16 16:48:43,1486875455588241413,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1486408715129352192,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"OMB released their zero trust memo today:
+https://t.co/bFxs4eVgve
+
+I encourage you to read it even if you don’t work with the US federal government. 
+
+Here are some segments that caught my eye. 🧵",原创,en,1,30,1,91,2022-01-26 18:40:28,2024-04-16 16:49:02,1486408715129352192,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1486741296014245892,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"https://t.co/IWeLrd1Yyt
+
+LOT #1 EXCLUSIVE NFT -- “HEY JUDE” NOTES
+
+CURRENT BID: $50,000 (5 bids)
+
+""An image of the notes, this NFT is a 1 of 1 Edition of the physical item and does not include the physical item.""",原创,en,0,0,0,0,2022-01-27 16:42:01,2024-04-16 16:49:02,1486741296014245892,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1486153713022504960,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Next week at @enigmaconf I’ll be hosting a fireside chat with @sheeraf, tech reporter for @nytimes, about her new book ""An Ugly Truth: Inside Facebook's Battle for Domination”. 
+
+What would you like me to ask her? 
+
+More info here https://t.co/4ceOfKUSfy #Enigma2022",原创,en,1,6,0,16,2022-01-26 01:47:11,2024-04-16 16:49:02,1486153713022504960,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1485714025581137920,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"I can't get Kindle Cloud Reader to search within a book on Chrome, except in Incognito mode. It hangs on ""Indexing..."" I've tried the normal steps to remedy and still no luck. I also see complaints in various forums.
+Anyone have a fix? 🤞",原创,en,1,0,0,0,2022-01-24 20:40:01,2024-04-16 16:49:17,1485714025581137920,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1481473045013295104,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,You’re traveling and are using the hotel’s free Wi-Fi. There’s an OS update for your phone. Do you download and install it?,原创,en,53,2,13,61,2022-01-13 03:47:53,2024-04-16 16:49:17,1481473045013295104,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1478815556115394560,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"🤔
+https://t.co/li1rvm5OWR
+“users and system administrators need to know about the patch and choose to set it up”
+“We have a fix, but nobody uses it. As a result, a lot of malware would be able to get into companies and personal computers using this method.”",原创,en,0,1,1,2,2022-01-05 19:47:58,2024-04-16 16:49:31,1478815556115394560,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1478413533092016128,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"For the record, a ? did not qualify as a ""symbol"". 
+We need an official spec that gets rid of this nonsense, with an emphasis on length rather than complexity, and a requirement that sites work well with password managers. I know I'm dreaming... https://t.co/nQHyqbEPZE",原创,en,4,2,0,21,2022-01-04 17:10:28,2024-04-16 16:49:47,1478413533092016128,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FIRgwkAVIAEL-V5.png'],
+https://twitter.com/7320972/status/1478408949112074243,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"@msager @hodgesmr We tend to give credibility to stories if they sound both clever and plausible. But those are exactly the sorts of stories we should investigate to see if they are true. 
+So many urban legends never get properly debunked.",原创,en,0,0,0,0,2022-01-04 16:52:15,2024-04-16 16:49:47,1478408949112074243,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1478122944488370177,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Just a gentle reminder that in 2020 the NY State Department of Financial Services repeatedly referred to the Twitter attackers as ""unsophisticated"" because they bypassed legacy MFA. Twitter had not yet implemented 100% FIDO authentication.
+
+https://t.co/X8zeOpOIxj",原创,en,1,2,0,6,2022-01-03 21:55:46,2024-04-16 16:49:47,1478122944488370177,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1477725963706241025,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Glad to see there best practices for removing malware from consumer products!
+https://t.co/aMemv0zOH6 
+cc @vmyths",原创,en,1,2,0,2,2022-01-02 19:38:19,2024-04-16 16:49:48,1477725963706241025,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1477091829103222786,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,Donie O’Sullivan is the hidden gem tonight! Give him another 3 minutes! #CNNNYE,原创,en,1,0,0,4,2022-01-01 01:38:29,2024-04-16 16:50:03,1477091829103222786,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1477087677639921665,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,Looking forward to seeing @donie’s segment tonight! He never disappoints! #CNNNYE,原创,en,1,0,0,2,2022-01-01 01:21:59,2024-04-16 16:50:03,1477087677639921665,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1477071105454006274,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,".@zackwhittaker gave me back some time
+
+""the county’s chief prosecutor’s office... has 'no cases' of juice-jacking on its books, though it said there are known cases on the east coast. When asked where those cases were, the spokesperson did not know."" 🧐
+
+https://t.co/Ol1c4AGM4q",原创,en,0,1,0,2,2022-01-01 00:16:08,2024-04-16 16:50:03,1477071105454006274,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1476627349382696963,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"May your new year be free from garmonbozia, and filled with damn fine coffee ☕️ and amazing cherry pie🥧",原创,en,2,0,0,3,2021-12-30 18:52:49,2024-04-16 16:50:03,1476627349382696963,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1474056717654642700,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Per a previous tweet, here is an example of the bad advice your family and friends are receiving this holiday season:
+https://t.co/xEKdo12WXn
+
+Let’s do some digging. 🧵",原创,en,1,13,5,39,2021-12-23 16:38:02,2024-04-16 16:50:17,1474056717654642700,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1473456480334589960,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"@daviddpd @jackhcable @USTreasury @C_C_Krebs All sites should actively test authentication with the top password managers. (Narrator: They don't) Some break password manager functionality inadvertently and a little testing would go a long way. 
+Sites that actively prevent good authentication practices? Sigh.",原创,en,0,0,0,3,2021-12-22 00:52:55,2024-04-16 16:50:17,1473456480334589960,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1473319688604053505,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"I was today years old when I learned I could search for photos on my phone by typing words like ""pizza"", ""tuxedo"", and ""dogs"". 🤯",原创,en,5,0,0,15,2021-12-21 15:49:21,2024-04-16 16:50:17,1473319688604053505,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1472279751926501376,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,@fugueish @dveditz Unsubscribe links without HTTPS are indeed a curious and vexing problem,原创,en,0,0,0,1,2021-12-18 18:57:01,2024-04-16 16:50:17,1472279751926501376,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1472245967185334272,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"https://t.co/giRcDnrWWV
+Why isn’t the default setting the most secure one?
+
+Firefox: “currently only available in Developer mode""
+Chrome: Just go to chrome://flags/#https-only-mode-setting
+Edge: “This is still considered an ‘experimental feature’”
+
+Have things improved?",原创,en,3,3,1,6,2021-12-18 16:42:46,2024-04-16 16:50:17,1472245967185334272,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1472163111951945729,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,@fugueish The browsers are not being aggressive enough in killing vulnerable traffic.,原创,en,0,0,0,1,2021-12-18 11:13:32,2024-04-16 16:50:35,1472163111951945729,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1471289943175565314,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"I hate to break it to you. Users are going to click on phishing links. Some will submit credentials. Training only helps a little. Email gateway filters don't always work.
+Cut the problem off at the source and migrate to FIDO authentication. It's time.
+
+https://t.co/lDL73tTF4z",原创,en,2,5,1,26,2021-12-16 01:23:52,2024-04-16 16:50:35,1471289943175565314,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1471514343204274182,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"It’s the holiday season, which means your families are going to be bombarded with some truly terrible security advice.🤮
+
+A 1-1 session to complete the (non-political) DNC Security checklist will make them _dramatically_ more secure.🔐♥️
+
+https://t.co/SDrXMoMdzQ",原创,en,0,0,0,5,2021-12-16 16:15:33,2024-04-16 16:50:35,1471514343204274182,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1470104294661959680,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"For those of you writing #log4j (or other) blog posts this weekend, I would humbly request that you use the active voice. The passive voice is evil. 🦹",原创,en,4,1,1,20,2021-12-12 18:52:31,2024-04-16 16:50:35,1470104294661959680,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1470144981780160514,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"A Chromebook has been my primary laptop for at least 5 years. 
+https://t.co/VpxFRGQYcb",原创,en,3,0,0,10,2021-12-12 21:34:12,2024-04-16 16:50:35,1470144981780160514,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1469736872259715075,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Brilliant video on the inner workings of the Enigma machine:
+https://t.co/GBPEiyOUMv",原创,en,0,2,1,8,2021-12-11 18:32:31,2024-04-16 16:50:52,1469736872259715075,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1468619796560236545,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"I’m making travel plans, and part of my itinerary will include using wi-fi in the airport, the airplane, and the hotel. And get this… I won’t use a personal VPN!
+#scandalous",原创,en,8,0,1,40,2021-12-08 16:33:39,2024-04-16 16:50:52,1468619796560236545,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1467941412691845123,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"https://t.co/KeJ2XzsjnW
+“The threat actor… issued multiple MFA requests to the end user’s legitimate device until the user accepted the authentication”
+
+Just your regular reminder that criminals can bypass legacy MFA. Get to FIDO security keys right away!
+🔑🔑🔑",原创,en,0,3,0,34,2021-12-06 19:38:00,2024-04-16 16:51:08,1467941412691845123,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1467910515313709056,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"For organizations that have _mandatory_ security training, what % of your _executives_ complete that training?",原创,en,0,1,1,4,2021-12-06 17:35:13,2024-04-16 16:51:08,1467910515313709056,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1467777667399184387,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"@skjpope @hacks4pancakes @KimZetter Why, in technical terms? I’d love to hear more about the attacks.",原创,en,1,0,0,4,2021-12-06 08:47:20,2024-04-16 16:51:09,1467777667399184387,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1466579694531141632,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"CISOs: Just a reminder to add ""Mandate FIDO security keys for all employee logins"" to your 2022 plans. 🔒🔑🔐",原创,en,3,15,2,64,2021-12-03 01:27:01,2024-04-16 16:51:09,1466579694531141632,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1466590219902193664,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"@NoUselessTech FIDO is the only widely available form of MFA that is phishing resistant. The point is to change the economics so the attackers cannot just phish for creds, but must use other tactics, like the ones you cite.",原创,en,0,0,0,0,2021-12-03 02:08:51,2024-04-16 16:51:09,1466590219902193664,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1466586821307994112,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"@NoUselessTech At the rate criminals are bypassing MFA, I would hope orgs can get most staff onto mandatory security keys in the next year (or sooner). It's going to be a rough year.",原创,en,0,0,0,0,2021-12-03 01:55:20,2024-04-16 16:51:25,1466586821307994112,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1466156557465362435,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Is it just me, or are browser warnings on pages that lack  HTTPS too easy to bypass (if there are even any warnings)?",原创,en,5,0,0,5,2021-12-01 21:25:37,2024-04-16 16:51:25,1466156557465362435,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1462523187657277441,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"""For the past month, I switched to Chrome OS, and was surprised by how easy the transition from Mac was.""
+(I wish reporters would also review high-end Chromebooks!)
+cc @nicnguyen 
+https://t.co/GT5v9d6hYF",原创,en,2,0,0,2,2021-11-21 20:47:54,2024-04-16 16:56:42,1462523187657277441,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1461569077638356994,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"To the person signing *me* up for a free commercial VPN service, you gave me a much needed LOL. 😆 😂 (No more please 🙏)",原创,en,0,0,0,13,2021-11-19 05:36:37,2024-04-16 16:56:42,1461569077638356994,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1458118174012940289,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"When hackers bypass legacy 2FA to compromise a company, what changes does it make in response? The best response is to replace legacy 2FA with FIDO security keys.
+
+Modest suggestion: Don't wait for a compromise to roll out FIDO security keys. Do it now.",原创,en,1,7,0,18,2021-11-09 17:03:57,2024-04-16 16:56:42,1458118174012940289,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1453420613079486466,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Enjoying the CISA Summit where I learned @C_C_Krebs makes pizza every week. Hoping he shares some recipes, tips, and photos...
+🍕",原创,en,2,0,0,9,2021-10-27 17:57:32,2024-04-16 16:56:42,1453420613079486466,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1453413316009676800,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"If you work in infosec please read this entire Twitter blog post.
+https://t.co/pBb08lvKgL
+
+Punchline: ""In the end, we successfully migrated 100% of employee accounts from legacy 2FA methods to mandatory security key usage in under three months.""
+
+Key words: Legacy, Mandatory",原创,en,3,37,1,85,2021-10-27 17:28:32,2024-04-16 16:56:42,1453413316009676800,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1452751292049199104,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,I’m using a free USB charging port at the airport. Is that ok?,原创,en,16,0,0,15,2021-10-25 21:37:53,2024-04-16 16:56:56,1452751292049199104,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1452053732401696777,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,https://t.co/mjJZhPMJfv,原创,zxx,4,0,0,9,2021-10-23 23:26:02,2024-04-16 16:56:56,1452053732401696777,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FCa7KLzUUAAIDPy.jpg'],
+https://twitter.com/7320972/status/1451621741285949440,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Heading up on Highway 2 from Lewis Fork to the town of Twin Peaks. Looking forward to a damned fine cup of coffee and a slice of that amazing cherry pie for lunch. 
+Cc @Twedes_Cafe",原创,en,0,1,0,19,2021-10-22 18:49:27,2024-04-16 16:56:56,1451621741285949440,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1450886257555296261,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Reporters: When an org claims it takes security matters seriously/invests heavily in security, ask them what percentage of staff log in to their systems using FIDO security keys. 
+
+Any answer other than a percentage is evidence that they have not yet prioritized security.",原创,en,1,3,0,11,2021-10-20 18:06:54,2024-04-16 16:56:56,1450886257555296261,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1450855702537248772,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Great presentation by @christiaanbrand at @AuthenticateCon. 
+Spoiler alert: _every_ org should be deploying FIDO security keys. https://t.co/ldqVdnG4zc",原创,en,0,6,1,13,2021-10-20 16:05:29,2024-04-16 16:56:56,1450855702537248772,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FCJ5kX8UUAMzqqf.jpg'],
+https://twitter.com/7320972/status/1450248796265332741,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,Just heard a speaker at @AuthenticateCon mention “legacy 2FA”. My plan to spread that mental model is working! https://t.co/ULfkkjNuam,原创,en,3,2,0,27,2021-10-18 23:53:52,2024-04-16 16:56:56,1450248796265332741,7320972,boblord,0,[],,['https://pbs.twimg.com/media/FCBRl5fUYAMYBYw.jpg'],
+https://twitter.com/7320972/status/1446208544940838913,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,Companies need to take ownership of their customers' security outcomes.,原创,en,0,7,2,26,2021-10-07 20:19:21,2024-04-16 16:57:10,1446208544940838913,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1444358680221085697,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"In case you are wondering why I'm obsessed with deploying FIDO security keys, here's the summary:
+1 Many attacks start with phishing
+2 No matter how much training we get, we are *all* going to fall for a phishing attack
+3 When we do what the attacker says, FIDO thwarts the attack",原创,en,5,68,6,240,2021-10-02 17:48:38,2024-04-16 16:57:11,1444358680221085697,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1443617130180591618,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"""...the rate at which Yahoo employees’ credentials were captured in phishing simulations had been cut in half. The number of accurately reported phishing attempts had doubled. And most importantly, the usage of the company’s corporate password manager... had tripled.""
+🤯",原创,en,1,2,1,15,2021-09-30 16:41:59,2024-04-16 16:57:11,1443617130180591618,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1443608153204027394,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"In case I forgot to mention it here before, there are two types of MFA: (1) FIDO security keys, and (2) Legacy MFA that you need to replace with FIDO security keys.
+
+At some point in time, not of your choosing, that may become very clear to your org.",原创,en,1,6,0,21,2021-09-30 16:06:19,2024-04-16 16:57:11,1443608153204027394,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1442960462119723008,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,Why didn't personal teleprompters become common for video meetings over the past year?,原创,en,2,1,0,8,2021-09-28 21:12:37,2024-04-16 16:57:11,1442960462119723008,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1442248732473315331,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"That feeling when the Peloton instructor admits to using his dog's name in all his passwords.
+
+#CyberDont
+#CybersecurityAwarenessMonth
+#UseAPassphrase
+#UseMFA",原创,en,1,0,1,14,2021-09-26 22:04:28,2024-04-16 16:57:11,1442248732473315331,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1440793433719730190,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,It would be nice if every online service had a page at https://t.co/NRZW8xYeHn that would walk non-technical people through the process of enrolling.,原创,en,0,4,0,10,2021-09-22 21:41:37,2024-04-16 16:57:24,1440793433719730190,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1438198720143626240,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Still thinking about this report from @maddiestone
+https://t.co/wpJiJQC26j",原创,en,0,3,0,10,2021-09-15 17:51:09,2024-04-16 16:57:24,1438198720143626240,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1435386168351154178,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"""...hacking attempts on schools and universities were common, given that many did not have the means to install sophisticated security measures""
+
+If you have to pay for sophisticated security, the products are not secure. Let's stop blaming the victims.
+
+https://t.co/8QKhYTiZjI",原创,en,3,8,0,19,2021-09-07 23:35:05,2024-04-16 16:57:24,1435386168351154178,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1433866747799502848,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"We should be talking more about the SSO tax, the extra price vendors charge orgs that want to manage their user accounts properly. 
+
+Security should not be priced as a luxury good.
+
+https://t.co/UqJ9qJSTHq",原创,en,3,13,3,27,2021-09-03 18:57:27,2024-04-16 16:57:24,1433866747799502848,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1433113264053907457,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Working theory: 2FA adoption is so low because there are too few _mainstream_ reinforcing reference points. Here's one of the few I can find. 
+
+Hollywood: Please help! https://t.co/PWj0HSnHOP",原创,en,3,7,1,25,2021-09-01 17:03:22,2024-04-16 16:57:25,1433113264053907457,7320972,boblord,0,[],,"['https://pbs.twimg.com/media/E-Nwr4iVkAEs7pG.jpg', 'https://pbs.twimg.com/media/E-Nwr4XVUAQoCr1.jpg', 'https://pbs.twimg.com/media/E-Nwr5fVIAUrNhd.jpg', 'https://pbs.twimg.com/media/E-Nwr8qVQAUTWT1.jpg']",
+https://twitter.com/7320972/status/1430278313881178119,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"""...empirical evidence suggests a warning in the technical documentation is not sufficient to avoid the serious consequences of misconfiguring (services)""
+
+Vendors, please ship products that are secure by design, not by documentation.
+
+https://t.co/TYebZd4AKG",原创,en,0,0,0,8,2021-08-24 21:18:17,2024-04-16 16:57:38,1430278313881178119,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1428878727925035011,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Here's another example of poor password advice. Instead of focusing on length, this popular mail service allows 8 character passwords, and makes everyone's life difficult by requesting upper/lower/num/symbols.
+And don't use words!
+
+2010 called. They want their pw advice back. https://t.co/4lsOBG3bx2",原创,en,3,3,0,12,2021-08-21 00:36:50,2024-04-16 16:57:38,1428878727925035011,7320972,boblord,0,[],,['https://pbs.twimg.com/media/E9RkUteVUAE_0S4.jpg'],
+https://twitter.com/7320972/status/1428763415653142529,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Hi @auth0! It looks like customers who want FIDO security key support need to (a) buy the Enterprise security tier, and then (b) pay for the ""Enterprise MFA"" add-on. Is that right?
+
+What is the reason to not enable FIDO security keys for all users/tiers?",原创,en,2,0,1,12,2021-08-20 16:58:38,2024-04-16 16:57:38,1428763415653142529,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1428476917343088652,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"If you advise users to use MFA to prevent phishing, be sure to mention FIDO security keys, the only widely available MFA that is phishing resistant.
+
+There are two types of MFA: (a) FIDO security keys, and (b) legacy MFA that you need to replace (meaning everything else).",原创,en,2,7,0,29,2021-08-19 22:00:11,2024-04-16 16:57:38,1428476917343088652,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1426954004026650628,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"To whom it may concern,
+
+Thank you for sending a DM with an unsolicited link to an unknown document. While I appreciate the gesture, my schedule may not allow for me to give it the attention (analysis) it deserves. 
+
+Best regards,
+Bob",原创,en,0,0,0,18,2021-08-15 17:08:40,2024-04-16 16:57:38,1426954004026650628,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1426947961641000961,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"Have you been putting off your migration to FIDO security keys? Good news! Google has a new model for you. Don't delay! 
+
+https://t.co/FyKBiFtrdJ",原创,en,0,0,1,10,2021-08-15 16:44:40,2024-04-16 16:57:38,1426947961641000961,7320972,boblord,0,[],,,
+https://twitter.com/7320972/status/1425873817583325185,https://twitter.com/boblord,https://pbs.twimg.com/profile_images/1646182727568457728/OMNt9Jjc_normal.jpg,,,Bob Lord,"If you’re in the Democratic ecosystem, you almost certainly have heard about the DNC Security Checklist. But you may not know why we organized it the way we did. 
+A thread 🧵 ... 
+https://t.co/k6sD5ckEA9",原创,en,12,58,29,195,2021-08-12 17:36:24,2024-04-16 16:57:38,1425873817583325185,7320972,boblord,0,[],,,

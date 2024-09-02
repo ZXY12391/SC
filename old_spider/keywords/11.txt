@@ -1,0 +1,72 @@
+bug	
+bugs	
+flaw	
+flaws	
+vulnerabilities	
+vulnerable	 
+vuln	
+vulns	
+zero-day-exploit	
+ransomware	
+ransomwares	
+botnet	
+botnets	
+trojan	
+trojans	
+adware	
+adwares	
+keylogger	
+rootkit	
+spyware	
+spywares	
+surveillanceware	
+keyloggers	
+toolkit	
+potentially unwanted program	
+bootkit	
+bootkits	
+rootkits	
+dos	
+denial of service	
+denial-of-service	
+distributed denial of service	
+distributed-denial-of-service	
+dataleak	
+infoleak	
+data leak	
+info leak	
+data es	
+exploit	exploit
+ek	exploit
+exploit-kit	
+exploits	
+exploitkit	
+exploit_kit	
+infoleaks	
+dataleaks	
+data-	
+information stolen	
+password stolen	
+keystroke logger	
+keystroke loggers	
+c&c	
+c2	
+command and control	
+ransom	
+exploiting	exploit
+exploited	exploit
+exploitkits	exploit
+vul	
+0day	
+zero day	
+0-day	
+zero-day	
+vulne	
+vulnerab	
+vulnerabl	
+information leakage	
+malspam	
+exploitation	exploit
+distributed dos	
+distributed denial-of-service	
+drdos	

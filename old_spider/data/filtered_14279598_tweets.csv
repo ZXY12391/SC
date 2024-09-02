@@ -1,0 +1,273 @@
+tweet_url,author_url,avatar_url,avatar_binary,topic,author_name,content,tweet_type,tweet_language,comment_count,retweet_count,quote_count,praise_count,publish_time,fetch_time,tweet_id,screen_id,screen_name,tourist_crawl_status,video_urls,original_author,tweet_img_url,tweet_img_binary
+https://twitter.com/14279598/status/1778221543123763328,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"Yes! Multi-party approvals for sensitive administrative actions!
+
+https://t.co/uTDNNnAYaK",原创,en,0,1,0,5,2024-04-11 00:40:28,2024-04-13 08:28:18,1778221543123763328,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1776624649280893377,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"AI-generated news is going well...
+
+https://t.co/3kQPIDKZd4",原创,en,1,4,0,2,2024-04-06 14:54:59,2024-04-13 08:28:35,1776624649280893377,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1776254906036261169,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,That was just an #earthquake in Brooklyn!,原创,en,7,0,0,10,2024-04-05 14:25:45,2024-04-13 08:28:48,1776254906036261169,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1776242294040965503,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"If you don't understand someone's perspective on something, strive to understand their feedback loop first. An incorrect feedback loop will almost always generate incorrect perspectives.",原创,en,0,2,0,13,2024-04-05 13:35:38,2024-04-13 08:28:48,1776242294040965503,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1775158842403275089,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"Some great posts on the xz/lzma thing from @_rsc:
+
+Timeline: https://t.co/P3FaXf1DGj
+
+Walkthrough of attack shell script: https://t.co/2iardcy7Sw",原创,en,0,9,0,20,2024-04-02 13:50:23,2024-04-13 08:29:05,1775158842403275089,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1775138354092290529,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,It’s fascinating to see the stark differences between top-down and influence-based leadership styles reveal themselves in various responses to the xz backdoor and security of the open-source ecosystem.,原创,en,2,0,0,12,2024-04-02 12:28:58,2024-04-13 08:29:05,1775138354092290529,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1773770209687392469,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"😱 https://t.co/JGAQzthXzF
+
+That’s a pretty clever backdoor and a subtle path from xz to sshd…
+
+The commits were authorized commits into the authentic upstream repo, so it’s an example of a good repo gone bad. Pretty scary.
+
+Pragmatic defense advice: *minimal* version selection.",原创,en,3,38,4,115,2024-03-29 17:52:27,2024-04-13 08:29:39,1773770209687392469,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1773837037893828749,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"Glad to read that @nixos_org unstable, though containing the backdoored xz, should not be affected because the build does not produce a deb or RPM package.
+
+https://t.co/4q1C85CrQl https://t.co/KautHhiv06",原创,en,0,3,0,15,2024-03-29 22:18:00,2024-04-13 08:29:39,1773837037893828749,14279598,dinodaizovi,0,[],,['https://pbs.twimg.com/media/GJ3vYanWQAETWPk.jpg'],
+https://twitter.com/14279598/status/1773187025719410803,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"This is awesome, you can run NeXTSTEP in your web browser, including old versions like 0.8!
+
+https://t.co/zFsjhX3YZv",原创,en,3,8,2,25,2024-03-28 03:15:05,2024-04-13 08:29:56,1773187025719410803,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1770968775791108495,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"I wish my grandpa was alive and well enough to attend this. It’s still good to see the recognition of an amazing unit:
+
+https://t.co/dAfhY4djeV",原创,en,3,5,0,34,2024-03-22 00:20:33,2024-04-13 08:30:13,1770968775791108495,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1771194100068372695,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"There is Secret, Top Secret, TS-SCI, and then being directly told by a future president that “If you tell anyone, I’ll see that you hang.” https://t.co/WlFoxK1KF0",原创,en,3,2,1,32,2024-03-22 15:15:55,2024-04-13 08:30:13,1771194100068372695,14279598,dinodaizovi,0,[],,['https://pbs.twimg.com/media/GJSLpWlXIAAelSx.jpg'],
+https://twitter.com/14279598/status/1770885268276425065,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"I feel like everyone forgets that hardware-backed identity is good and you really, really want it for Zero Trust.
+
+https://t.co/hVvHu2DmE0 https://t.co/8NMrJzBuUH",原创,en,2,2,0,11,2024-03-21 18:48:44,2024-04-13 08:30:13,1770885268276425065,14279598,dinodaizovi,0,[],,['https://pbs.twimg.com/media/GJNymKOWgAA9sKf.png'],
+https://twitter.com/14279598/status/1770090849977651331,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"Once you realize that real world cyber attack paths are 99% abusing authorized/trusted relationships and 1% exploiting vulnerabilities, your security strategies and priorities change. If they don't, you may be confusing easy to measure motion for the harder to measure progress.",原创,en,8,45,3,201,2024-03-19 14:11:59,2024-04-13 08:30:31,1770090849977651331,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1769361632965079220,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"The most critical risk to society in cybersecurity is the floor, not the ceiling. Good cybersecurity is too expensive, so the largest tech companies can succeed, but your hospitals, food distribution networks, and power plants generally cannot. That's the problem to be solved.",原创,en,16,116,11,376,2024-03-17 13:54:21,2024-04-13 08:30:31,1769361632965079220,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1768652822503968952,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"This is an interesting idea, immutable deployments of infrastructure in the cloud:
+
+https://t.co/Tz8fgvfbnf",原创,en,1,1,0,4,2024-03-15 14:57:47,2024-04-13 08:30:48,1768652822503968952,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1767625079905460339,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"I love to see it, @warpstream_labs has a bring-your-own-cloud architecture where data stays in the customer's production environment, with only metadata in the control plane in their production environment:
+
+https://t.co/XEaKHv1joU
+
+Very friendly design for regulated industries.",原创,en,1,2,0,13,2024-03-12 18:53:54,2024-04-13 08:31:05,1767625079905460339,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1766999336355840216,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,Counting 3 #Oscars nominees I've seen around my neighborhood so far...,原创,en,1,0,0,1,2024-03-11 01:27:25,2024-04-13 08:31:18,1766999336355840216,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1765759389560959325,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"You may be familiar with the ""5 whys"" when doing a root cause analysis. I've found that the inverse of that also works well for evaluating new designs, proposals, changes, etc. I call them the 5 ""and then whats"" and it works by asking, ""and then what will happen?"" 5 times.",原创,en,1,1,0,7,2024-03-07 15:20:19,2024-04-13 08:31:36,1765759389560959325,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1765523923490181429,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"Anything that a malicious insider can do, malware and/or stolen credentials can *also* do. Both of these are problems of excessive capability of what credentials can do unilaterally.
+
+I recommend applying separation of duties and required quorums to both:
+
+https://t.co/rY2mOliSrx",原创,en,0,0,0,5,2024-03-06 23:44:39,2024-04-13 08:31:36,1765523923490181429,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1764808134525165852,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"In my experience, the greatest challenges to improving security in software engineering are not purely technical. You need to understand how *your org* develops software and then how to integrate improvements into that. Copy-pasta approaches from other places unlikely to work.",原创,en,4,9,2,75,2024-03-05 00:20:22,2024-04-13 08:31:49,1764808134525165852,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1765042248507379865,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"The second biggest reason why cybersecurity is hard is that problems can be identified from afar and without context, but effective solutions can only be implemented from close to the source and with rich context.
+
+Google and Microsoft’s security researchers can find plenty of…",原创,en,2,4,0,26,2024-03-05 15:50:39,2024-04-13 08:31:49,1765042248507379865,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1764833715765535042,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"Periodic reminder that Prince was one of the greatest guitarists to have ever lived and is rarely thought of as one:
+
+https://t.co/6KWIE2mxcV",原创,en,1,0,0,6,2024-03-05 02:02:01,2024-04-13 08:31:49,1764833715765535042,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1764472128676467014,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"Those who don’t know OSF DCE are doomed to rebuild it:
+
+https://t.co/ifixKZebvX
+
+https://t.co/mK6vpHYgcy",原创,en,1,0,0,7,2024-03-04 02:05:12,2024-04-13 08:32:02,1764472128676467014,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1764459537229140101,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"👀 Infrastructure-as-a-Service (e.g. cloud computing) to be required to perform KYC/CIP?
+
+https://t.co/m9yewfwhiR",原创,en,0,0,0,1,2024-03-04 01:15:10,2024-04-13 08:32:02,1764459537229140101,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1764341171717812671,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,Many talk about signed git commits but without also talking about using signed git tags as mutable cursors on that immutable git history. You want both but I'd argue that you want to implement the signed git tags first.,原创,en,2,1,0,12,2024-03-03 17:24:49,2024-04-13 08:32:02,1764341171717812671,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1764392871820513752,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"It’s not clear to me that open-source *software* and “open-source” AI models are similar enough things to use the same term. The massive amounts of data and compute required to train them does not mean I can modify and rebuild, like I can with OSS. More like self-hosted vs. SaaS.",原创,en,1,0,0,7,2024-03-03 20:50:16,2024-04-13 08:32:02,1764392871820513752,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1764025023604343197,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"In other words: find the invariants first and design for future flexibility and insulating downstream systems from those future changes 
+
+https://t.co/UmmIcJPJFi https://t.co/J7N2HIMCt5",原创,en,1,1,0,5,2024-03-02 20:28:34,2024-04-13 08:32:19,1764025023604343197,14279598,dinodaizovi,0,[],,['https://pbs.twimg.com/media/GHsTaLlWsAAp2jY.jpg'],
+https://twitter.com/14279598/status/1763232645796773934,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"It’s not always clear how your org charts affect your company’s security posture, but here is an example. If your outcome-oriented teams don’t work through platform teams, you’ll get a proliferation of highly privileged systems and accounts for all of their purposes in your envs.",原创,en,1,2,0,7,2024-02-29 15:59:56,2024-04-13 08:32:34,1763232645796773934,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1763201778437292496,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"You only get to the root causes of problems to solve if you do 5 why's enough on problems or the 5 and then what's on solutions. Too often, we get trapped in Sisyphus-like efforts against surface-level symptoms and never make progress because we aren't going for the root causes.",原创,en,1,0,0,2,2024-02-29 13:57:17,2024-04-13 08:32:35,1763201778437292496,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1762887223983165788,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"True to form, I sold some volatile financial assets years ago when I should have been buying and accumulating more since then…",原创,en,1,0,0,3,2024-02-28 17:07:21,2024-04-13 08:32:35,1762887223983165788,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1762326314470555922,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"It’s great that memory safety is getting all of this attention now, but I still like the term “memory trespass” that I tried to coin as an undergrad:
+
+https://t.co/Cn6pe3XWGf",原创,en,1,2,0,6,2024-02-27 03:58:30,2024-04-13 08:32:51,1762326314470555922,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1761069192537641450,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,The number one reason why good security is hard is that the feedback loop on decisions is long and the signal is low fidelity. It's not clear how many incidents were prevented or mitigated from which foundational decisions years prior. This wrecks the incentives to be proactive.,原创,en,5,14,1,38,2024-02-23 16:43:09,2024-04-13 08:32:51,1761069192537641450,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1761415997653708859,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"“Institutions will try to preserve the problem to which they are the solution.” — Clay Shirky
+
+There is a bias in cybersecurity to not solve the underlying problems that create the need for cybersecurity because we provide value by putting out the fires.
+
+https://t.co/THu7KNeGuS",原创,en,3,11,6,55,2024-02-24 15:41:14,2024-04-13 08:33:09,1761415997653708859,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1761185051054657569,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"Throwback to when the head of the pre-eminent APT in the world (@NSA_CSDirector) told everyone how to make their job harder: https://t.co/rb9y3pp6NF
+
+Not surprisingly, he started with the “bread and butter” of cyber defense: limiting privileges and increasing segmentation.",原创,en,0,10,0,28,2024-02-24 00:23:32,2024-04-13 08:33:09,1761185051054657569,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1760829252289651043,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"I read it, now I can't get the title out of my head:
+
+""Nobody Ever Gets Credit for Fixing Problems that Never Happened: Creating and Sustaining Process Improvement""
+
+https://t.co/T1de70BMVu",原创,en,0,12,1,40,2024-02-23 00:49:43,2024-04-13 08:33:09,1760829252289651043,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1759234981476327782,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,“There is nothing a mere scientist can say that will stand against the flood of a hundred million dollars. But there is one quality that cannot be purchased in this way — and that is reliability. The price of reliability is the pursuit of the utmost simplicity. It is a price…,原创,en,0,2,0,4,2024-02-18 15:14:39,2024-04-13 08:33:39,1759234981476327782,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1757783949592400199,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"... because it came up in my vanity Google Alert, throwback to my 2010 REcon presentation on Mac OS X Return-Oriented Exploitation:
+
+https://t.co/ihL0QzgfaA",原创,en,3,1,0,1,2024-02-14 15:08:46,2024-04-13 08:33:58,1757783949592400199,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1757576104657731911,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,Deploy commodity defenses and only defend against commodity attackers.,原创,en,2,2,1,11,2024-02-14 01:22:52,2024-04-13 08:33:58,1757576104657731911,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1757469361923625368,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"I finally now understand what Dan Geer means when he says that he is a cybernetician. I have been seeing managing security inside and outside an org through human and software feedback loops for years, but today I learned the name for it.
+
+https://t.co/JKbm1X4frp",原创,en,0,0,0,6,2024-02-13 18:18:42,2024-04-13 08:33:59,1757469361923625368,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1756704524192903294,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"Why is my iPhone UI so much more responsive for a while right after applying an iOS update? 
+
+Looking for benign explanations :).",原创,en,8,0,0,4,2024-02-11 15:39:31,2024-04-13 08:34:13,1756704524192903294,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1754522526825189779,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"It's surprising to me that we haven't figured out the equivalent of building codes for modern networks yet. People rarely know what infra is load bearing, how many credentials can unilaterally obtain privileged access to everything, etc. And we wonder why ransomware is a thing.",原创,en,1,3,0,12,2024-02-05 15:09:02,2024-04-13 08:34:28,1754522526825189779,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1753182363712925996,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,I remember loving finding VPN appliances when I was doing network penetration tests in the early 2000's because they were linux boxes running badly written web apps that yielded massive privileges. That doesn't seem to have changed one iota...,原创,en,2,14,3,76,2024-02-01 22:23:42,2024-04-13 08:34:28,1753182363712925996,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1748455360690630717,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"It's surprising to me that it's taken me this long to come across the term ""sociotechnical system"" when it so accurately describes how organizations' attempts at both software and/or security can either succeed or fail:
+
+https://t.co/kurBfvzjIP",原创,en,3,2,0,10,2024-01-19 21:20:17,2024-04-13 08:35:00,1748455360690630717,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1747313772371247477,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"I try to read every sentence about security in production by replacing the word ""security"" with ""performance"" or ""availability"" and seeing if the sentence still makes sense.
+
+I know we wish that we could magically solve security with zero context, but that's just not the case.",原创,en,1,2,0,11,2024-01-16 17:44:01,2024-04-13 08:35:15,1747313772371247477,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1746577367881965857,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"Serious question: has anyone tried applying cell-based architecture patterns to large AD domains? In particular, put clients into fixed-size self-sufficient cells so that a failure or compromise of one is contained to it.",原创,en,2,1,0,3,2024-01-14 16:57:48,2024-04-13 08:35:15,1746577367881965857,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1745471959624741105,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"re: coding and cybersecurity, both knowing how to code and actively using those skills served me very well back when I was doing penetration testing. YMMV.
+
+When I transitioned to engineering tech lead, manager, and then director, that understanding remained absolutely critical.",原创,en,1,1,1,10,2024-01-11 15:45:19,2024-04-13 08:35:32,1745471959624741105,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1740747714835411105,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"This post on IDEs from 30 years ago brought back some nice memories of using Turbo C++ for me:
+
+https://t.co/rDm8IxdYhC
+
+It also made me realize how I went from using that to recreating it in Emacs for my first programming internship in high school...",原创,en,0,0,0,1,2023-12-29 14:52:51,2024-04-13 08:41:15,1740747714835411105,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1739738428177019284,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,lol @ @grok roasting me (cc: @0xcharlie) https://t.co/UKak3H22qe,原创,en,0,1,1,7,2023-12-26 20:02:18,2024-04-13 08:41:15,1739738428177019284,14279598,dinodaizovi,0,[],,['https://pbs.twimg.com/media/GCTK19NWYAA-h9A.png'],
+https://twitter.com/14279598/status/1737102234159071259,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"The right way to read a design (code, academic paper, design doc) is not to memorize every fact about it, but instead to learn why each decision in it was made the way that it was.",原创,en,2,3,0,10,2023-12-19 13:27:01,2024-04-13 08:41:31,1737102234159071259,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1736412274540040266,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"TIL that how I pronounce `fsck` (""f-suck"") is apparently a regional thing (New Mexico)...
+
+https://t.co/050TjEP7Z1 https://t.co/HLbT33sDlM",原创,en,1,2,0,5,2023-12-17 15:45:21,2024-04-13 08:41:31,1736412274540040266,14279598,dinodaizovi,0,[],,['https://pbs.twimg.com/media/GBj5nG5XUAAmjyA.png'],
+https://twitter.com/14279598/status/1736037869146325432,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"Great post by @farnamstreet on Chesterton's Fence:
+
+https://t.co/iM3mAFRQTM
+
+""Unless we know why someone made a decision, we can’t safely change it or conclude that they were wrong.""",原创,en,1,0,1,5,2023-12-16 14:57:36,2024-04-13 08:41:31,1736037869146325432,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1736034930667176131,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"PSA: Enabling both iMessage Key Verification *and* Lockdown Mode on iOS 17.2 disables the top row of action buttons in the Contacts app (message, call, video, mail, pay). Perhaps these are disabled unless a contact is verified (which is pretty much everyone right now)?",原创,en,1,0,0,2,2023-12-16 14:45:56,2024-04-13 08:41:43,1736034930667176131,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1735717599130861930,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"My iMessage Public Verification Code:
+
+APKTIDVi42PF2LfmR0xf_RTXHpctjtXhEFn61tkp0VvekGjyJniA",原创,da,0,0,0,0,2023-12-15 17:44:58,2024-04-13 08:41:44,1735717599130861930,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1734996066674569329,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,That mobile apps on devices need to actively register for push notifications and that developers' back-end infrastructure receives unique tokens per device is an architecture well suited for an upgrade to end-end-encryption that removes Apple + Google from observing plaintext.,原创,en,3,7,0,25,2023-12-13 17:57:51,2024-04-13 08:41:44,1734996066674569329,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1733609451842633791,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"I couldn't rest until I figured out why the firewall rules configured in the console weren't doing what I expected, even after I shelled in and examined the resulting generated iptables rules. I added logging rules, which didn't receive any packets, etc.
+
+TIL about *ebtables*...",原创,en,1,0,0,9,2023-12-09 22:07:56,2024-04-13 08:42:00,1733609451842633791,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1733518374259364184,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"""But when it comes to security, centralized data repositories disproportionately favor attackers. The one-time breach of a company or service lets criminals steal the personal data for many—or all—of its users at once.""
+
+https://t.co/x1sQA09l1j",原创,en,1,0,0,1,2023-12-09 16:06:02,2024-04-13 08:42:00,1733518374259364184,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1732791033090527409,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"If you relied on trying to train your employees to spot phishing e-mails visually, then yes, AI will make these kinds of attacks worse for you. If you did the right thing and strengthened your internal authn/z, you'll be fine. Humans could always write the ""perfect phish"" anyway.",原创,en,1,1,0,15,2023-12-07 15:55:50,2024-04-13 08:42:01,1732791033090527409,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1719518550996488305,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"This reminds me that bogus cybersecurity threats will probably also never go away...
+
+https://t.co/NgNpbyG2Hq",原创,en,2,1,0,1,2023-11-01 00:55:44,2024-04-13 08:43:17,1719518550996488305,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1718719514081104060,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"This is super neat, NixOS' minimal installation ISO has been independently rebuilt: 
+
+https://t.co/KI94HYbYL6
+
+This makes it a solid starting point for any custom reproducible LiveCDs if you need to prevent/detect build tampering.",原创,en,0,7,0,11,2023-10-29 20:00:39,2024-04-13 08:43:18,1718719514081104060,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1704485726983790757,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"There really is some very impressive security engineering happening at @mullvadnet:
+
+https://t.co/DneHYVhPpU
+
+@st_transparency is truly awesome:
+
+https://t.co/DdRZSSKbtU",原创,en,1,12,2,16,2023-09-20 13:20:39,2024-04-13 08:44:04,1704485726983790757,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1702003992908153081,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"A tutorial on what has been called hyper-jacking (installing a hypervisor and virtualizing a running OS):
+
+https://t.co/xRFTfhs0CZ",原创,en,0,1,0,13,2023-09-13 16:59:08,2024-04-13 08:44:04,1702003992908153081,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1701599680646504614,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"Free online training from @CISAgov and @insitusec on hardware virtualization w/ VT-x. Love seeing that my Vitriol hypervisor rootkit research is mentioned and included in this!
+
+https://t.co/aw8KHph3t0",原创,en,1,10,2,36,2023-09-12 14:12:32,2024-04-13 08:44:19,1701599680646504614,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1699608062091235746,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"Proud to not have owned one in over 20 years:
+
+https://t.co/8RkDriMabB",原创,en,0,0,0,4,2023-09-07 02:18:33,2024-04-13 08:44:19,1699608062091235746,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1697991162517168175,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"This is f'n gnarly: https://t.co/kurKuwRB3W
+
+Combined with specifying the go toolchain version, this makes fully reproducible builds for projects in Go pretty easy: https://t.co/dUfCWkL70N
+
+Why reproducible builds matter for supply chain security: https://t.co/iMYrUFpB0R",原创,en,1,19,1,44,2023-09-02 15:13:34,2024-04-13 08:44:37,1697991162517168175,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1694755947489448024,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"“The attackers succeeded in encrypting all servers’ disks, as well as on the primary and secondary backup system, whereby all machines crashed and we lost access to all data.”
+
+Is this the first ransomware incident hitting production servers and backups?
+
+https://t.co/aS6zIPiTyI",原创,en,4,8,2,13,2023-08-24 16:57:59,2024-04-13 08:44:50,1694755947489448024,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1686923772136128512,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"If you aren't pinning nixpkgs, you are pwned.",原创,en,0,0,0,4,2023-08-03 02:15:43,2024-04-13 08:45:26,1686923772136128512,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1681868810905612289,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,My favorite birthday gift to myself remains some nice headphones and a DAC so that I can listen to @TIDAL in full-on MQA glory.,原创,en,0,0,0,0,2023-07-20 03:29:06,2024-04-13 08:45:40,1681868810905612289,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1680226678176399362,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"Where @dotMudge makes an important point at @SummerC0n: real data on ATOs shows that SMS 2FA is fine for the vast majority of users. It prevented 100% of 3.3B automated password stuffing attacks, 96% of 12M bulk phishing, and even 76% of &lt;10k targeted attacks seen over last year. https://t.co/6zLSDN5gy8",原创,en,18,131,20,342,2023-07-15 14:43:51,2024-04-13 08:45:40,1680226678176399362,14279598,dinodaizovi,0,[],,['https://pbs.twimg.com/media/F1FcX5aXgAERuYb.jpg'],
+https://twitter.com/14279598/status/1674105037394411528,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,Learning about plumbing today. Life comes at you fast.,原创,en,0,0,0,5,2023-06-28 17:18:38,2024-04-13 08:46:26,1674105037394411528,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1665544883854082050,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,Someone asked me last week what I thought of the Heat and the Nuggets. I responded that I didn't like my nuggets cold.,原创,en,2,0,0,9,2023-06-05 02:23:39,2024-04-13 08:46:40,1665544883854082050,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1661719735216623617,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"I remember when general public had no idea about hacking and cybersecurity, but now I hear discussions about ""living off the land"" on the news and business people know and use the term ""threat actor.""
+
+I wish general public knew more about steps to protect themselves than APTs.",原创,en,2,2,0,16,2023-05-25 13:03:52,2024-04-13 08:46:40,1661719735216623617,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1661415722013032451,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,https://t.co/bAIXfA7yrL,原创,zxx,0,0,0,2,2023-05-24 16:55:50,2024-04-13 08:46:40,1661415722013032451,14279598,dinodaizovi,0,['https://video.twimg.com/tweet_video/Fw6Iyo4WAAM3aBo.mp4'],,['https://pbs.twimg.com/tweet_video_thumb/Fw6Iyo4WAAM3aBo.jpg'],
+https://twitter.com/14279598/status/1652686746340020224,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"There are already some folks exploring Twitter's E2EE DMs design through reverse engineering and it's a lot simpler than protocols like Signal's, etc.
+
+Yes, I know ""false sense of security"" and all, but it's a net improvement over centralized storage of plaintext/decryptable DMs.",原创,en,0,3,1,8,2023-04-30 14:50:00,2024-04-13 08:47:14,1652686746340020224,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1651584555197841417,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"I'm really starting to suspect that it is now the beginning of the end of the social media era.
+
+One can only hope...",原创,en,3,0,0,14,2023-04-27 13:50:17,2024-04-13 08:47:34,1651584555197841417,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1651239970923769860,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"I haven't been this excited about an unboxing in *years*... https://t.co/cmhD3QIR1Q
+
+Kudos to @max_guise and the entire wallet team! https://t.co/IwZLTSkWkX",原创,en,2,1,0,9,2023-04-26 15:01:02,2024-04-13 08:47:34,1651239970923769860,14279598,dinodaizovi,0,[],,['https://pbs.twimg.com/media/FuphAthWwAEV7K6.jpg'],
+https://twitter.com/14279598/status/1648677879486590978,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"Thinking aloud: what are the right equivalent production environment security misconfig metrics analogous to DORA metrics for DevOps?
+
+Need to capture vulnerability density in terms of environment size (how common are they?) and changes (how often do changes introduce misconfig?)",原创,en,1,0,0,1,2023-04-19 13:20:12,2024-04-13 08:47:48,1648677879486590978,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1646856328499871747,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"As yet another IT admin gets access to and leaks classified docs, if only there were a way to make intermediate infrastructure and its admins unable to read docs and data to/from authorized users transiting through it. Like a system of encryption from end-to-end, if you will.",原创,en,6,3,0,27,2023-04-14 12:42:00,2024-04-13 08:48:04,1646856328499871747,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1646850579342282754,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"After a few years hiatus, @BSidesNYC is BACK on 4/22:
+
+https://t.co/Y3fLVofHOu",原创,en,0,0,1,2,2023-04-14 12:19:09,2024-04-13 08:48:04,1646850579342282754,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1643600008413954048,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,Wow... really heartbreaking to read tragic news about @crazybob :(,原创,en,0,0,0,4,2023-04-05 13:02:33,2024-04-13 08:53:56,1643600008413954048,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1642954487987081216,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"@msuiche FWIW, I spoke about macOS injection using  Mach APIs at BlackHat 2009 and wrote chapter on it for Mac Hacker's Handbook (Ch 11).
+
+BH 2009 paper: https://t.co/MSYwmuznFr
+
+MHH sample code includes injecting dylibs to take iSight photos, log TLS, log iChats: 
+https://t.co/HHZjkKt07t",原创,en,2,1,0,4,2023-04-03 18:17:29,2024-04-13 08:53:56,1642954487987081216,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1642161935692046336,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"No joke, I did in fact join Twitter on April Fool's. I had signed up to write ""The Mac Hacker's Handbook"" with @0xcharlie and thought that I'd start with micro-blogging, then blogging, then work my way up to writing entire book chapters.
+
+#MyTwitterAnniversary https://t.co/GTLhSOiufR",原创,en,3,0,0,21,2023-04-01 13:48:10,2024-04-13 08:53:56,1642161935692046336,14279598,dinodaizovi,0,[],,['https://pbs.twimg.com/media/FsohDTfWcAA-kBJ.jpg'],
+https://twitter.com/14279598/status/1640346580396982272,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,Putting everyone you would follow on Twitter Lists instead of following them works great until Twitter breaks lists and you don't have any of them anymore...,原创,en,1,0,0,17,2023-03-27 13:34:35,2024-04-13 08:54:28,1640346580396982272,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1638703994431483904,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"This @NPR article is the best I've read on why banning TikTok is unrealistic and most likely generational political suicide for whichever party does it:
+
+""U.S. is threatening to ban TikTok? Good luck"" https://t.co/QSsZ8ptgSd",原创,en,2,11,2,27,2023-03-23 00:47:32,2024-04-13 08:54:29,1638703994431483904,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1638254189947023392,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"Here is my favorite @aloria story. I invited her to a pig roast at a friend's apartment in Brooklyn. For reasons left unspecified, @kevinbacon and @kyrasedgwick were there. I didn't mention it her nor make a big deal about it (for Reasons (TM) ). [ cont'd👇] https://t.co/SdWYF4Y6AJ",原创,en,4,16,1,143,2023-03-21 19:00:10,2024-04-13 08:54:42,1638254189947023392,14279598,dinodaizovi,0,[],,['https://pbs.twimg.com/media/Frw92Q9WcAwQwN8.jpg'],
+https://twitter.com/14279598/status/1637544847232978944,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"Democratizing digital safety to protect vulnerable people doesn't get nearly enough mindshare and attention compared to long-tail cybersecurity risks against well-heeled institutions. 
+
+The latter can impact individuals as well, but I'm wondering if we (as an industry) overdo it.",原创,en,1,2,0,10,2023-03-19 20:01:30,2024-04-13 08:54:56,1637544847232978944,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1632845957594267648,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"Ohhh, neat! @thistlesec wrote a thing doing OTA firmware update bundle signing using our open-source yubikey PIV applet tool (pivit)!
+
+https://t.co/xFsAOsSIOi
+
+https://t.co/kj5vhVHF2w",原创,en,0,2,0,6,2023-03-06 20:49:47,2024-04-13 08:55:10,1632845957594267648,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1631123020377980928,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"It's weird meeting non-security people in real life and they know and use the term ""threat actor"" when talking about cybersecurity with you but they don't know what a security key is...",原创,en,2,0,0,14,2023-03-02 02:43:27,2024-04-13 08:55:10,1631123020377980928,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1631324102559510530,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"This is huge:
+
+https://t.co/GbAtK2xZFZ https://t.co/QYNzX2nz6o",原创,en,2,31,1,66,2023-03-02 16:02:29,2024-04-13 08:55:10,1631324102559510530,14279598,dinodaizovi,0,[],,['https://pbs.twimg.com/media/FqOgei5WwAI6f4J.jpg'],
+https://twitter.com/14279598/status/1631320751835058182,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"It's not just teenage girls, I believe that this affects all of us to varying degrees. We need in-person interactions and when the constant availability of social media crowds out those interactions, we suffer consciously and subconsciously.
+
+https://t.co/t1dKbfXUzW",原创,en,0,1,0,5,2023-03-02 15:49:10,2024-04-13 08:55:10,1631320751835058182,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1630572834190680065,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"Good segment on @Marketplace morning report with The Bruce on ""A Hacker's Mind"" and about hacking as a mindset that follows the letter of the rule but subverts the intent to your advantage and how it can be a force for leveling the playing field:
+
+https://t.co/LbtTblee6k",原创,en,1,0,0,1,2023-02-28 14:17:12,2024-04-13 08:55:26,1630572834190680065,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1630582102965075968,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"It's fascinating to me what aspects of BeyondCorp/ZeroTrust are talked about the most in the industry vs. in the original BeyondCorp paper:
+
+https://t.co/dzakkzpp9M
+
+First major component in paper: Device Inventory Database. Ingesting corp procurement data into this is key.",原创,en,1,2,1,16,2023-02-28 14:54:02,2024-04-13 08:55:26,1630582102965075968,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1625346796565168129,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,Is it just me or is it really strange to see every cellular network start having outages at the same time? https://t.co/42JjpRZpK8,原创,en,10,9,6,59,2023-02-14 04:10:48,2024-04-13 08:55:26,1625346796565168129,14279598,dinodaizovi,0,[],,['https://pbs.twimg.com/media/Fo5j_cqWYAISEcn.jpg'],
+https://twitter.com/14279598/status/1605212475175190528,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"While I was absolutely a fan of The Specials, my favorite song with Terry Hall's vocals in it is still, hands-down ""Poems"" by Nearly God (aka Tricky):
+
+https://t.co/eMD8PBjOoC",原创,en,0,0,0,3,2022-12-20 14:44:12,2024-04-13 08:55:57,1605212475175190528,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1604585207910342656,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"Steve Jobs on how and why you need to start with the customer experience and work backwards to the technology:
+
+https://t.co/ErlWnwap1z",原创,en,0,0,0,9,2022-12-18 21:11:39,2024-04-13 08:56:15,1604585207910342656,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1604183611355369473,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"In other words, ""individuals and interactions over processes and tools"" (Manifesto for Agile Software Development, 2001).
+
+https://t.co/uQcpqIWBwF",原创,en,1,0,1,5,2022-12-17 18:35:51,2024-04-13 08:56:31,1604183611355369473,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1604123462796251137,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"This post has a good diagnosis of why FDE in the cloud is not sufficient: 
+
+https://t.co/wRkmrEv6cq
+
+I argue that it's necessary but not sufficient. You also want app-layer encryption (logical encryption of sensitive data tied to production app identity):
+
+https://t.co/sDStUI1Oji",原创,en,3,3,2,7,2022-12-17 14:36:51,2024-04-13 08:56:49,1604123462796251137,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1602312920683188225,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"Since first reading the phrase, ""every accusation is a confession,"" I have not been able to get it out of my head.",原创,en,2,0,0,12,2022-12-12 14:42:24,2024-04-13 08:57:35,1602312920683188225,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1600912865447350284,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"Since the majority of lines of code in a produced software artifact are from open-source, SBOM will happen through bottoms-up adoption by those open-source projects (e.g. @projectsigstore).
+
+Then it be feasible to produce the top-level SBOM for an artifact shipped to customers.",原创,en,2,4,1,28,2022-12-08 17:59:05,2024-04-13 08:58:22,1600912865447350284,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1600666501106659328,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"It's good to have a name to this key privacy-preserving idea of information separation, ""the decoupling principle""
+
+https://t.co/YLbNcjYlrn",原创,en,2,0,0,1,2022-12-08 01:40:07,2024-04-13 08:58:40,1600666501106659328,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1779148944951378016,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"So, everyone reading about Sisense and Palo Alto Networks this week... are we all thinking about least privilege architectures yet? I know ""secure by design"" is a catchy phrase, but vendors are just going to say they are SxD now because there's still no way to confirm/dispute it.",原创,en,7,6,2,33,2024-04-13 14:05:38,2024-04-14 12:21:48,1779148944951378016,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1779151441963241876,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"Serious question: at which point do we all, as an industry, finally agree that no Internet-facing middlebox that aggregates and intermediates SSL/TLS traffic is an acceptable approach to implementing a security capability?",原创,en,11,19,4,117,2024-04-13 14:15:33,2024-04-14 12:21:48,1779151441963241876,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1779897505339039846,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"While I'm ranting about Secure by Design, I'll also say that it should be clear that it requires context on how the product is designed and built in order to have security-informed design. It's not achieved by context-free approaches like source code scanning, blind fuzzing, etc.",原创,en,9,2,1,32,2024-04-15 15:40:08,2024-04-16 11:10:36,1779897505339039846,14279598,dinodaizovi,0,[],,,
+https://twitter.com/14279598/status/1780316997277847951,https://twitter.com/dinodaizovi,https://pbs.twimg.com/profile_images/1660681220982820868/MZkLeupS_normal.jpg,,,Dino A. Dai Zovi,"The V8 Sandbox is an example of what I'd call SxD:
+
+https://t.co/imJzMxMZk2
+
+It takes real attacks and threat model into account, explains why rewriting in Rust, memory tagging aren't enough.
+
+Generic secure development and mitigations are great, but alone not sufficient for SxD.",原创,en,2,7,1,31,2024-04-16 19:27:03,2024-04-17 05:31:26,1780316997277847951,14279598,dinodaizovi,0,[],,,

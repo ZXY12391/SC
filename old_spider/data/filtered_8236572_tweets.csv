@@ -1,0 +1,810 @@
+tweet_url,author_url,avatar_url,avatar_binary,topic,author_name,content,tweet_type,tweet_language,comment_count,retweet_count,quote_count,praise_count,publish_time,fetch_time,tweet_id,screen_id,screen_name,tourist_crawl_status,video_urls,original_author,tweet_img_url,tweet_img_binary
+https://twitter.com/8236572/status/1778849168272093507,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"New from @binarly:
+ 
+The process of infecting XZUtils with backdoor code is well documented.  This research is on the backdoor itself and provide in-depth analysis from both static and dynamic perspectives
+
+https://t.co/roMk61hJSm",原创,en,0,12,0,32,2024-04-12 18:14:25,2024-04-16 13:19:10,1778849168272093507,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1778830650071822417,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"A fresh Palo Alto 0day being exploited in the wild 🐞 
+
+Story at @SecurityWeek  https://t.co/cvDsnQNNDd",原创,en,1,0,1,5,2024-04-12 17:00:50,2024-04-16 13:19:10,1778830650071822417,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1778834425368998071,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Hardware sold for years by the likes of Intel and Lenovo contains a remotely exploitable vulnerability that will never be fixed. 
+
+https://t.co/9kz6RhWjrx &lt;-- story by Dan Goodin @dangoodin001",原创,en,0,1,1,4,2024-04-12 17:15:50,2024-04-16 13:19:10,1778834425368998071,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1778820440221463005,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,Your weekly cybersecurity snapshot 🚒🚒 https://t.co/mpdGlPnp9n,原创,en,0,1,0,2,2024-04-12 16:20:16,2024-04-16 13:19:25,1778820440221463005,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/GK-jpUSaoAE6wr9.png'],
+https://twitter.com/8236572/status/1778509274723111182,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"US gov: ""Midnight Blizzard’s successful compromise of Microsoft corporate email accounts and the exfiltration of correspondence between agencies and Microsoft presents a grave and unacceptable risk to agencies.""
+
+Story on CISA emergency directive @SecurityWeek…",原创,en,0,9,0,8,2024-04-11 19:43:48,2024-04-16 13:19:25,1778509274723111182,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1778481771761517017,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"🎧🔥 New pod advisory: I spent time with Cris Neckar on the early days of hacking at Neohapsis, time on the Google Chrome security team, shenanigans at Pwn2Own/Pwnium, the cat-and-mouse battle for browser exploit chains, and more...
+
+LISTEN: https://t.co/45MXf8pHkZ",原创,en,1,9,1,16,2024-04-11 17:54:31,2024-04-16 13:19:25,1778481771761517017,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1778455832696586310,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Timeline of an old, undocumented lighttpd vulnerability across the software supply chain https://t.co/PEFvvyL58c",原创,en,2,21,2,49,2024-04-11 16:11:27,2024-04-16 13:19:38,1778455832696586310,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/GK5XjHJaMAAtzKi.jpg'],
+https://twitter.com/8236572/status/1778438138618425746,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"How soon before these case studies are scrubbed?
+https://t.co/fEEw5nRYXw",原创,en,0,0,0,0,2024-04-11 15:01:08,2024-04-16 13:19:39,1778438138618425746,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1778074772573946072,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Subject line of a PR pitch in my inbox:
+
+""Okta CEO interview on DHS security culture review of Microsoft""
+
+Yes, that Okta 🙄",原创,en,1,1,1,11,2024-04-10 14:57:15,2024-04-16 13:19:39,1778074772573946072,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1777807842692726902,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Microsoft Defender for IOT, critical, remote code execution.  Reported by Siemens 👇 https://t.co/Gz4UUyhZZx",原创,en,0,1,0,7,2024-04-09 21:16:34,2024-04-16 13:19:39,1777807842692726902,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/GKwKo8sbMAATiew.png'],
+https://twitter.com/8236572/status/1777782124692767152,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"ZDI blog:  "" This is the largest Patch Tuesday release from Microsoft of all time.""
+
+https://t.co/GHcXhZEb3j",原创,en,0,17,3,18,2024-04-09 19:34:22,2024-04-16 13:19:39,1777782124692767152,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1777761455028437126,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"""An unauthenticated attacker can move the same workload onto a machine they control, where the attacker is root.""
+
+https://t.co/sviAjQkqge",原创,en,0,1,1,1,2024-04-09 18:12:14,2024-04-16 13:19:54,1777761455028437126,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1777375822619557980,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"A list of governments with Vulnerability Disclosure Policies, via ⁦CISA's @jackhcable⁩  https://t.co/MkDna8m854",原创,en,0,1,0,5,2024-04-08 16:39:52,2024-04-16 13:19:54,1777375822619557980,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1776336075256217817,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"🔥 NEW!  For your earholes this weekend: Costin Raiu joins the XZ backdoor investigation
+
+Listen https://t.co/sDpY8IYlIU",原创,en,3,28,3,85,2024-04-05 19:48:17,2024-04-16 13:20:11,1776336075256217817,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1776316376216641721,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Ivanti releases a carefully scripted YouTube video and an open letter from chief executive Jeff Abbott vowing to fix the entire security organization
+
+Story @securityweek https://t.co/QKmb3xBSwg",原创,en,0,3,1,4,2024-04-05 18:30:01,2024-04-16 13:20:11,1776316376216641721,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1776297599085298090,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,Baseball in the the background during the day is the meaning of life.,原创,en,0,0,0,2,2024-04-05 17:15:24,2024-04-16 13:20:11,1776297599085298090,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1776296691316224382,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"The CSRB report is a remarkable document providing a blow-by-blow into one of the most daring APT attacks in history against a company [Microsoft] that somehow blew a decade’s worth of goodwill and completely lost its way in security
+
+https://t.co/AHUWfsGhdL",原创,en,2,6,5,21,2024-04-05 17:11:47,2024-04-16 13:20:11,1776296691316224382,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1775954106793996609,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"We've reached the 'CEO Open Letter' part of Ivanti's security journey
+
+I write about how pain has forced Ivanti to say they have found security enlightenment: 
+https://t.co/QKmb3xBSwg",原创,en,2,5,0,27,2024-04-04 18:30:29,2024-04-16 13:20:11,1775954106793996609,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1775961207759134943,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"New from Mandiant:  Ivanti Connect Secure VPN post-exploitation lateral movement case studies
+https://t.co/lSM98JJb1Y",原创,en,0,1,0,4,2024-04-04 18:58:42,2024-04-16 13:20:26,1775961207759134943,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1775959245433041110,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"I was correctly reminded yesterday that there's no such thing as ""security culture""",原创,en,2,1,0,2,2024-04-04 18:50:54,2024-04-16 13:20:26,1775959245433041110,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1775956390949093680,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"https://t.co/R9n9MZ4UBF &lt;-- now with an API for bulk scans, and VT results https://t.co/7QUL6bfi3p",原创,en,0,0,0,2,2024-04-04 18:39:33,2024-04-16 13:20:26,1775956390949093680,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/GKV2vxHaYAABSIw.jpg'],
+https://twitter.com/8236572/status/1775945444973248712,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,Behind every CEO  letter promising to make security a priority are hundreds of overworked grunts keeping things operational and begging for support/resources to try to fix things.  I salute those folks 🫡,原创,en,1,7,4,59,2024-04-04 17:56:04,2024-04-16 13:20:26,1775945444973248712,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1775904148250378506,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"The ""CEO Letter"" part of the pain journey is always the most amusing",原创,en,0,0,0,0,2024-04-04 15:11:58,2024-04-16 13:20:26,1775904148250378506,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1775630735254372708,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Shoutout to the CSRB for a very well written report on the Microsoft cloud hack.
+
+To me, the only thing surprising about the findings is the deliberate harshness of the language used.",原创,en,0,0,0,6,2024-04-03 21:05:31,2024-04-16 13:20:26,1775630735254372708,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1775627678328160605,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Gross 🤮
+
+""Microsoft acknowledged to the [CSRB] in Nov 2023 that its Sep 6, 2023 blog post about the root cause was inaccurate, but did not update that post until March 12, 2024, as the Board was concluding its review and only after the Board’s repeated questioning about…",原创,en,1,4,0,14,2024-04-03 20:53:22,2024-04-16 13:20:26,1775627678328160605,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1775595807586336865,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"&lt; 24 hours after the CSRB report, Microsoft PR in my inbox today hawking some Microsoft Defender unified SOC platform 🤯",原创,en,0,0,0,4,2024-04-03 18:46:44,2024-04-16 13:20:39,1775595807586336865,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1775539735097987435,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"The CSRB should have called for the firing of whoever came up with ""AI-based cyber shield.""
+
+As much as I try, that one still stands out.",原创,en,1,1,0,9,2024-04-03 15:03:55,2024-04-16 13:20:39,1775539735097987435,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1772985183018402191,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"New Google report:
+
+“If enabled, Lockdown Mode would have protected users from the majority of the exploitation chains discovered [in 2023] targeting iOS and attackers would not have been able to successfully compromise their targets.”
+
+Story @SecurityWeek https://t.co/sGGJ9XjX8S",原创,en,2,20,1,43,2024-03-27 13:53:02,2024-04-16 13:20:58,1772985183018402191,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1773021096079507531,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Clay Springs, Arizona 🌲 https://t.co/WJhCfv6wNA",原创,en,0,0,0,2,2024-03-27 16:15:45,2024-04-16 13:20:58,1773021096079507531,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/GJsI9adaIAAGPD4.jpg'],
+https://twitter.com/8236572/status/1772991750094598419,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"SOHO router botnet, first seen in 2014, has been operating quietly while growing to more than 40,000 bots from 88 countries in January and February  of 2024
+https://t.co/1PA6fXJ1P9",原创,en,0,3,0,1,2024-03-27 14:19:08,2024-04-16 13:20:58,1772991750094598419,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1772096660933615775,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,Fort Apache Reservation 🌲 https://t.co/8WXO5hkg4Z,原创,en,0,0,0,0,2024-03-25 03:02:22,2024-04-16 13:20:58,1772096660933615775,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/GJfAhJEasAAEyAZ.jpg'],
+https://twitter.com/8236572/status/1770830439382487084,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Great line from the DOJ complaint:
+
+""Apple users could use their iPod with a Windows computer, and Microsoft did not charge Apple a 30 percent fee for each song downloaded from Apple’s iTunes store.""",原创,en,2,1,1,5,2024-03-21 15:10:51,2024-04-16 13:21:13,1770830439382487084,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1767619498855862621,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Microsoft flags critical HyperV bug for urgent attention 
+
+Patch Tuesday details at @SecurityWeek https://t.co/kqxRLWLoWm",原创,en,0,16,0,29,2024-03-12 18:31:43,2024-04-16 13:21:31,1767619498855862621,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1767618519259386256,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,It's pretty noticeable how ChatGPT is becoming less and less useful with each passing day.  Can't even count CVEs right :\,原创,en,1,0,0,7,2024-03-12 18:27:50,2024-04-16 13:21:31,1767618519259386256,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1767587012499116170,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Google paid out $10 million via its bug bounty programs in 2023, bringing the total to nearly $60 million since 2010.
+
+More at @SecurityWeek https://t.co/a7KR1JDEM8",原创,en,1,5,4,27,2024-03-12 16:22:38,2024-04-16 13:21:31,1767587012499116170,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1767243655239385218,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"I honestly thought the VPN would be dead by now
+https://t.co/Jc7qdWOcqX",原创,en,1,0,0,3,2024-03-11 17:38:15,2024-04-16 13:21:31,1767243655239385218,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1766168081980916068,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Microsoft says the Russian government-backed hacking team that broke into its corporate network and spied on senior executives also stole source code and may still be poking around its internal computer systems.
+
+Story at @SecurityWeek https://t.co/aVOW78IHKs",原创,en,3,17,4,27,2024-03-08 18:24:19,2024-04-16 13:21:45,1766168081980916068,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1765414598650531891,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Every now and then, I got to https://t.co/mRHDodN7pG to see what that page has become 😳",原创,en,0,0,0,2,2024-03-06 16:30:14,2024-04-16 13:21:45,1765414598650531891,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1765412336259694757,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"VMware ESXi sandbox escape bug so serious, even end-of-life installations get patches
+
+Story at @SecurityWeek https://t.co/7zN8tlrkPw",原创,en,4,31,2,62,2024-03-06 16:21:15,2024-04-16 13:21:45,1765412336259694757,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1763624426988523538,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Another take on the memory safety dance 👇
+
+""But in a reality where even simply keeping track of your hardware and software assets is a formidable challenge for most enterprises, I think the push for 100% memory safety is a grievous misallocation of funds.""…",原创,en,0,0,0,1,2024-03-01 17:56:44,2024-04-16 13:22:00,1763624426988523538,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1763597410847306077,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Another week in cyber, via @SecurityWeek https://t.co/eigSMf1ey6",原创,en,1,7,1,21,2024-03-01 16:09:23,2024-04-16 13:22:00,1763597410847306077,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/GHmOa1TakAALNak.png'],
+https://twitter.com/8236572/status/1763259560859766821,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Microsoft is retroactively marking CVE-2024-21338 in the ""already exploited"" category.
+
+They knew since Patch Tuesday that the North Koreans had live exploits 👇
+
+SecurityWeek story by @EduardKovacs 
+https://t.co/BpC4wfIZAh",原创,en,1,8,0,13,2024-02-29 17:46:53,2024-04-16 13:22:00,1763259560859766821,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1762953914637521213,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"White House report: 
+
+""Software measurability is one of the hardest open research problems to address...""
+
+https://t.co/WbQM47huhq",原创,en,0,2,0,2,2024-02-28 21:32:22,2024-04-16 13:22:18,1762953914637521213,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1762867139466482134,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"""In this article, we'll see how to put an entire car into a transportable box from scratch or at least the main electronic components.""  cc @0xcharlie 
+
+https://t.co/uZ6IDGCvfp",原创,en,1,1,0,7,2024-02-28 15:47:33,2024-04-16 13:22:18,1762867139466482134,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1759978884605542683,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"ConnectWise ScreenConnect 
+
+- CVSS 10/10
+- Remotely exploitable; high risk of exploitation
+
+""Recommend installing updates as emergency changes or as soon as possible (e.g., within days)""
+
+Story at @SecurityWeek https://t.co/uXR1oklODK",原创,en,1,0,0,2,2024-02-20 16:30:39,2024-04-16 13:22:34,1759978884605542683,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1758506674405744680,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Heard a ton of good security people affected 😳
+https://t.co/hv6kMnTKB4",原创,en,3,15,3,41,2024-02-16 15:00:37,2024-04-16 13:22:51,1758506674405744680,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1758601093884629391,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Apple Vision Pro privacy principles
+https://t.co/3FfTmH0MAU https://t.co/URA8I9B7FD",原创,en,0,0,0,2,2024-02-16 21:15:48,2024-04-16 13:22:51,1758601093884629391,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/GGfOKmrb0AAP7zW.png'],
+https://twitter.com/8236572/status/1758546865396851188,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Weekend trending security headlines, via @SecurityWeek https://t.co/N7c88qOXqz",原创,en,0,0,0,0,2024-02-16 17:40:19,2024-04-16 13:22:51,1758546865396851188,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1758210007022387361,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"New from OpenAI:  Today, Sora is becoming available to red teamers to assess critical areas for harms or risks
+
+https://t.co/UPGuc9THKd",原创,en,0,0,0,1,2024-02-15 19:21:46,2024-04-16 13:22:51,1758210007022387361,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1757838163299742054,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Microsoft threat hunters say foreign APTs are interacting with OpenAI’s ChatGPT to automate malicious vulnerability research, target reconnaissance and malware creation tasks.
+
+Story at @securityweek 
+https://t.co/sGieA1fWT1",原创,en,0,12,1,14,2024-02-14 18:44:11,2024-04-16 13:23:09,1757838163299742054,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1757837649065488559,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Meta: ""We recently enabled Control Flow Integrity (CFI) on Messenger for Android.""
+
+""We recently enabled a new memory allocator for the WhatsApp VoIP calling library. The allocator design includes numerous security properties that make exploitation of common memory safety…",原创,en,2,9,0,29,2024-02-14 18:42:09,2024-04-16 13:23:09,1757837649065488559,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1757834858427265245,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"New from NIST: 
+Strategies for the Integration of Software Supply Chain Security in DevSecOps CI/CD Pipelines
+https://t.co/tdaqpvbHNv",原创,en,0,1,0,4,2024-02-14 18:31:03,2024-04-16 13:23:09,1757834858427265245,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1757819126750589161,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Zoom on Windows (critical, CVSS 9.6)
+https://t.co/jdQi8sytWH",原创,en,0,13,2,25,2024-02-14 17:28:33,2024-04-16 13:23:09,1757819126750589161,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1757480676738445631,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,It's Patch Tuesday.  Be nice to the people in the packet mines.,原创,en,0,0,0,2,2024-02-13 19:03:40,2024-04-16 13:23:25,1757480676738445631,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1756030384746414198,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"NEW!  FortiOS exploitation in the wild 🔥
+
+Fortinet warned organizations on Wednesday that APTs linked to China and other countries have been exploiting two known FortiOS vulnerabilities in attacks aimed at various sectors, including critical infrastructure.
+
+Story by…",原创,en,1,4,0,16,2024-02-09 19:00:43,2024-04-16 13:23:25,1756030384746414198,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1755665912185975147,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"What on earth did I just look at?  These marketing spends are so bizarre
+https://t.co/YJf035I1Wf",原创,en,7,3,0,22,2024-02-08 18:52:26,2024-04-16 13:23:25,1755665912185975147,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1754874494622048516,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Google: ""In 2023, TAG discovered 25 0-days being actively exploited in-the-wild, 20 of which were exploited by private commercial spyware vendors.""
+
+Story by @EduardKovacs  at @SecurityWeek 
+https://t.co/egtpA3zy0U",原创,en,1,5,0,2,2024-02-06 14:27:38,2024-04-16 13:23:38,1754874494622048516,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1754597951740285417,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Clay Springs, Arizona 🌲 https://t.co/9zIQLur7EK",原创,en,0,0,0,5,2024-02-05 20:08:45,2024-04-16 13:23:38,1754597951740285417,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1754595876381843458/pu/vid/avc1/1920x1080/QFNpboa2ew0jrgim.mp4?tag=14'],,['https://pbs.twimg.com/ext_tw_video_thumb/1754595876381843458/pu/img/7N6VkNeSyE7P0jGq.jpg'],
+https://twitter.com/8236572/status/1753103917930762469,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"CISA: ""As soon as possible and no later than 11:59PM on Friday February 2, 2024, disconnect all instances of Ivanti Connect Secure and Ivanti Policy Secure solution products from agency networks.""
+
+https://t.co/TnX7zFQyHh",原创,en,4,19,0,20,2024-02-01 17:11:59,2024-04-16 13:23:57,1753103917930762469,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1752787876818063835,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"The US government said it neutralized a botnet full of end-of-life Cisco and Netgear routers after confirming it was being used by a Chinese APT called Volt Typhoon.
+
+Story at @securityweek https://t.co/YcgZ9Q881s",原创,en,1,8,2,24,2024-01-31 20:16:09,2024-04-16 13:23:57,1752787876818063835,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1752745149451665886,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"It's probably a good time to rethink the old Pulse Secure in your org ⚡️
+
+Ivanti documents a brand-new zero-day and belatedly starts the slow rollout of patches; Mandiant is reporting “broad exploitation activity.”
+
+The latest at @SecurityWeek 
+https://t.co/R17o055IhQ",原创,en,0,0,0,5,2024-01-31 17:26:22,2024-04-16 13:23:57,1752745149451665886,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1752352664799908018,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Ivanti is struggling to hit its own promised timeline for the delivery of patches for critical — and already exploited — vulnerabilities in Connect Secure VPN appliances (formerly Pulse Secure)
+
+Story at @securityweek https://t.co/ebrQ1IRi09",原创,en,1,3,1,9,2024-01-30 15:26:47,2024-04-16 13:24:15,1752352664799908018,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1752051054529880236,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Microsoft head of SOC and incident response
+https://t.co/OB073kNSY3",原创,en,0,3,0,18,2024-01-29 19:28:17,2024-04-16 13:24:15,1752051054529880236,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1751004643889696864,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Another hectic week in cyber, via @SecurityWeek https://t.co/S1NURUOCq1",原创,en,0,1,0,3,2024-01-26 22:10:13,2024-04-16 13:24:29,1751004643889696864,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/GEzRavgbkAAdIdz.png'],
+https://twitter.com/8236572/status/1751004229622432068,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Who are the others?
+
+""Using the information gained from Microsoft’s investigation into Midnight Blizzard, Microsoft Threat Intelligence has identified that the same actor has been targeting other organizations and, as part of our usual notification processes, we have begun…",原创,en,1,2,0,2,2024-01-26 22:08:35,2024-04-16 13:24:29,1751004229622432068,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1746966026196271168,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"🔥 NEW podcast alert:  Costin Raiu digs into why he left the GReAT team after 13 years at the helm, ethical questions on exposing certain APT operations, changes in the nation-state malware attribution game, the most technically impressive attacks, the 'dark spots' where…",原创,en,6,44,7,143,2024-01-15 18:42:12,2024-04-16 13:24:30,1746966026196271168,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1749842766602097000,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Bishop Fox security strategist Rob Ragan:
+
+""There are so many companies and ideas that were ahead of their time. A lot of them should be revisited with the help of augmenting intelligence and the next phase of automation capabilities.""  @sweepthatleg 
+
+READ:…",原创,en,0,2,0,7,2024-01-23 17:13:20,2024-04-16 13:24:46,1749842766602097000,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1749823031164469628,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Re-upping my conversation with Luta's Katie Moussouris on building a different kind of security company, plus thoughts on the CSRB, job market, etc. @k8em0 
+
+LISTEN on Spotify
+https://t.co/DORgptxWzm",原创,en,0,9,1,20,2024-01-23 15:54:55,2024-04-16 13:24:46,1749823031164469628,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1749598076652994632,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"So, Twitter turning off MFA led to two major account takeovers: Mandiant and the SEC.",原创,en,3,1,1,12,2024-01-23 01:01:02,2024-04-16 13:24:59,1749598076652994632,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1749542572756984295,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"So many experts on the Russians hacking Microsoft.  Make it stop, please.",原创,en,3,0,0,9,2024-01-22 21:20:28,2024-04-16 13:24:59,1749542572756984295,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1749520354161422798,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"iOS 17.3 is out, fixing a trio of WebKit flaws being exploited in the wild as zero-day
+
+Story at @SecurityWeek 
+https://t.co/Z9kdEX4ddd",原创,en,0,14,1,18,2024-01-22 19:52:11,2024-04-16 13:24:59,1749520354161422798,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1749485509091713059,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"🔥 New podcast advisory: Katie Moussouris discusses @LutaSecurity's  new Workforce Platform profit-sharing initiative, the security job market, criticism of the CSRB’s lack of enforcement authority, and looming regulations around zero-day vulnerability data. @k8em0 
+
+LISTEN:…",原创,en,2,9,1,26,2024-01-22 17:33:43,2024-04-16 13:24:59,1749485509091713059,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1748470998855508018,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"A Russian government-backed hacking team broke into Microsoft’s corporate network and stole emails and attachments from senior executives.
+
+BREAKING story at @securityweek
+https://t.co/GWvDlqfYNg",原创,en,4,19,4,51,2024-01-19 22:22:25,2024-04-16 13:25:14,1748470998855508018,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1748406997937189285,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"A weekend re-up of my podcast with Costin Raiu on a lifetime of work in APT research. Give it a listen @craiu 
+https://t.co/hBc4cDhiNB &lt;- episode sponsored by @binarly_io",原创,en,2,2,0,4,2024-01-19 18:08:06,2024-04-16 13:25:14,1748406997937189285,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1748030122060611696,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Halfway through January, we've confirmed five (5) in the wild zero-day attacks (Chrome, Ivanti, Citrix)",原创,en,0,7,0,12,2024-01-18 17:10:32,2024-04-16 13:25:32,1748030122060611696,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1747690535958306892,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Microsoft warns that an APT with known links to Iran’s military intelligence is impersonating a prominent journalist to trick a specific set of people into downloading malicious files
+
+Story at @SecurityWeek https://t.co/VPVLLNE96i",原创,en,1,3,0,2,2024-01-17 18:41:08,2024-04-16 13:25:32,1747690535958306892,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1747671826283847880,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,Microsoft spent months trying to bully Quarkslab into delaying the PixieFail vulns but the official CERT/CC advisory says this https://t.co/ErMX4RTOiv,原创,en,2,3,0,8,2024-01-17 17:26:48,2024-04-16 13:25:32,1747671826283847880,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/GED6QeNawAAD1AM.jpg'],
+https://twitter.com/8236572/status/1747668818510700792,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"The 0days are flowing
+https://t.co/hoDwcAWKEr",原创,en,0,3,0,8,2024-01-17 17:14:51,2024-04-16 13:25:47,1747668818510700792,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1747642350111949035,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,Mid-week cybersecurity progress report @SecurityWeek https://t.co/cPToLPwmMg,原创,en,0,0,0,3,2024-01-17 15:29:40,2024-04-16 13:25:47,1747642350111949035,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/GEDfblmacAAEph3.png'],
+https://twitter.com/8236572/status/1747354983736180842,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Freshly squeezed Chrome browser 0day:
+
+""The exploited zero-day, tagged as CVE-2024-0519, is described as an out-of-bounds memory access issue in the V8 JavaScript engine.""
+
+Brief story at @SecurityWeek https://t.co/hu2K1EllJU",原创,en,0,11,0,14,2024-01-16 20:27:47,2024-04-16 13:25:47,1747354983736180842,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1747302863557247372,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Remotely Exploitable ‘PixieFail’ Flaws Found in Tianocore EDK II PXE Implementation
+
+Quarkslab finds serious, remotely exploitable vulnerabilities in EDK II, the de-facto open source reference implementation of the UEFI spec.
+
+Story at @SecurityWeek https://t.co/lMwEEUaGXp",原创,en,0,7,0,10,2024-01-16 17:00:40,2024-04-16 13:26:06,1747302863557247372,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1747288144876384350,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"A snippet of my podcast conversation with ex-GReAT head Costin Raiu on researchers ""interfering"" with legit counter-terrorism operations...  @craiu 
+
+""There's different levels of interfering...""
+
+Listen on Spotify: https://t.co/PdYlvldL7e https://t.co/kYJ6wilnTw",原创,en,1,2,0,7,2024-01-16 16:02:11,2024-04-16 13:26:06,1747288144876384350,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1747287449095852032/pu/vid/avc1/720x720/DyxjNvQ05HTktV9X.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1747287449095852032/pu/img/sHYZB6mQ-17W_beW.jpg'],
+https://twitter.com/8236572/status/1747271640902447591,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Hey @quarkslab, got a link to this podcast? https://t.co/wxDheiZg98",原创,en,0,0,1,2,2024-01-16 14:56:36,2024-04-16 13:26:07,1747271640902447591,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/GD-ORPUaEAA1EMj.png'],
+https://twitter.com/8236572/status/1745826869814190204,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"""You can't protect yourself from APT-level attackers. You just can't..."" &lt;-- Costin Raiu with some blunt real-talk.  @craiu 
+
+Catch the episode at https://t.co/ZThIHI7aoG https://t.co/5hVL66P8Jg",原创,en,1,8,0,38,2024-01-12 15:15:36,2024-04-16 13:26:20,1745826869814190204,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1745826503118766080/pu/vid/avc1/1080x1920/tmLP205lvPeA84K3.mp4?tag=14'],,['https://pbs.twimg.com/ext_tw_video_thumb/1745826503118766080/pu/img/DF7hdvcUyiyKm_eP.jpg'],
+https://twitter.com/8236572/status/1745543361690542552,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Mandiant’s Twitter/X account was hacked as a result of a brute force attack as part of a cryptocurrency scheme that earned at least $900k
+
+Story at @SecurityWeek https://t.co/QktINpxZI8",原创,en,1,0,0,0,2024-01-11 20:29:02,2024-04-16 13:26:38,1745543361690542552,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1745537224836624805,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"🔥 Next up on the SecurityConversations podcast:  Costin Raiu on the complicated world of attributing nation-state attackers  @craiu 
+
+Subscribe at https://t.co/ZThIHI7aoG https://t.co/rOuESNLexs",原创,en,1,10,1,28,2024-01-11 20:04:39,2024-04-16 13:26:38,1745537224836624805,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1745536469568282625/pu/vid/avc1/720x720/vwjcDNckFlfdz_fX.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1745536469568282625/pu/img/RzKUskyWIpNSYBBg.jpg'],
+https://twitter.com/8236572/status/1745132398654726616,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"From yesterday: Microsoft patches critical bugs in Windows Kerberos and Hyper-V
+
+Story at @securityweek
+https://t.co/v0fwTUI85z",原创,en,0,5,1,7,2024-01-10 17:16:01,2024-04-16 13:31:55,1745132398654726616,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1744415427881816483,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"🔥Lumen Technologies researcher Danny Adamitis (@dadamitis) digs a router botnet used by Chinese APT, the global problem of end-of-life, unpatchable devices, and the things network defenders can do today to mitigate threats at this layer
+
+LISTEN: https://t.co/J4iNcfhKvl",原创,en,1,2,0,4,2024-01-08 17:47:02,2024-04-16 13:31:55,1744415427881816483,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1737532878345707919,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Coming up next on the SecurityConversations podcast:
+
+- Costin Raiu, the GReAT exit interview @craiu
+- Allison Miller, CEO/Cartomancy Labs and ex-Reddit CISO @selenakyle 
+- Danny Adamitis on an unkillable SOHO router botnet @dadamitis 
+
+Listen: https://t.co/4eJUwb73Pa",原创,en,3,9,2,34,2023-12-20 17:58:14,2024-04-16 13:31:55,1737532878345707919,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1743311360992440794,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"⚡️🔥 NEW:  Danny Adamitis on an ‘unkillable’ router botnet used by Chinese .gov hackers
+https://t.co/J4iNcfhKvl",原创,en,0,0,0,7,2024-01-05 16:39:52,2024-04-16 13:31:55,1743311360992440794,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1740401913911447963,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Lockdown Mode would have blocked the whole 0click chain, right?",原创,en,2,0,1,5,2023-12-28 15:58:46,2024-04-16 13:32:10,1740401913911447963,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1740057280480194843,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"""The real innovation in cybersecurity lives in tiny startups...""  &lt;-- Allison Miller on a conundrum facing enterprise defenders @selenakyle #securityconversations
+
+Listen: https://t.co/qDnSeMUnMk https://t.co/nci8M0pyWS",原创,en,1,3,0,7,2023-12-27 17:09:19,2024-04-16 13:32:24,1740057280480194843,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1740056910169264128/pu/vid/avc1/1280x720/wld1JplcDhdjWmAc.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1740056910169264128/pu/img/8fZgqezUt2LnejO9.jpg'],
+https://twitter.com/8236572/status/1738258122928762962,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"🔥 On the pod, Allison Miller brainstorms future AI/ML security use-cases:
+
+""How can AI or ML be used in a way to auto-assist or manage permissions in an IAM system?;  Or how can we use AI/ML better to prioritize queues in cybersecurity operations? @selenakyle https://t.co/KUUkokbTdS",原创,en,3,2,1,10,2023-12-22 18:00:06,2024-04-16 13:32:40,1738258122928762962,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1738256993272672257/pu/vid/avc1/1280x720/zKQw5eBat04qyg3w.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1738256993272672257/pu/img/0LxtiuD7tjePCWRC.jpg'],
+https://twitter.com/8236572/status/1737941571071578288,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"On the pod, Allison Miller talks about innovation in identity and some raw realities:
+
+""Every IAM implementation I've ever worked on has been sort of ugly. Deep in the infrastructure, you have to wire a lot of things in.  It requires a lot of work to get things up and running..."" https://t.co/zxinyImMxO",原创,en,1,5,1,6,2023-12-21 21:02:14,2024-04-16 13:32:40,1737941571071578288,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1737940697607770115/pu/vid/avc1/720x720/D2djzthOgNNTsnUq.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1737940697607770115/pu/img/nK4ttsmHUvXblkKJ.jpg'],
+https://twitter.com/8236572/status/1737926738443927954,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Google warns of in-the-wild exploitation of CVE-2023-7024, the 8th Chrome 0day documented this year
+https://t.co/rcswIcPdgh",原创,en,1,3,0,10,2023-12-21 20:03:18,2024-04-16 13:32:58,1737926738443927954,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1737920496849813788,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"🚨 NEW! Former Reddit CISO Allison Miller joins the show to talk about her new consulting company, making tough decisions as CISO, personal exposure to liability, IAM complexities, paying ransoms.. @selenakyle #SecurityConversations
+
+Listen:
+https://t.co/qDnSeMUnMk",原创,en,1,9,1,28,2023-12-21 19:38:30,2024-04-16 13:32:59,1737920496849813788,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1737239199487873278,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"🔊🚨 The five most-listened SecurityConversations episodes in 2023:
+
+5/ 💻 DARPA's Perri Adams talks about the thrill and challenges of 'Capture the Flag' contests and announces a staggering $2M AI cyber challenge.
+
+https://t.co/lj5Ap9pVqx",原创,en,1,15,0,50,2023-12-19 22:31:16,2024-04-16 13:32:59,1737239199487873278,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1737262833480712663,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"New from Apple:  iOS 17.2.1 
+(This update has no published CVE entries)",原创,en,0,1,0,1,2023-12-20 00:05:10,2024-04-16 13:32:59,1737262833480712663,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1736789314829168764,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"VF Corporation, owner of some of the biggest apparel and footwear brands, has been hit by a ransomware attack that included the theft of sensitive corporate and personal data. https://t.co/P123Rmg3B1",原创,en,0,3,0,3,2023-12-18 16:43:35,2024-04-16 13:33:14,1736789314829168764,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1736775425563533666,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,Brace for breach notices.  The raw reality is everyone's pwned by ransomware :(,原创,en,0,0,3,4,2023-12-18 15:48:23,2024-04-16 13:33:14,1736775425563533666,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1736769901581181322,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"""The vulnerability is being actively exploited in the wild.""
+
+Wallet draining 0day
+https://t.co/idwXRrlvyn",原创,en,1,1,0,2,2023-12-18 15:26:26,2024-04-16 13:33:14,1736769901581181322,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1735683393591955659,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Zoom launches an open source Vulnerability Impact Scoring System (VISS) tested within its bug bounty program
+
+Story by @EduardKovacs 
+https://t.co/llHrpKCLGK",原创,en,0,1,0,2,2023-12-15 15:29:03,2024-04-16 13:33:31,1735683393591955659,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1735046452911726625,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,Pro-tip to PR folks:  You can't request an embargo on publicly available information. C'mon dawg.,原创,en,1,1,0,8,2023-12-13 21:18:04,2024-04-16 13:33:31,1735046452911726625,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1734992364006166654,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Malware hunters have set eyes on an impossible-to-kill botnet packed with end-of-life SOHO routers and connects it to Volt Typhoon, a Chinese APT hitting US critical infra. 
+
+Research by Dan Adamitis and Black Lotus Labs team @dadamitis @BlackLotusLabs 👇
+
+https://t.co/SCUkKcDscM",原创,en,1,1,0,5,2023-12-13 17:43:08,2024-04-16 13:33:31,1734992364006166654,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1734978192845467875,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Leftover:  Microsoft document at least 33 vuln across a range of products and calls urgent attention to remote code execution bugs in the MSHTML Platform, the Microsoft Power Platform Connector and the Internet Connection Sharing (ICS) components
+https://t.co/ffTNhojUeb",原创,en,0,0,0,0,2023-12-13 16:46:50,2024-04-16 13:33:31,1734978192845467875,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1734686286559277286,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Adobe documented at least 207 security vulnerabilities and warned users on both Windows and macOS systems of the risk of code execution, memory leaks and denial-of-service attacks
+
+https://t.co/U19HoodKiJ",原创,en,0,1,0,1,2023-12-12 21:26:54,2024-04-16 13:33:46,1734686286559277286,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1734681164726845725,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"""With over 900 CVEs addressed this year, 2023 has been one of the busiest years for Microsoft patches.""
+
+https://t.co/svqR6dbf3F",原创,en,0,2,2,7,2023-12-12 21:06:33,2024-04-16 13:33:46,1734681164726845725,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1734273100399943809,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"On the pod, veteran hacker Rob Ragan talks the urgency of creating ""chokepoints"" in an enterprise network to reduce attack surface.  Great conversation on how an attacker thinks...  @sweepthatleg 👇
+
+Listen: https://t.co/gZEwjLFYOV https://t.co/nHz6LyNLdc",原创,en,1,1,1,4,2023-12-11 18:05:03,2024-04-16 13:33:46,1734273100399943809,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1734272326878011392/pu/vid/avc1/720x720/338hJB4wqV2U8IrE.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1734272326878011392/pu/img/dtxNV2iZxEEHFEgj.jpg'],
+https://twitter.com/8236572/status/1733197791512707225,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Bishop Fox principal architect Rob Ragan is a big fan of deception techology (honeytokens) in a defender's bag @sweepthatleg @bishopfox #securityconversations 
+
+Full episode: https://t.co/gZEwjLFYOV &lt;- sponsored by @binarly_io https://t.co/QRHIeeEevr",原创,en,1,7,2,14,2023-12-08 18:52:09,2024-04-16 13:34:04,1733197791512707225,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1733197320060387328/pu/vid/avc1/720x720/NTqlvZgibU3qinxj.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1733197320060387328/pu/img/mRetznMsVhnawL2I.jpg'],
+https://twitter.com/8236572/status/1732819711958917585,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"""It's like electricity.  It's leapfrog for everything."" &lt;-- Bishop Fox principal architect Rob Ragan on the thrill and excitement of AI/LLM tech @sweepthatleg @bishopfox https://t.co/yK1SlktwMC",原创,en,1,4,1,7,2023-12-07 17:49:48,2024-04-16 13:34:04,1732819711958917585,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1732819071748743169/pu/vid/avc1/720x720/vxOch-OxWkdayIgf.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1732819071748743169/pu/img/2Vk5sVcZ_IlDIMCC.jpg'],
+https://twitter.com/8236572/status/1732777739181338762,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"🔥 New podcast alert!  Bishop Fox principal architect Rob Ragan says AI gives hackers ""superpowers"" and will change the dynamics of cybersecurity
+
+Listen: https://t.co/gZEwjLFYOV",原创,en,1,1,0,5,2023-12-07 15:03:01,2024-04-16 13:34:04,1732777739181338762,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1732532288532119703,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"🚨 Coming tomorrow on the podcast:  Bishop Fox strategist Rob Ragan (@sweepthatleg) on the excitement of AI solving security problems
+
+Catch all the episodes:  https://t.co/ZThIHI7aoG https://t.co/3eNiS23UCA",原创,en,2,2,3,10,2023-12-06 22:47:41,2024-04-16 13:34:04,1732532288532119703,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1732531636951261184/pu/vid/avc1/720x720/L267szy9m9-k5a1x.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1732531636951261184/pu/img/wsrWOZVwL6hZvotb.jpg'],
+https://twitter.com/8236572/status/1732448383200358614,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Just about every Windows and Linux device vulnerable to new LogoFAIL firmware attack; UEFIs booting Windows and Linux devices can be hacked by malicious logo images
+
+https://t.co/25u3wv76Dd &lt;-- Ars story by @dangoodin001",原创,en,1,4,0,9,2023-12-06 17:14:16,2024-04-16 13:34:23,1732448383200358614,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1732442951966773654,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Hackers can use the LogoFAIL attack to compromise the entire system and bypass security measures such as Secure Boot 
+https://t.co/cEE5HUWGtb &lt;-- story on @binarly_io research by @EduardKovacs",原创,en,0,4,0,11,2023-12-06 16:52:41,2024-04-16 13:34:23,1732442951966773654,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1732439854951354600,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Microsoft announces a major shakeup of its security hierarchy, removing the CISO and Deputy CISO and handing the reins to a recent hire who previously served as CTO and President at Bridgewater.
+
+Interesting times
+https://t.co/VMOJ2Wuswv",原创,en,0,10,0,11,2023-12-06 16:40:23,2024-04-16 13:34:23,1732439854951354600,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1730305227008708893,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"NEW from Apple: WebKit 0days exploited on older iPhones.  Also fixed in macOS and Safari
+
+https://t.co/7ZvK6Koqoj",原创,en,1,4,0,4,2023-11-30 19:18:08,2024-04-16 13:34:39,1730305227008708893,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1729915063635734991,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"ownCloud CVSS 10/10 flaw being exploited in the wild
+
+""Shadowserver Foundation warned that it has identified roughly 11,000 ownCloud instances that are exposed to the internet...""
+
+https://t.co/MrPQmYYsga",原创,en,0,1,0,2,2023-11-29 17:27:46,2024-04-16 13:34:39,1729915063635734991,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1729877442054287384,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Fresh Chrome 0day.  exploited in the wild
+
+“Google is aware that an exploit for CVE-2023-6345 exists in the wild,” the internet giant notes in its advisory, without providing specific details on the observed exploitation.
+
+https://t.co/E7oat0WjKz",原创,en,1,7,0,15,2023-11-29 14:58:16,2024-04-16 13:34:39,1729877442054287384,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1729618902341361988,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,How's gmail still delivering this stuff to inboxes? https://t.co/mkJUJGbtNb,原创,en,2,0,0,10,2023-11-28 21:50:55,2024-04-16 13:34:39,1729618902341361988,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/GADXOUFb0AALXZ7.jpg'],
+https://twitter.com/8236572/status/1727405077877711163,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Arguing that a 300-day embargo on a vulnerability is somehow reasonable 👇|
+https://t.co/aKuSXAs5h6 https://t.co/UahBlY8VgA",原创,en,6,17,4,72,2023-11-22 19:13:58,2024-04-16 13:34:56,1727405077877711163,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/F_j5UHTbMAAn-CJ.jpg'],
+https://twitter.com/8236572/status/1725191386927153495,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Google’s TAG says a Zimbra Collaboration Suite zero-day was exploited earlier this year to steal email data from government organizations in several countries.
+
+Coverage by @EduardKovacs 
+https://t.co/yjigAupPPJ",原创,en,1,1,0,1,2023-11-16 16:37:33,2024-04-16 13:35:15,1725191386927153495,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1724865376964764057,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,The AI-will-save-cyber fluff out of Microsoft is so unhelpful.,原创,en,3,0,0,3,2023-11-15 19:02:06,2024-04-16 13:35:15,1724865376964764057,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1724118105528635580,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Coming up next podcast: Chainguard's Dan Lorenc says it's easy to fix the ""crappy"" CVE ecosystem and the government should be doing it @lorenc_dan #SecurityConversations https://t.co/4uQgJ7IVFU",原创,en,2,11,1,18,2023-11-13 17:32:43,2024-04-16 13:35:34,1724118105528635580,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1724117743463792640/pu/vid/avc1/720x720/FjxASuqy3F6O7EYY.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1724117743463792640/pu/img/SurOMMB6qY62SYPQ.jpg'],
+https://twitter.com/8236572/status/1724533956941627466,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"A few more Windows 0days being exploited in the wild.  As usual, info and details scarce
+https://t.co/MTy00g46ZE",原创,en,1,2,0,2,2023-11-14 21:05:10,2024-04-16 13:35:34,1724533956941627466,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1724496282868498446,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"CacheWarp is a new attack method affecting a security feature present in AMD processors that can pose a risk to virtual machines
+
+Coverage in @SecurityWeek by @EduardKovacs 
+https://t.co/kRSBKqgbYt",原创,en,1,7,0,11,2023-11-14 18:35:28,2024-04-16 13:35:34,1724496282868498446,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1724496596711489801,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Adobe Patch Tuesday: 72 security bugs, including code-execution defects in the widely deployed Acrobat and Reader software
+
+Coverage at @SecurityWeek  https://t.co/tdKB3taE6t",原创,en,0,0,0,1,2023-11-14 18:36:42,2024-04-16 13:35:34,1724496596711489801,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1724461055638978603,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"🔥 Chainguard CEO Dan Lorenc warns that parts of the EU's proposed Cyber Resilience Act that will ""dramatically change the way open-source gets used in Europe..."" #securityconversations
+
+Catch the entire episode: https://t.co/jaWiA2ArzA https://t.co/hE1MYJqjKS",原创,en,1,1,0,3,2023-11-14 16:15:29,2024-04-16 13:35:47,1724461055638978603,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1724459660617584640/pu/vid/avc1/720x720/kq-KjfLhmU_bbZUP.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1724459660617584640/pu/img/0GTxn0oxZYMXDUOh.jpg'],
+https://twitter.com/8236572/status/1724440286640603181,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"On the pod, Chainguard's Dan Lorenc says SBOMs may help defenders get budget, but otherwise have very little value... @lorenc_dan #securityconversations
+
+Full episode: https://t.co/jaWiA2zTK2 https://t.co/5S23s9yNZp",原创,en,4,10,0,25,2023-11-14 14:52:57,2024-04-16 13:35:47,1724440286640603181,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1724439272625688576/pu/vid/avc1/720x720/HsguivAU2SqksR_-.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1724439272625688576/pu/img/m26nMo5Xq_rjWKHL.jpg'],
+https://twitter.com/8236572/status/1724065999719415811,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,PR folks and their .doc attachments 👎,原创,en,1,0,0,0,2023-11-13 14:05:40,2024-04-16 13:36:01,1724065999719415811,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1722720008055509155,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"""This (Fortigate) vulnerability is yet another which would not have been nearly as impactful if basic exploit mitigations (ASLR in this case) were implemented."" 
+
+https://t.co/lZKDs1q8aa",原创,en,1,7,1,23,2023-11-09 20:57:11,2024-04-16 13:36:01,1722720008055509155,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1722662526717161554,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"This Quarklab/Netgear Pwn2Own vuln disclosure timeline is a small slice of the ugly at these bigcos
+https://t.co/7Bk1mjtKoF",原创,en,4,6,1,8,2023-11-09 17:08:46,2024-04-16 13:36:19,1722662526717161554,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1722642446067318789,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Mandiant said it caught Sandworm executing code within an end-of-life MicroSCADA control system and issuing commands that impacted the victim’s connected substations
+https://t.co/eHpwx0BTxU",原创,en,2,28,0,57,2023-11-09 15:48:58,2024-04-16 13:36:19,1722642446067318789,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1722637166105546943,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"0day in SysAid IT service management software. Already exploited by professional ransomware gang
+https://t.co/178g29rlv4",原创,en,1,2,0,2,2023-11-09 15:28:00,2024-04-16 13:36:19,1722637166105546943,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1722630914436661415,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Dissecting Intel’s Explanation of Key Usage in Integrated Firmware Images (IFWI)
+https://t.co/2vNeNgL872",原创,en,0,1,0,1,2023-11-09 15:03:09,2024-04-16 13:36:19,1722630914436661415,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1722305543937929278,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Cisco Talos threat hunter Nick Biasini says private sector vendors need to ""show the receipts"" when doing attribution on nation-state threat actors @infosec_nick #SecurityConversations 
+
+Full conversation: https://t.co/qMbsvjNga0 https://t.co/ht0t7V3TQ4",原创,en,1,4,1,13,2023-11-08 17:30:15,2024-04-16 13:36:35,1722305543937929278,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1722305171278188544/pu/vid/avc1/720x1280/akX21RDcXKrtmxBC.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1722305171278188544/pu/img/f2wI-NcEguUfGuH7.jpg'],
+https://twitter.com/8236572/status/1722289630836597036,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Cisco Talos researcher Nick Biasini with some blunt thoughts on vendors monetizing APT ""private reports"" and IOCs  @infosec_nick  #SecurityConversations
+
+Full conversation: https://t.co/qMbsvjNga0 https://t.co/1sP3NOW1Pn",原创,en,1,3,0,5,2023-11-08 16:27:01,2024-04-16 13:36:36,1722289630836597036,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1722288711319404544/pu/vid/avc1/720x1280/0ifVoKmhvbEiJAyh.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1722288711319404544/pu/img/VnU0uVim_3-AcQ5Q.jpg'],
+https://twitter.com/8236572/status/1722267510731653368,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"""What we're seeing today, unfortunately, is that bombs are much more effective than bytes.""
+
+Threat hunter Nick Biasini weighs in on all the cyberwar chatter 👇
+
+Full episode: https://t.co/qMbsvjNga0 https://t.co/A5ZDYrI1uJ",原创,en,1,0,1,3,2023-11-08 14:59:07,2024-04-16 13:36:36,1722267510731653368,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1722266921973030912/pu/vid/avc1/720x1280/c1FcFHAD_D_7BR8G.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1722266921973030912/pu/img/6BGMiVrmp0Uhe4J7.jpg'],
+https://twitter.com/8236572/status/1722262234976682362,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Major outage 
+https://t.co/BHrVlS7J8Y https://t.co/CgmQiYi66r",原创,en,0,2,3,6,2023-11-08 14:38:09,2024-04-16 13:36:36,1722262234976682362,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/F-a0QvHasAApUG0.png'],
+https://twitter.com/8236572/status/1721629919720124460,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Coming up next on the podcast:
+
+- Nick Biasini, researcher, Cisco Talos Intelligence Group @infosec_nick 
+- Seth Spergel, managing partner, Merlin Ventures @MerlinVentures 
+- Dan Lorenc, co-founder and CEO, Chainguard @lorenc_dan 
+
+Subscribe at
+https://t.co/4eJUwb73Pa",原创,en,2,8,1,18,2023-11-06 20:45:33,2024-04-16 13:36:52,1721629919720124460,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1721998107796492797,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"🔥NEW podcast advisory: @TalosSecurity researcher Nick Biasini on the cryptic world of threat actor attribution, the rise of PSOAs (private sector offensive actors) and why network edge devices are a happy hunting ground for attackers @infosec_nick 
+
+https://t.co/qMbsvjNga0",原创,en,1,3,2,11,2023-11-07 21:08:36,2024-04-16 13:36:52,1721998107796492797,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1721970822376767976,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,I'm still fixated on Microsoft's coming global AI-based cyber shield.,原创,en,5,1,0,17,2023-11-07 19:20:11,2024-04-16 13:36:52,1721970822376767976,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1721642503261282346,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"The @CYBERWARCON folks crushed it with this agenda
+https://t.co/ukEczm7C9v",原创,en,0,8,0,23,2023-11-06 21:35:34,2024-04-16 13:36:52,1721642503261282346,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1720976210547847438,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"These guys were just lecturing some other guys about something 
+
+https://t.co/ZYOmXcuoTA",原创,en,0,1,0,4,2023-11-05 01:27:57,2024-04-16 13:37:10,1720976210547847438,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1720529685472534760,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Where's all that ransomware wealth transfer going?  @nixonnixoff 
+
+Full conversation https://t.co/85So8bvkGX https://t.co/7zDG3LoFYN",原创,en,4,3,1,15,2023-11-03 19:53:37,2024-04-16 13:37:28,1720529685472534760,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1720529364646064128/pu/vid/avc1/720x1280/r7ZtF20yJ2V63MOz.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1720529364646064128/pu/img/BgXXEn1vAIono_ou.jpg'],
+https://twitter.com/8236572/status/1720453365963125132,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"A big win for sharing IOCs:
+
+""On October 13, 2023, BeyondTrust provided Okta Security a suspicious IP address attributed to the threat actor. With this indicator, we identified the additional file access events associated with the compromised account.""",原创,en,0,3,2,29,2023-11-03 14:50:21,2024-04-16 13:37:29,1720453365963125132,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1720122442147074555,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"What the fuq is this gibberish:
+
+""Microsoft invented the Security Development Lifecycle (SDL) and made it a bedrock principle of software trust and engineering. We will evolve it to “dynamic SDL” (dSDL).""
+
+I swear, lawyers and PR people will write anything with a straight face.",原创,en,6,10,0,36,2023-11-02 16:55:23,2024-04-16 13:37:47,1720122442147074555,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1720093573809659996,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Unit 221B chief researcher Allison Nixon (@nixonnixoff): 
+
+“Every big breach, there's a story behind the headline that somebody had been warning the company for a long time. Somebody is reading every single one of these articles saying, ‘I told you so. I predicted this!' https://t.co/YaOQ5IXLmX",原创,en,1,3,0,5,2023-11-02 15:00:40,2024-04-16 13:37:47,1720093573809659996,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1720093217268613121/pu/vid/avc1/720x1280/PHKt871JlL0Y-JRH.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1720093217268613121/pu/img/Ub_nrBXQieKdSwO2.jpg'],
+https://twitter.com/8236572/status/1719861842955411457,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Unit 221B chief researcher Allison Nixon peels apart 'the Com', the online sub-culture that includes dangerous teenage hackers responsible for major corporate breaches @nixonnixoff #SecurityConversations
+
+Full episode: https://t.co/85So8bvkGX https://t.co/TxHu3ysA1W",原创,en,2,12,0,34,2023-11-01 23:39:51,2024-04-16 13:37:47,1719861842955411457,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1719861621450039296/pu/vid/avc1/720x1280/aHoXikZVPxFznBWI.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1719861621450039296/pu/img/cO-73nVU0yl2iTFr.jpg'],
+https://twitter.com/8236572/status/1719790732175917090,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"🎤NEW podcast advisory: Unit 221B's chief researcher Allison Nixon with a deep-drive into the shadowy dynamics of criminal communities, high-profile ransomware attacks, teenagers breaking into big companies, etc. 
+
+* Episode sponsored by @binarly_io.
+
+https://t.co/85So8bvkGX",原创,en,2,6,1,13,2023-11-01 18:57:17,2024-04-16 13:38:02,1719790732175917090,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1719788466081546337,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Chainguard, a high-flying security startup founded by a team of former Google software engineers, has banked $61 million in new financing as investors continue to make hefty wagers on companies in the supply chain security space.
+
+https://t.co/qfs49mo4M5",原创,en,1,3,0,13,2023-11-01 18:48:17,2024-04-16 13:38:02,1719788466081546337,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1717299264554999854,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Yellow Liderc is an Iran-based threat actor focused on targeting Aviation, Automotive, Aerospace and Defense, Logistics, Maritime and Information Technology organisations.  https://t.co/wqBbvirlYd",原创,en,0,0,0,0,2023-10-25 21:57:05,2024-04-16 13:38:02,1717299264554999854,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1717223606260732281,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Mandiant’s John Hultquist urges critical infrastructure defenders to work on finding and removing traces of Volt Typhoon, a Chinese gov hacking team caught in a series of eyebrow-raising attacks against targets in Guam and the United States #ICSCC23
+
+https://t.co/GKSdzlF2BA",原创,en,0,3,0,12,2023-10-25 16:56:26,2024-04-16 13:38:02,1717223606260732281,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1717170764011442291,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"VMware vCenter vuln so critical, patches released for end-of-life products. CVSS severity score 9.8/10.
+https://t.co/rgtjGFviRW",原创,en,2,19,1,25,2023-10-25 13:26:28,2024-04-16 13:38:02,1717170764011442291,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1716816483211460919,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,On stage with Mandiant's John Hultquist talking ICS/OT security realities  ⁦@JohnHultquist⁩ ⁦@SecurityWeek⁩ https://t.co/769XCkVV3k,原创,en,0,2,0,9,2023-10-24 13:58:41,2024-04-16 13:38:19,1716816483211460919,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/F9NbfHVbsAAIyqk.jpg'],
+https://twitter.com/8236572/status/1715491705594798081,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Angry Cloudflare dunks on Okta
+https://t.co/WxsAtBWmt1 https://t.co/B8R5FNcz1J",原创,en,3,4,0,21,2023-10-20 22:14:29,2024-04-16 13:38:19,1715491705594798081,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/F86mhbwbcAEbIry.png'],
+https://twitter.com/8236572/status/1714737903354712142,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Google TAG says it is still catching government-backed hacking groups linked to China and Russia exploiting a WinRAR vuln patched 3 months ago
+
+https://t.co/VUpTyMCmDs",原创,en,0,0,0,1,2023-10-18 20:19:09,2024-04-16 13:38:33,1714737903354712142,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1714697898972315961,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Heading to Atlanta next week for @SecurityWeek’s 2023 ICS Cybersecurity Conference
+
+Excited to to hosting this keynote fireside chat with Mandiant's John Hultquist @JohnHultquist  #ICSCC23 https://t.co/iFN6mkCQ1h https://t.co/YOFCX4QJ3s",原创,en,1,6,2,5,2023-10-18 17:40:11,2024-04-16 13:38:33,1714697898972315961,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/F8vUpGWbcAEVpLJ.jpg'],
+https://twitter.com/8236572/status/1712476497066557668,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"New from IBM X-Force's Valentina Palmiottii: 
+
+Critically close to zero(day): Exploiting Microsoft Kernel streaming service @chompie1337 
+https://t.co/Y0aL6iSGo4",原创,en,1,0,0,3,2023-10-12 14:33:07,2024-04-16 13:38:33,1712476497066557668,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1712144885296607707,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Pay attention to this bit on rewriting things in memory safe languages 👇
+
+https://t.co/DaHVLUxbMC.",原创,en,0,2,1,4,2023-10-11 16:35:25,2024-04-16 13:38:50,1712144885296607707,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1711881250372542677,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Microsoft says an APT group tracked as Storm-0062 has been hacking Confluence installations since mid-September, three weeks before Atlassian’s public disclosure.
+
+Story https://t.co/pZ5UFB7R0Z",原创,en,1,25,0,37,2023-10-10 23:07:49,2024-04-16 13:38:50,1711881250372542677,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1711781448024478170,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Adobe Patch Tuesday:  
+
+13 vulnerabilities in multiple product lines, including critical flaws in Adobe Commerce and Photoshop will require immediate attention 
+
+Headsup on @SecurityWeek: 
+https://t.co/YOrCqORJgn",原创,en,1,9,0,10,2023-10-10 16:31:15,2024-04-16 13:38:50,1711781448024478170,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1711752865990295712,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"0days everywhere 👀
+
+Cloudflare, Google and AWS on a new zero-day named ‘HTTP/2 Rapid Reset’ being exploited by malicious actors to launch ""the largest distributed denial-of-service (DDoS) attacks in internet history""
+
+https://t.co/jxXXDCuGNB &lt;- reporting by @EduardKovacs",原创,en,4,135,10,267,2023-10-10 14:37:40,2024-04-16 13:39:03,1711752865990295712,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1711096724046197228,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Northern Arizona, Mogollan Rim 🌲🚴 https://t.co/opYXPUWVGd",原创,ca,0,0,0,5,2023-10-08 19:10:24,2024-04-16 13:39:03,1711096724046197228,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/F78JZMoaEAAgLvb.jpg'],
+https://twitter.com/8236572/status/1710386073237643516,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"MGM Resorts costs from last month’s disruptive ransomware infection has exceeded $110 million, including $10 million in one-time clean-up consulting fees
+
+Story at @SecurityWeek 
+https://t.co/DTrCqIiSsk",原创,en,0,9,0,26,2023-10-06 20:06:31,2024-04-16 13:39:03,1710386073237643516,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1709999607802155465,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Cisco Emergency Responder software vuln (CVSS 9.8):
+
+""Unauthenticated, remote attacker can log into device using the root account, which has default, static credentials that cannot be changed or deleted.
+
+https://t.co/pGMRlPtf4o",原创,en,5,35,4,81,2023-10-05 18:30:51,2024-04-16 13:39:03,1709999607802155465,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1709968389492642006,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,Spot the blind spot?  👇 Microsoft's documentation of .gov APT activity https://t.co/ErjfkmcoDy,原创,en,3,2,1,4,2023-10-05 16:26:48,2024-04-16 13:39:03,1709968389492642006,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/F7sG2mMbUAABQJm.jpg'],
+https://twitter.com/8236572/status/1709928252884869591,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,https://t.co/uGxDrruUrk &lt;-- fine reporting by @dangoodin001,原创,en,0,0,0,3,2023-10-05 13:47:19,2024-04-16 13:39:03,1709928252884869591,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1709648322183811418,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"""The one rated HIGH is probably the worst curl security flaw in a long time.""  https://t.co/YgeM99LNP9",原创,en,0,2,0,4,2023-10-04 19:14:58,2024-04-16 13:39:18,1709648322183811418,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1709637902118895804,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"This is the 16th documented in-the-wild 0day on Apple devices so far in 2023
+https://t.co/cxNyHVwNmb",原创,en,5,54,10,113,2023-10-04 18:33:34,2024-04-16 13:39:18,1709637902118895804,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1709583697857642689,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Remotely exploitable Supermicro BMC IPMI firmware vulns (CVSS 9.9s)
+https://t.co/RSDq4kDxv1",原创,en,1,7,0,13,2023-10-04 14:58:10,2024-04-16 13:39:18,1709583697857642689,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1709257537575678097,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,https://t.co/WllItzCZ3g,原创,zxx,1,1,0,2,2023-10-03 17:22:08,2024-04-16 13:39:35,1709257537575678097,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1708903331278807399,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"New from DataDog:  A Kubernetes attack graph tool allowing automated calculation of attack paths between assets in a cluster
+https://t.co/dvPbbQEtiJ",原创,en,0,2,1,13,2023-10-02 17:54:38,2024-04-16 13:39:35,1708903331278807399,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1707799477627793833,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"""MadPot watches more than 100 million potential threat interactions and probes every day around the world, with approximately 500,000 of those observed activities advancing to the point where they can be classified as malicious.""
+https://t.co/kpKX3uq6lQ",原创,en,0,13,0,11,2023-09-29 16:48:19,2024-04-16 13:39:35,1707799477627793833,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1707487040810762244,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"""Cisco discovered attempted exploitation of the GET VPN feature and conducted a technical code review of the feature. This vulnerability was discovered during our internal investigation.""
+
+https://t.co/mKm495Pqz1",原创,en,0,17,0,27,2023-09-28 20:06:48,2024-04-16 13:39:49,1707487040810762244,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1707467874414297096,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"This is the 9th in-the-wild zero-day hitting Google products so far in 2023. 
+
+https://t.co/azt7oDgYHC",原创,en,0,0,1,7,2023-09-28 18:50:39,2024-04-16 13:39:49,1707467874414297096,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1707466526100750362,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Progress Software CVSS 10/10 bug, credited to @infosec_au 
+https://t.co/4wqyW7dAGY",原创,en,1,0,0,3,2023-09-28 18:45:17,2024-04-16 13:39:49,1707466526100750362,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1707083793017041229,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Firmware attacks in the wild! 🔥
+https://t.co/rqmETyq4QS",原创,en,8,84,8,231,2023-09-27 17:24:26,2024-04-16 13:39:50,1707083793017041229,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1706371922257379476,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Trend Micro itw 0day 💥 
+&lt;-- https://t.co/MaQWsVyowP &lt;- @SecurityWeek coverage by @EduardKovacs",原创,en,0,6,0,9,2023-09-25 18:15:43,2024-04-16 13:45:07,1706371922257379476,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1703833370663522406,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"On the latest pod, I asked Dakota Cary about that Bloomberg 'rice grain' spy-chip report and Chinese hackers targeting hardware @DakotaInDC
+
+Full episode https://t.co/zga5k9W4RR &lt;- sponsored by @binarly_io https://t.co/JQkQuvG4v2",原创,en,3,4,0,7,2023-09-18 18:08:25,2024-04-16 13:45:22,1703833370663522406,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1703832964264804352/pu/vid/avc1/720x720/je3RfbRBCWoRsdu0.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1703832964264804352/pu/img/MT_Ap2nldT2AIGdF.jpg'],
+https://twitter.com/8236572/status/1704149409662148889,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Does anyone know anything about Fortinet's security program?  Who runs security there?
+https://t.co/E9M2c2XaTD",原创,en,0,0,0,0,2023-09-19 15:04:15,2024-04-16 13:45:22,1704149409662148889,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1703876703737856254,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"On the pod, Dakota Cary discusses some of the fallout from China's 2021 vulnerability reporting law @DakotaInDC @AtlanticCouncil 
+
+Full episode: https://t.co/zga5k9W4RR https://t.co/Vm0wS946WT",原创,en,0,1,0,3,2023-09-18 21:00:37,2024-04-16 13:45:23,1703876703737856254,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1703876544203284480/pu/vid/avc1/720x1280/zZklw2Ddn8uDr-Q7.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1703876544203284480/pu/img/P2LTgRJhvv8W0Voz.jpg'],
+https://twitter.com/8236572/status/1703857502079869330,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"The Atlantic Council's Dakota Cary says China has ""significant incentives to continue economic cyber-espionage"" hacking campaigns.  A snippet of our podcast conversation 👇 https://t.co/PjSba8cKqW",原创,en,1,3,0,3,2023-09-18 19:44:19,2024-04-16 13:45:23,1703857502079869330,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1703856538434314240/pu/vid/avc1/720x720/GZ9cDSjpzE4CDuF4.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1703856538434314240/pu/img/g3lj3YVJ9KZ0Pd6t.jpg'],
+https://twitter.com/8236572/status/1703844785797353695,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"“An attacker could have injected malicious code into all the AI models in this storage account, and every user who trusts Microsoft’s GitHub repository would’ve been infected by it.""
+https://t.co/KGIbsnd07V",原创,en,0,7,1,27,2023-09-18 18:53:47,2024-04-16 13:45:39,1703844785797353695,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1703820172832977024,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"🚨New podcast advisory:  China, Obama/Xi 2015, AI, economic espionage, vuln weaponization, Tianfu Cup, etc. @DakotaInDC 
+
+https://t.co/zga5k9W4RR &lt;- episode sponsored by @binarly_io",原创,en,0,2,0,5,2023-09-18 17:15:59,2024-04-16 13:45:39,1703820172832977024,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1702330596033433811,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"NEW!  My conversation with Google engineering director Abhishek Arya on AI experiments, open source vuln management, and the long road ahead for securing software supply chains. (Episode sponsored by @binarly_io)
+https://t.co/3hPcZhXUs0",原创,en,0,4,1,5,2023-09-14 14:36:56,2024-04-16 13:45:56,1702330596033433811,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1702071295650021470,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,Microsoft's threat intel reports are becoming as useless as the MSRC security bulletins.  What a shame.,原创,en,0,1,0,2,2023-09-13 21:26:34,2024-04-16 13:45:56,1702071295650021470,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1701981690518966742,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Ex-Uber CISO Joe Sullivan's talk at Defcon
+https://t.co/ozroML6YNB",原创,en,1,3,0,3,2023-09-13 15:30:30,2024-04-16 13:45:56,1701981690518966742,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1701957924933833168,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"On the newest pod, Google's Abhishek Arya @infernosec talks about fuzzing for open source bugs ""on tip of tree trunk""
+
+Full interview: https://t.co/3hPcZhXmCs https://t.co/KFoYtxv5Xm",原创,en,1,3,0,7,2023-09-13 13:56:04,2024-04-16 13:45:56,1701957924933833168,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1701957465938546688/pu/vid/avc1/720x720/05BUPu6WyuztCNG8.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1701957465938546688/pu/img/iEvbr0VkQLCPB3XS.jpg'],
+https://twitter.com/8236572/status/1700919783628370096,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Google is exploring the use of LLMs to pinpoint suspicious commits in open source repos and find signs of malicious maintainers. Abhishek Arya explains 👇 @infernosec 
+
+Podcast coming to https://t.co/iJb8vqkTnq https://t.co/NVjM53NwEl",原创,en,2,14,2,51,2023-09-10 17:10:52,2024-04-16 13:46:11,1700919783628370096,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1700919296288051200/pu/vid/avc1/720x720/oPxHUVIJ6L9PpP86.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1700919296288051200/pu/img/hONpXBoCam2kZvdK.jpg'],
+https://twitter.com/8236572/status/1701277960282710170,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Abhishek Arya, head of Google's open source and supply chain security teams, says the industry is 'over-pivoting' on SBOMs @infernosec 
+
+""SBOMs on their own can be incomplete, incorrect, and not trustworthy..."" https://t.co/Ktv9OOKg0f",原创,en,4,4,1,17,2023-09-11 16:54:08,2024-04-16 13:46:11,1701277960282710170,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1701276678419521537/pu/vid/avc1/720x720/uxmIkctM-ku8SSL-.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1701276678419521537/pu/img/nDA95wQwXXdNCebD.jpg'],
+https://twitter.com/8236572/status/1701752828652597701,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"The full podcast with Google's Abhishek Arya is live! 
+https://t.co/3hPcZhXUs0 @infernosec   &lt;-- episode sponsored by @binarly_io",原创,en,1,3,0,4,2023-09-13 00:21:06,2024-04-16 13:46:11,1701752828652597701,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1701651160644608031,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Security headlines over the past 2-3 days:
+
+- Two Apple iOS, macOS zero-days
+- Adobe PDF Reader 0day exploited
+- Cisco ASA 0day exploited in Akira ransomware 
+- Google patches Chrome 0-da reported by Apple
+- Microsoft Patches 2 New Exploited zero-days
+
+Stay blessed.",原创,en,5,81,9,273,2023-09-12 17:37:06,2024-04-16 13:46:12,1701651160644608031,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1701630261807714476,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Zero Day Summer hits Adobe PDF Reader
+https://t.co/4Yl0y6CD3U",原创,en,1,13,0,13,2023-09-12 16:14:03,2024-04-16 13:46:12,1701630261807714476,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1701612613803909436,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Chrome 0day (appears linked to NSO Group Pegasus iOS zero-click exploit)
+https://t.co/0MTeOI66FT https://t.co/3wnbtfqHLq",原创,en,3,40,0,102,2023-09-12 15:03:56,2024-04-16 13:46:12,1701612613803909436,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/F51XSVXbQAAQmJJ.jpg'],
+https://twitter.com/8236572/status/1701249736227836045,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Cisco is warning of a zero-day vulnerability in Cisco ASA and FTD that can be exploited remotely, without authentication, in brute force attacks.
+https://t.co/jKI1w0Xdnw",原创,en,1,27,0,47,2023-09-11 15:01:59,2024-04-16 13:46:26,1701249736227836045,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1700257755276452088,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"On the pod, Google's Abhishek Arya @infernosec talks about experimenting with AI to improve OSS-Fuzz bug-hunting on critical open source products. A snippet 👇 
+
+Podcast coming at https://t.co/ZThIHI7aoG https://t.co/7FxGJ1j1xc",原创,en,2,6,1,15,2023-09-08 21:20:12,2024-04-16 13:46:42,1700257755276452088,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1700256813609041920/pu/vid/avc1/720x720/fi5iaB3VX9PnR8h9.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1700256813609041920/pu/img/Y_IkSm-tMUOHFFnG.jpg'],
+https://twitter.com/8236572/status/1700229427316273388,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"This week in cyber, via @SecurityWeek https://t.co/ju03jAEa15",原创,en,0,0,0,5,2023-09-08 19:27:38,2024-04-16 13:46:42,1700229427316273388,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/F5htpQ2aMAAWDp_.png'],
+https://twitter.com/8236572/status/1700212226559455291,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"There are some 🔥 conversations in the Security Conversations podcast queue:
+
+- Abhishek Arya, Google open source and supply chain security teams @infernosec
+ 
+- Will Lin, cybersecurity VC-turned-founder @williamlin 
+
+- Dakota Cary, Atlantic Council’s Global China Hub @DakotaInDC",原创,en,1,4,0,15,2023-09-08 18:19:17,2024-04-16 13:46:42,1700212226559455291,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1700145665920143496,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"So far this year, Apple has patched 13 documented 0-days (discovered via in-the-wild exploitation) in iOS, iPadOS and macOS platforms.
+
+That's 21% of all the itw 0days documented so far
+https://t.co/X1jGDAWbvs https://t.co/pZh5mnpsWh",原创,en,3,24,0,52,2023-09-08 13:54:48,2024-04-16 13:46:57,1700145665920143496,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/F5ghQdmWcAAJkhj.jpg'],
+https://twitter.com/8236572/status/1699962463444418978,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Wiz: ""It’s also worth noting that unlike Microsoft’s previous report, this latest one doesn’t include any new technical indicators related to the threat actor’s activity, even though MSFT has found evidence of such activity within their corporate network."" https://t.co/OTO5nAoI2I",原创,en,0,19,0,39,2023-09-08 01:46:49,2024-04-16 13:46:57,1699962463444418978,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1699884352547791317,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,OH: Why won't NSO just let Apple look away in peace!?,原创,en,1,1,1,9,2023-09-07 20:36:26,2024-04-16 13:47:16,1699884352547791317,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1699802742750105960,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,Who's going to write the definitive story on what exactly happened at IronNet?,原创,en,1,0,1,6,2023-09-07 15:12:09,2024-04-16 13:47:16,1699802742750105960,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1699501944514175333,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"""Due to log retention policies, we don’t have logs with specific evidence of this exfiltration by this actor, but this was the most probable mechanism by which the actor acquired the key.""
+
+^^ Not even Microsoft knows 😢",原创,en,4,3,1,23,2023-09-06 19:16:53,2024-04-16 13:47:32,1699501944514175333,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1699510202457108918,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"A post-mortem Microsoft reveals how a crash dump from 2021 inadvertently exposed a key that Chinese cyberspies later leveraged to hack US government emails.
+
+https://t.co/CZ8Jiit6hD",原创,en,1,0,0,1,2023-09-06 19:49:42,2024-04-16 13:47:32,1699510202457108918,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1699183866878288374,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Okta warns that multiple customers based in the United States have been targeted in sophisticated attacks involving social engineering and MFA resets
+
+https://t.co/YX3bREh8cM  &lt;- story by @EduardKovacs",原创,en,0,2,0,1,2023-09-05 22:12:57,2024-04-16 13:47:32,1699183866878288374,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1697686165334397222,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"On the pod, Dr Sergey Bratus talked about ambitious goals for his DARPA Assured Micropatching (AMP) project:
+
+""And ten years from now, a Patch Tuesday of downloading gigabytes to patch a security vulnerability would be firmly in the past..."" https://t.co/VrTwwB6Rv1",原创,en,2,6,2,11,2023-09-01 19:01:37,2024-04-16 13:47:46,1697686165334397222,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1697685162878963712/pu/vid/720x1280/EgRVStHnC5t8NoUU.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1697685162878963712/pu/img/iFqKq6uAjTrSaGC8.jpg'],
+https://twitter.com/8236572/status/1697720667008094249,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"""VMware forgot to regenerate the keys...""
+
+https://t.co/JOMqs2w19B",原创,en,0,1,2,7,2023-09-01 21:18:43,2024-04-16 13:47:46,1697720667008094249,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1697647986434777124,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,long-form security blog posts are starting to come back 💪,原创,en,2,0,0,29,2023-09-01 16:29:55,2024-04-16 13:47:46,1697647986434777124,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1697629906786808239,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Who's messing around with the open source CVE ecosystem?
+
+https://t.co/P48oHTNq0T &lt;- @lorenc_dan finds something screwy happening",原创,en,1,3,0,8,2023-09-01 15:18:04,2024-04-16 13:48:03,1697629906786808239,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1697377548114722877,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"A snapshot of cyber as we head into Labor Day weekend, via @SecurityWeek headlines https://t.co/OUfkPpKf2M",原创,en,1,4,0,10,2023-08-31 22:35:17,2024-04-16 13:48:03,1697377548114722877,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/F45Ltz3aMAAt7Im.png'],
+https://twitter.com/8236572/status/1697348610839752896,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"""These are the most interesting questions of our age...""
+
+👇 Dr Sergey Bratus thinks that Church, Turing, von Neumann and Hilbert would be excited about tackling today's cybersecurity problems @sergeybratus @DARPA https://t.co/fn6Jh1tWwY",原创,en,2,14,0,33,2023-08-31 20:40:18,2024-04-16 13:48:03,1697348610839752896,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1697347179919421440/pu/vid/720x900/Oqfsu6hcITLSjId9.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1697347179919421440/pu/img/hcUofHlYq65ZIGot.jpg'],
+https://twitter.com/8236572/status/1697297591632015398,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"🥰 DARPA's Dr Sergey Bratus shows love to hackers!
+
+""If you want to understand how systems work or how to break them, go to DEF CON or read Phrack."" @sergeybratus @DARPA https://t.co/4IklCvL1g5",原创,en,5,35,4,132,2023-08-31 17:17:34,2024-04-16 13:48:03,1697297591632015398,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1697295549240848386/pu/vid/1280x720/_auAhHjjBeDybM3i.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1697295549240848386/pu/img/-fxolJH1ocwdtXM-.jpg'],
+https://twitter.com/8236572/status/1697258016868081709,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"""So, there is theory and then there is practice. In practice, we've converged to 'never all your own crypto'. You are going to make a mistake. Your users are going to be vulnerable. What about 'never roll your own parser'? We haven't quite converged to this..."" &lt;- @sergeybratus https://t.co/J8Mye84WaV",原创,en,3,2,0,4,2023-08-31 14:40:19,2024-04-16 13:48:21,1697258016868081709,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1697257249914445824/pu/vid/720x900/mpAQZe7wNPWcW2C2.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1697257249914445824/pu/img/UHmC2XWfph2SQ3kL.jpg'],
+https://twitter.com/8236572/status/1696946919136964620,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"🚨 Coming up next on the pod: Dr Sergey Bratus on academia, hackers and @DARPA's ambitions in cybersecurity
+
+In this snippet, he responds to nonstop chatter that AI will solve all of society's problems. @sergeybratus https://t.co/CUlLtLRCEP",原创,en,6,19,3,53,2023-08-30 18:04:07,2024-04-16 13:48:21,1696946919136964620,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1696945941755109376/pu/vid/720x900/n9ra7-79LiDfMZoy.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1696945941755109376/pu/img/1fuq71J83KXr6pt0.jpg'],
+https://twitter.com/8236572/status/1697242585042239800,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"""DARPA seeks to prevent strategic surprise ... and to create strategic surprise..."" - Dr Sergey Bratus on the mission. @sergeybratus @DARPA 
+
+Full episode: https://t.co/ZVgG236p3k https://t.co/lZM3gnzbIJ",原创,en,1,0,0,1,2023-08-31 13:39:00,2024-04-16 13:48:21,1697242585042239800,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1697242054362005504/pu/vid/1280x720/1vE-6SEU-6PAjxvc.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1697242054362005504/pu/img/DHy_u9vpKOvT_ntx.jpg'],
+https://twitter.com/8236572/status/1697238533617156585,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"On the pod, Dr Sergey Bratus called hackers ""citizen scientists"" and I can't get it out of my head.",原创,en,0,3,0,10,2023-08-31 13:22:54,2024-04-16 13:48:21,1697238533617156585,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1693630121733738751,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"NEW! DARPA program manager Perri Adams chats about her love for CTF hacking competitions and the hunt for leapfrog security technologies in the AI cyber challenge
+https://t.co/lj5Ap9pnAZ  &lt;-- episode sponsored by @binarly_io",原创,en,9,78,3,189,2023-08-21 14:24:21,2024-04-16 13:48:21,1693630121733738751,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1696881716516782404,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,I fuckong hate this iPhone keyboard,原创,en,0,0,0,1,2023-08-30 13:45:02,2024-04-16 13:48:36,1696881716516782404,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1696655567060901892,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"What on earth is going on?!
+https://t.co/G9dDMEBSaN",原创,en,6,10,3,26,2023-08-29 22:46:24,2024-04-16 13:48:36,1696655567060901892,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1696572520948789731,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"OpenAI rolls out a business edition of its popular ChatGPT app promising 'enterprise-grade security' and a commitment not to use client-specific prompts and data in the training of its models
+
+https://t.co/YryPpCD1yI",原创,en,1,2,0,1,2023-08-29 17:16:24,2024-04-16 13:48:37,1696572520948789731,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1695173107471032557,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,I asked DEF CON CTF organizer Perri Adams about the make-up of a good capture-the-flag player and for recommendations for someone now getting started @perribus https://t.co/80jv0NmUsA,原创,en,7,31,7,173,2023-08-25 20:35:38,2024-04-16 13:48:50,1695173107471032557,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1695171449064148992/pu/vid/720x900/JU4WUArcYRVv3cHd.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1695171449064148992/pu/img/3he3EvWuuEs-bSEZ.jpg'],
+https://twitter.com/8236572/status/1695117060106596365,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"🚨 A few recent podcast episodes for a summer weekend:  #securityconversations
+
+https://t.co/lj5Ap9pVqx &lt;-- @perribus",原创,en,1,1,0,4,2023-08-25 16:52:55,2024-04-16 13:48:50,1695117060106596365,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1694802912382492868,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Microsoft: ""Because this activity relies on valid accounts and living-off-the-land binaries (LOLBins), detecting and mitigating this attack could be challenging. Compromised accounts must be closed or changed.""
+https://t.co/XYyGFxY5Mm",原创,en,0,1,0,5,2023-08-24 20:04:36,2024-04-16 13:49:05,1694802912382492868,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1694419611541029326,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"""These bugs are great illustrations of how a 'security feature' is not always a 'secure feature'. Although PFR aims to improve platform security, it does so at the cost of introducing new attack surfaces.
+
+https://t.co/lfAQS2uFrM &lt;-- research by NCC's Jeremy Boone @uffeux",原创,en,0,0,0,11,2023-08-23 18:41:30,2024-04-16 13:49:05,1694419611541029326,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1694335376801079319,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"""Apple did tell me that my report was helpful in fixing CVE-2023-32357 but they declined to pay me a bounty because I was not the first person to report the issue. Apple refused to share the details with me, despite the fact that it's already been fixed.""
+
+https://t.co/zAC4oiBqbt",原创,en,7,9,1,51,2023-08-23 13:06:47,2024-04-16 13:49:20,1694335376801079319,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1694377858867847421,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"“How do we fix the bugs we don’t know we have?”
+https://t.co/nvTehp4l1q",原创,en,0,0,0,1,2023-08-23 15:55:36,2024-04-16 13:49:20,1694377858867847421,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1693988554748399766,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"By design, everyone at DARPA has an 'expiration date' on their badge.  On the pod, Perri Adams explains why @perribus @darpa #SecurityConversations https://t.co/ZGrWQsIv9p",原创,en,1,1,0,2,2023-08-22 14:08:38,2024-04-16 13:49:37,1693988554748399766,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1693987423456468992/pu/vid/720x1280/HexIR7QT6tv6qdbi.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1693987423456468992/pu/img/Ye-emyFcPCz7fnLF.jpg'],
+https://twitter.com/8236572/status/1693701422053982699,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"""Ivanti's problems with security defects in its enterprise-facing products are starting to pile up.""
+https://t.co/PbsCdb6EOX",原创,en,1,3,1,6,2023-08-21 19:07:41,2024-04-16 13:49:38,1693701422053982699,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1693697812620546417,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"DARPA program manager Perri Adams on what participants in the AI Cyber Challenge can expect from partners like OpenAI, Microsoft and Google... #SecurityConversations @perribus @DARPA #AIxCC https://t.co/Diifa4AQfi",原创,en,1,5,0,7,2023-08-21 18:53:20,2024-04-16 13:49:38,1693697812620546417,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1693697369584566272/pu/vid/720x720/tayyKjp5BJ6m6K0d.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1693697369584566272/pu/img/a-tRxkOxzQOGwuY1.jpg'],
+https://twitter.com/8236572/status/1692603281665589599,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Coming up next on the pod: The incomparable Perri Adams (@perribus) on the value of CTFs and DARPA's new $20M AI Cyber Challenge #SecurityConversations #AIxCC
+
+A snippet   👇 https://t.co/4FVlC0SjHr",原创,en,3,5,4,37,2023-08-18 18:24:04,2024-04-16 13:49:56,1692603281665589599,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1692602452208500736/pu/vid/720x720/Om68Dvz_lcPQ4lxM.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1692602452208500736/pu/img/W-lFRE9Y-7HIErrI.jpg'],
+https://twitter.com/8236572/status/1693627454907097147,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"New pod!  DARPA's Perri Adams (@perribus) has very high expectations for the AI Cyber Challenge @darpa #AIxCC
+
+Full episode https://t.co/lj5Ap9pnAZ https://t.co/qjv8TTtX0s",原创,en,0,3,1,10,2023-08-21 14:13:45,2024-04-16 13:49:56,1693627454907097147,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1693626666168299520/pu/vid/720x1280/D74f8LBmLLI2LnH0.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1693626666168299520/pu/img/almIHiuXumplMxD_.jpg'],
+https://twitter.com/8236572/status/1692682223000944655,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"'Square up!'
+https://t.co/GqGvZz4n6r https://t.co/orJWr852s6",原创,en,0,2,0,7,2023-08-18 23:37:45,2024-04-16 13:49:56,1692682223000944655,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/F32dYvAXgAAONO7.jpg'],
+https://twitter.com/8236572/status/1692522550960795790,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"On the pod, Ryan Hurst talks about the 'art' of security leadership and the urgency for CISOs to show value to the business.  @rmhrisk  #SecurityConversations
+
+Full interview: https://t.co/N3dUMrYfLH https://t.co/40TM0GRGGl",原创,en,1,3,1,8,2023-08-18 13:03:16,2024-04-16 13:50:13,1692522550960795790,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1692521836951822336/pu/vid/720x1280/HpidyCV2UXU8SJG4.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1692521836951822336/pu/img/IT4Gu7AqVjfSGMEB.jpg'],
+https://twitter.com/8236572/status/1692287411320201242,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"I asked longtime MSFT/GOOG security alum Ryan Hurst (@rmhrisk) to weigh in on Microsoft's public struggles with security problems...
+
+Full interview: https://t.co/N3dUMrYfLH https://t.co/ICwh7ZNGEA",原创,en,1,4,0,11,2023-08-17 21:28:54,2024-04-16 13:50:13,1692287411320201242,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1692286929021353986/pu/vid/720x720/Asw7G09Pbnosm1xC.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1692286929021353986/pu/img/JG99m-nf521iGXRV.jpg'],
+https://twitter.com/8236572/status/1692251844654030899,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"""In the OpenSSL project, our LLM was able to automatically generate a working target that rediscovered CVE-2022-3602, which was in an area of code that previously did not have fuzzing coverage.""
+
+https://t.co/LGrXwHBWuk",原创,en,1,23,1,32,2023-08-17 19:07:34,2024-04-16 13:50:13,1692251844654030899,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1691942161296785827,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,LinkedIn is so aggressive with the notifications.  Yeesh.,原创,en,1,0,0,6,2023-08-16 22:37:00,2024-04-16 13:50:13,1691942161296785827,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1691841753555587457,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"https://t.co/N3dUMrYfLH #SecurityConversations, sponsored by @binarly_io",原创,en,0,3,0,5,2023-08-16 15:58:01,2024-04-16 13:50:28,1691841753555587457,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1691827554595004875,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Encryption expert Ryan Hurst: ""The cost of performing a BGP hijacking attack is uncomfortably cheap...""
+
+#SecurityConversations @rmhrisk https://t.co/fxk3MhfqfN",原创,en,1,5,1,12,2023-08-16 15:01:36,2024-04-16 13:50:28,1691827554595004875,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1691827034937573376/pu/vid/720x1280/UNLcp0y3oA-tTSFP.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1691827034937573376/pu/img/LRnPS49f0VyHP-0o.jpg'],
+https://twitter.com/8236572/status/1691547721050779649,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"On the pod, encryption expert Ryan Hurst (@rmhrisk) takes a stab at how Microsoft could have lost that Azure AD enterprise signing key...  #SecurityConversations https://t.co/GqK3qm6UCU",原创,en,2,4,1,16,2023-08-15 20:29:38,2024-04-16 13:50:28,1691547721050779649,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1691547275552780293/pu/vid/720x720/ySOqj_npdtQbdD3H.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1691547275552780293/pu/img/dSnyVfMq0tnYXaDd.jpg'],
+https://twitter.com/8236572/status/1691539467881115648,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"""We introduce two new dataset poisoning attacks that intentionally introduce malicious examples to a model’s performance. Our attacks are immediately practical and could, today, poison 10 popular datasets.""
+
+https://t.co/mBTPYOvtVC &lt;-- research from folks at NVIDIA, Google, etc.",原创,en,0,2,1,14,2023-08-15 19:56:51,2024-04-16 13:50:28,1691539467881115648,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1691457695575138304,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Jason Chan (@chanjbs) expects big things from AI to help with cybersecurity problems. 
+
+A snippet from our podcast conversation 👇 https://t.co/T1x0CGNGKS",原创,en,1,0,0,2,2023-08-15 14:31:55,2024-04-16 13:50:28,1691457695575138304,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1691456946002620418/pu/vid/720x1280/LjP-jV5DXgwKNVZK.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1691456946002620418/pu/img/l8cNGteMFVamtMdb.jpg'],
+https://twitter.com/8236572/status/1689713583683518464,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"When four vendors combine to throw one Black Hat party, RIP your inboxes 👎🏽",原创,en,1,1,0,7,2023-08-10 19:01:26,2024-04-16 13:51:01,1689713583683518464,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1689311041568874496,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,Coming soon to your earholes: podcasts from Black Hat 🎧👂 https://t.co/rFGitVhSy1,原创,en,3,4,0,86,2023-08-09 16:21:52,2024-04-16 13:51:02,1689311041568874496,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/F3Gjb5dasAEegVV.jpg'],
+https://twitter.com/8236572/status/1688973448029327360,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Go patch your Adobe PDF Reader
+https://t.co/5SnbNnSfkx",原创,en,2,2,0,7,2023-08-08 18:00:24,2024-04-16 13:51:02,1688973448029327360,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1688971444083212288,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"My latest for @SecurityWeek, a Black Hat preview with a focus on the business of cyber
+https://t.co/1FP72KRFgS",原创,en,0,1,0,0,2023-08-08 17:52:26,2024-04-16 13:51:02,1688971444083212288,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1688554754291740672,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"🔥 A brand-new podcast for your flights to Black Hat, featuring the outspoken Jason Chan (@chanjbs) on the state of cyber...
+
+ My thanks to the firmware protection folks at @binarly_io for sponsoring the show.
+
+https://t.co/3VRcIHCmqK",原创,en,2,9,1,20,2023-08-07 14:16:39,2024-04-16 13:51:15,1688554754291740672,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1688295393417924608,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Coming up on the pod, veteran security exec Jason Chan (@chanjbs) with an interesting take on all the layoffs hitting security teams... https://t.co/4B5vnaXLsC",原创,en,1,0,2,9,2023-08-06 21:06:03,2024-04-16 13:51:15,1688295393417924608,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1688294666243080192/pu/vid/720x720/ILjHjEWJW1H0McZj.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1688294666243080192/pu/img/Ym5RoHGFLLjtxwuN.jpg'],
+https://twitter.com/8236572/status/1687556943622324224,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,A snippet of an upcoming podcast with former Netflix security chief Jason Chan (@chanjbs) on some harsh cybersecurity realities 👇 https://t.co/oBYfSdfsKo,原创,en,1,1,0,15,2023-08-04 20:11:43,2024-04-16 13:51:30,1687556943622324224,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1687556419703423051/pu/vid/720x720/ClC7WU2bPafASYqx.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1687556419703423051/pu/img/GcC64p42Qozm6cmh.jpg'],
+https://twitter.com/8236572/status/1687523127331594240,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"GitHub's Mike Hanley (@_mph4) on the excitement of AI pair programming and the pursuit of ""developer happiness""
+
+LISTEN https://t.co/yxPIreXimL https://t.co/TAEfSWqu6c",原创,en,0,0,0,2,2023-08-04 17:57:20,2024-04-16 13:51:30,1687523127331594240,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1687522438748540928/pu/vid/720x720/XpOos1F7frc_O-F1.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1687522438748540928/pu/img/q-4YTYL1TZxUjNMb.jpg'],
+https://twitter.com/8236572/status/1687497075658035201,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,GitHub CSO and SVP/Engineering Mike Hanley on designing security to be used by real people 👇 https://t.co/nshGoKjiPg,原创,en,1,0,0,0,2023-08-04 16:13:49,2024-04-16 13:51:30,1687497075658035201,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1687496328790847488/pu/vid/720x1280/ovRMyMkkMr2V3Y4q.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1687496328790847488/pu/img/phGnllnpU95Io4uk.jpg'],
+https://twitter.com/8236572/status/1686795934225883136,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"The Mike Hanley/GitHub episode is live. My thanks to the folks at @binarly_io for supporting the show
+https://t.co/yxPIreXimL",原创,en,1,4,0,9,2023-08-02 17:47:44,2024-04-16 13:51:30,1686795934225883136,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1687235838084796416,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,This is an interesting line CISA's call-to-action on UEFI security 👀 https://t.co/ZKUKs6nOw7,原创,en,1,1,0,8,2023-08-03 22:55:45,2024-04-16 13:51:30,1687235838084796416,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/F2pD0hyaUAAYFtw.jpg'],
+https://twitter.com/8236572/status/1687190032258654208,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Exploitation of a Salesforce 0day 👇
+https://t.co/uiaI4gWD6S",原创,en,0,0,0,1,2023-08-03 19:53:44,2024-04-16 13:51:43,1687190032258654208,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1687173323879501824,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"🔥 Coming up next on the podcast 🔥
+
+- Former Netflix security chief Jason Chan (@chanjbs) returns to the show to riff on Microsoft's never-ending security problems and new Windows monoculture...",原创,en,1,1,1,16,2023-08-03 18:47:21,2024-04-16 13:51:43,1687173323879501824,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1686847239153647623,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"""The best security work is happening as close as possible to the engineering field work, building and developing products. That's the cheapest and most effective place to make good security decisions."" 
+
+👆 GitHub's Mike Hanley on his dual-role as CSO and SVP/ Engineering",原创,en,1,24,4,58,2023-08-02 21:11:36,2024-04-16 13:51:57,1686847239153647623,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1686845155238883328,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"New at @SecurityWeek 
+
+https://t.co/Mg3NVU1cAO",原创,en,0,3,0,4,2023-08-02 21:03:19,2024-04-16 13:51:57,1686845155238883328,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1686799063893860353,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,Layoffs at HackerOne https://t.co/yIDwOdI99z,原创,en,1,2,0,3,2023-08-02 18:00:10,2024-04-16 13:51:57,1686799063893860353,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/F2i2zJAa8AAHFLK.jpg'],
+https://twitter.com/8236572/status/1686469315485368323,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,GitHub's Michael Hanley discusses the thinking behind combining the CISO and SVP/Engineering roles. Full podcast interview coming tomorrow to https://t.co/cudEZ7EpfD https://t.co/0TO2q9uZI9,原创,en,1,1,1,7,2023-08-01 20:09:52,2024-04-16 13:51:58,1686469315485368323,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1686467520876904449/pu/vid/720x720/44mHEeuGVn6widmr.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1686467520876904449/pu/img/3G8F5Aq9lY9tlJWq.jpg'],
+https://twitter.com/8236572/status/1686384094832463872,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"On the pod, I asked GitHub CISO Mike Hanley (@_mph4) for his his reaction to the new SEC rule requiring public companies to disclose security breaches in 4 days... https://t.co/jrgdTlz0Rs",原创,en,1,2,0,1,2023-08-01 14:31:14,2024-04-16 13:52:11,1686384094832463872,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1686383285168115714/pu/vid/720x720/x01sKNIZpwxNkLPI.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1686383285168115714/pu/img/-SEzzM0vGamODJbe.jpg'],
+https://twitter.com/8236572/status/1686150501564628995,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,GitHub security chief Mike Hanley is super-bullish on emergent AI use-cases to solve cybersecurity problems at scale @_mph4 https://t.co/3JjukELBqS,原创,en,1,4,1,5,2023-07-31 23:03:01,2024-04-16 13:52:11,1686150501564628995,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1686149933446152193/pu/vid/720x1280/CbO3Eypaj3EanXN_.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1686149933446152193/pu/img/1Yp6uKGh_Tbhk5Be.jpg'],
+https://twitter.com/8236572/status/1686128201255587840,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"On the podcast, I asked GitHub security chief Mike Hanley (@_mph4)  about the company's appearance on the https://t.co/KIPHcIkTEh name-and-shame list for charging extra for SSO integration... https://t.co/zyH4s4HsbL",原创,en,1,1,1,6,2023-07-31 21:34:24,2024-04-16 13:52:11,1686128201255587840,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1686127384137981952/pu/vid/1280x720/6vpDe9fKA4PRSSdO.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1686127384137981952/pu/img/Z0rAQqcjoS6bY_6U.jpg'],
+https://twitter.com/8236572/status/1686103985223262208,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Coming up next on the podcast 🚨
+
+- Mike Hanley, CISO and SVP of Engineering, GitHub (@_mph4) 
+
+Catch all the interviews at https://t.co/ZThIHI7aoG",原创,en,1,0,1,8,2023-07-31 19:58:11,2024-04-16 13:52:11,1686103985223262208,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1686029375584485376,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Reddit has upvoted Fredrick 'Flee' Lee to the CISO office (@fredrickl)
+
+https://t.co/WjOmXHH8Oi",原创,en,3,5,2,30,2023-07-31 15:01:42,2024-04-16 13:52:11,1686029375584485376,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1684939006440849408,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,Usual gnarly vibes in @securityweek's snapshot of cyber for this week https://t.co/jDAYScxKZo,原创,en,0,4,0,4,2023-07-28 14:48:58,2024-04-16 13:52:28,1684939006440849408,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/F2Ia8bYboAACOUm.png'],
+https://twitter.com/8236572/status/1684609833691906059,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"""The number of 0-days detected and disclosed in-the-wild can’t tell us much about the state of security."" https://t.co/Hyrrta5shx",原创,en,3,4,0,4,2023-07-27 17:00:57,2024-04-16 13:52:29,1684609833691906059,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/F2DvbnwaIAAF9S-.jpg'],
+https://twitter.com/8236572/status/1684659446239363072,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Senator Ron Wyden wants the U.S. government to hold Microsoft responsible for “negligent cybersecurity practices” that enabled “a successful Chinese espionage campaign against the United States government.”
+
+Here's @securityweek coverage
+https://t.co/xu1WLRVGwr",原创,en,1,12,1,29,2023-07-27 20:18:06,2024-04-16 13:52:29,1684659446239363072,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1684390942336487424,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,AWS on Zenbleed CVE-2023-20593 https://t.co/7EIX76mOOp,原创,en,1,16,3,30,2023-07-27 02:31:09,2024-04-16 13:52:42,1684390942336487424,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1684312787361599489,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Will the CISA ""Secure by Default"" principles on CVE transparency apply to Azure and other big-cloud vulns? https://t.co/1hYY55Ghqo",原创,en,2,3,0,11,2023-07-26 21:20:36,2024-04-16 13:52:42,1684312787361599489,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/F1_hhdwaYAA2QaI.png'],
+https://twitter.com/8236572/status/1684252192394600448,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,New!  A conversation of Cenlar FSB security chief Jason Shockey on CISO life and the task of protecting a financial institution https://t.co/oc6KUuuYck,原创,en,1,1,0,5,2023-07-26 17:19:49,2024-04-16 13:52:42,1684252192394600448,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1684251729561538560/pu/vid/720x720/Fliml8FKpK0EtXv2.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1684251729561538560/pu/img/kRUExMXh02cSEHRi.jpg'],
+https://twitter.com/8236572/status/1683855329594048512,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Today marks two weeks since Microsoft confirmed 0day exploitation of “a series of remote code execution vulnerabilities” impacting Windows and Office users.
+
+There still is no patch
+https://t.co/QHROJkEjxJ",原创,en,1,34,3,88,2023-07-25 15:02:49,2024-04-16 13:52:42,1683855329594048512,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1683920357139546112,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Research by Project Zero's @taviso 
+https://t.co/CuQK5dXroT",原创,en,0,2,0,3,2023-07-25 19:21:13,2024-04-16 13:52:42,1683920357139546112,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1683893574679797760,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,Anyone still excited about that Apple security research blog?,原创,en,1,0,0,14,2023-07-25 17:34:48,2024-04-16 13:52:42,1683893574679797760,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1683502134397145088,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,Feels very much like Microsoft is too big to care.,原创,en,2,2,0,15,2023-07-24 15:39:21,2024-04-16 13:57:59,1683502134397145088,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1682819466051178497,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,Security people are scared of QR codes except in restaurants when they're hungry.,原创,en,6,7,2,46,2023-07-22 18:26:40,2024-04-16 13:57:59,1682819466051178497,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1682809140354097158,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"If you don't have budget for the project, it's not a project.",原创,en,0,2,0,8,2023-07-22 17:45:38,2024-04-16 13:58:14,1682809140354097158,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1682472328310173696,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"""The hack turned into a bigger embarrassment for Microsoft when customers complained they had zero visibility to investigate because they were not paying for the high-tier E5/G5 license.""
+
+https://t.co/N7yGvmhmpt",原创,en,0,10,0,22,2023-07-21 19:27:16,2024-04-16 13:58:14,1682472328310173696,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1682431078798364673,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"New research from Wiz:
+
+“There were millions of applications that were potentially vulnerable, both Microsoft apps and customer apps, and the majority of them lack the sufficient logs to determine if they were compromised or not.""
+
+https://t.co/e90C1SM9px",原创,en,1,10,0,20,2023-07-21 16:43:21,2024-04-16 13:58:14,1682431078798364673,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1682409874448322560,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"""For over a year...""  🤦 https://t.co/FBSjCPPhvv",原创,en,3,1,1,12,2023-07-21 15:19:06,2024-04-16 13:58:14,1682409874448322560,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/F1kezp6aEAAjLz2.jpg'],
+https://twitter.com/8236572/status/1682137608997183488,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,@msuiche @haroonmeer @dugsong I'd like to see Dug and Jon interview each other on the entire Duo journey.,原创,en,0,0,0,1,2023-07-20 21:17:13,2024-04-16 13:58:31,1682137608997183488,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1682115554482753536,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,OpenSSF general manager Omkhar Arasaratnam on the goals of the Alpha/Omega projects @omkhar_openssf @openssf https://t.co/PWglezpEWY,原创,en,1,2,0,1,2023-07-20 19:49:35,2024-04-16 13:58:31,1682115554482753536,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1682115263679037441/pu/vid/720x720/VxG03FqilrYEyEc-.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1682115263679037441/pu/img/0bctVRyVvuwZS10b.jpg'],
+https://twitter.com/8236572/status/1682105500199190528,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Jumpcloud hack linked to North Korean hackers &lt;-- research from @TomHegel 
+https://t.co/n6heV9Xfce",原创,en,1,0,0,0,2023-07-20 19:09:37,2024-04-16 13:58:31,1682105500199190528,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1682090516547272705,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"""When something goes awry, everyone's running around like chickens with their heads cut off. Nobody's doing anything methodically.  If we can reduce this down to run books and tabletop exercises and that muscle memory of just getting it done..."" -  OpenSSF GM @omkhar_openssf https://t.co/7e0kbKtxAy",原创,en,1,2,0,2,2023-07-20 18:10:05,2024-04-16 13:58:31,1682090516547272705,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1682090347202252801/pu/vid/720x720/FbMIOwmfc5jwl0Lg.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1682090347202252801/pu/img/VoLm-z2S6MH5pAOY.jpg'],
+https://twitter.com/8236572/status/1682088500555051008,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"The in-the-wild 0day counter for this year has hit 50
+
+Some are still unpatched https://t.co/XzGdQxAGws",原创,en,2,3,2,33,2023-07-20 18:02:04,2024-04-16 13:58:31,1682088500555051008,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/F1f6gviaMAAq-wQ.jpg'],
+https://twitter.com/8236572/status/1682077914458890240,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"On the pod, Kymberlee Price (@Kym_Possible) tells a Dan Kaminsky story from the early days of Microsoft's Blue Hat 
+
+Listen to the conversation here:
+https://t.co/oMb6eoM6t6 https://t.co/gKKCy1kM9m",原创,en,1,1,2,2,2023-07-20 17:20:00,2024-04-16 13:58:31,1682077914458890240,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1682077105260236802/pu/vid/720x1280/9mXmMWdOnwNIFxb8.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1682077105260236802/pu/img/Fz3XMyyYZDKl9Y6v.jpg'],
+https://twitter.com/8236572/status/1682074190151827456,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,fuck your embargo.,原创,en,1,0,0,2,2023-07-20 17:05:13,2024-04-16 13:58:31,1682074190151827456,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1682041967470071809,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"""I have found my tribe...""  &lt;-- @fede_k on figuring out how his place among hackers
+
+Full show:
+https://t.co/cfwCXsRDhD https://t.co/nIk5E4q2r9",原创,en,1,2,0,15,2023-07-20 14:57:10,2024-04-16 13:58:31,1682041967470071809,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1682041681909260288/pu/vid/720x1280/fTG6JOzApLBDPhOI.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1682041681909260288/pu/img/Gkg87Jfx626p2E6J.jpg'],
+https://twitter.com/8236572/status/1681452570353758208,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,Tomorrow!  Fede joins the show @fede_k https://t.co/cmQC17TOSL,原创,en,4,12,3,49,2023-07-18 23:55:07,2024-04-16 13:58:49,1681452570353758208,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1681451913106325506/pu/vid/720x720/RVxpkt_ioUwBoxOp.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1681451913106325506/pu/img/XEBb7Y-Oqg21jJeP.jpg'],
+https://twitter.com/8236572/status/1681727896518537216,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,When last you read one of those many labels on the side of ladders?,原创,en,0,0,0,0,2023-07-19 18:09:10,2024-04-16 13:58:50,1681727896518537216,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1681726813134008325,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"NEW!  Federico Kirschbaum (@fede_k) shares his all-time favorite offensive exploit research
+
+Full episode is on Spotify:
+https://t.co/G36UHg9CjP https://t.co/InWaU19IMn",原创,en,0,6,0,10,2023-07-19 18:04:51,2024-04-16 13:58:50,1681726813134008325,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1681726363966013440/pu/vid/720x720/1qO5-AOQb53qYur0.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1681726363966013440/pu/img/X01qgE9xmIha2l02.jpg'],
+https://twitter.com/8236572/status/1681703088082812928,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Microsoft: By the way, you still gotta pay extra to get the real stuff https://t.co/cCM1AbQlDR",原创,en,1,4,0,9,2023-07-19 16:30:35,2024-04-16 13:58:50,1681703088082812928,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/F1ab-B5acAAQR6k.jpg'],
+https://twitter.com/8236572/status/1681695183564591104,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Facing intense pressure after Chinese APT hack, Microsoft says it will expand logging defaults for lower-tier M365 customers
+
+https://t.co/N7yGvmhmpt",原创,en,0,17,0,25,2023-07-19 15:59:10,2024-04-16 13:58:50,1681695183564591104,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1681409527797927936,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Kymberlee Price (@Kym_Possible) on the podcast discussions organizational security tensions.
+
+Full episode: https://t.co/oMb6eoM6t6 https://t.co/gC3ZNSCn4N",原创,en,1,1,1,8,2023-07-18 21:04:05,2024-04-16 13:59:07,1681409527797927936,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1681409286742884352/pu/vid/720x720/DDAWLTXrFgE314gB.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1681409286742884352/pu/img/HnXZMuIpplXe_t3s.jpg'],
+https://twitter.com/8236572/status/1681447475352338433,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,ASUS creates new business unit to manufacture and sell Intel NUCs https://t.co/VqjgPuodqt,原创,en,0,2,1,2,2023-07-18 23:34:52,2024-04-16 13:59:07,1681447475352338433,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1681396195191844864,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"OpenSSF GM Omkhar Arasaratnam on investments supply chain security tech
+
+Full episode: https://t.co/V8QFHMGpY7 https://t.co/FW4bKUiDk5",原创,en,0,3,0,2,2023-07-18 20:11:06,2024-04-16 13:59:07,1681396195191844864,8236572,ryanaraine,0,['https://video.twimg.com/ext_tw_video/1681395658690023424/pu/vid/720x1280/vJKI558xgXNv0chk.mp4?tag=12'],,['https://pbs.twimg.com/ext_tw_video_thumb/1681395658690023424/pu/img/VbiDabkxTA8oqDeU.jpg'],
+https://twitter.com/8236572/status/1681092058856194048,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,Black Hat CISO summit agenda item https://t.co/27T83MsJjD,原创,en,5,0,1,15,2023-07-18 00:02:34,2024-04-16 13:59:20,1681092058856194048,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/F1RwUKLagAA0WcY.jpg'],
+https://twitter.com/8236572/status/1681040261013712897,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Coming up next on the podcast: The incomparable Federico Kirschbaum (@fede_k) on the Argentina hacking scene...
+
+Like and subscribe (Apple): https://t.co/EQbkuMbQxQ",原创,en,2,14,3,31,2023-07-17 20:36:45,2024-04-16 13:59:20,1681040261013712897,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1680931884992450563,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"ColdFusion itw exploitation, again.  https://t.co/XT4iAZomXY",原创,en,0,0,0,0,2023-07-17 13:26:06,2024-04-16 13:59:20,1680931884992450563,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1679956278251261955,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"""Adobe is aware that a proof of concept blog was posted for CVE-2023-38203."" https://t.co/epsi0RWeol",原创,en,0,3,0,2,2023-07-14 20:49:23,2024-04-16 13:59:37,1679956278251261955,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1679883671741042688,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"🎧 For your weekend summer listening. My conversation with Kymberlee Price (@Kym_Possible) on a bunch of important things
+
+https://t.co/oMb6eoM6t6 &lt;- ep sponsored by @binarly_io",原创,en,0,1,0,3,2023-07-14 16:00:52,2024-04-16 13:59:37,1679883671741042688,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1679874872661651456,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"There's a clear pattern to the cybersecurity news headlines, week after week. https://t.co/dKdHawS3jS",原创,en,1,4,0,8,2023-07-14 15:25:54,2024-04-16 13:59:37,1679874872661651456,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/F1AdQDEakAAf45W.png'],
+https://twitter.com/8236572/status/1679874432775630848,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Google researchers discover in-the-wild exploitation of Zimbra 0day  
+
+https://t.co/4lbgrtntm7
+
+The 0day counter for 2023 now stands at 47",原创,en,0,0,0,1,2023-07-14 15:24:09,2024-04-16 13:59:37,1679874432775630848,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1679602549459156993,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"A weekend reminder that there's no available patch for the ""series of Outlook vulnerabilities"" being exploited in the wild.
+
+My story with link to mitigation guidance
+https://t.co/QHROJkEjxJ",原创,en,0,10,0,27,2023-07-13 21:23:47,2024-04-16 13:59:37,1679602549459156993,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1679515831481556993,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,There is no hacker summer camp anymore.  Stop fooling the kids.,原创,en,1,1,0,5,2023-07-13 15:39:12,2024-04-16 13:59:37,1679515831481556993,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1679512246689599488,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Cisco is on a bit of a shopping spree.  The planned Oort purchase is Cisco’s fourth acquisition of a cybersecurity company in the first half of 2023.
+https://t.co/ne9ivVHiyc",原创,en,0,0,0,3,2023-07-13 15:24:58,2024-04-16 13:59:38,1679512246689599488,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1679511587504418816,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"The source code for the BlackLotus UEFI bootkit has been shared publicly on GitHub
+https://t.co/6vePHVKMoN",原创,en,0,12,0,21,2023-07-13 15:22:20,2024-04-16 13:59:38,1679511587504418816,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1679206154579361796,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Cloud security unicorn war declared!
+
+Orca sues Wiz for patent infringement, alleging copycat tech and behavior
+
+https://t.co/CtlRsrfnd1",原创,en,1,4,1,8,2023-07-12 19:08:40,2024-04-16 13:59:53,1679206154579361796,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1679174710867955712,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"🎧 A brand new podcast for your earholes 🎧
+
+Kymberlee Price (@Kym_Possible)  joins the show to gab about life in the trenches at the MSRC, the challenges of maintaining healthy hacker/vendor relationships,  and thoughts on the cybersecurity job market.
+
+https://t.co/oMb6eoM6t6",原创,en,0,1,0,6,2023-07-12 17:03:43,2024-04-16 13:59:53,1679174710867955712,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1678970173712388098,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Rapid Security Response patches can be a good way to protect users against zero-day exploits, but the fact that their development is rushed means they might not be as rigorously tested as regular patches.  https://t.co/lOZ7JcrPFk",原创,en,0,4,1,10,2023-07-12 03:30:57,2024-04-16 13:59:53,1678970173712388098,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1678814235151962112,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,It's Patch Tuesday and Microsoft is about to drop a monster bundle.  Brace!,原创,en,0,3,2,10,2023-07-11 17:11:19,2024-04-16 14:00:07,1678814235151962112,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1678537265323311107,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"iOS 16.5.1 (a) and iPadOS 16.5.1 (a)
+https://t.co/ENdzNHNTPW",原创,es,0,2,0,1,2023-07-10 22:50:44,2024-04-16 14:00:07,1678537265323311107,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1678532972545298432,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"New: Apple scrambles to patch WebKit zero-day being exploited:
+
+“CVE-2023-37450 -- Processing web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited""
+
+https://t.co/d3kRz0MEeg",原创,en,0,12,0,12,2023-07-10 22:33:40,2024-04-16 14:00:07,1678532972545298432,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1678461598812499969,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"""Out of an abundance of caution relating to an ongoing incident, JumpCloud has decided to rotate all API Keys for JumpCloud Admins.""
+
+https://t.co/AzsLKwPHCc",原创,en,0,1,0,1,2023-07-10 17:50:04,2024-04-16 14:00:07,1678461598812499969,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1677385336568291330,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Weekend re-up:  My podcast conversation with new OpenSSF general manager Omkhar Arasaratnam
+https://t.co/V8QFHMGpY7",原创,en,0,0,0,1,2023-07-07 18:33:23,2024-04-16 14:00:07,1677385336568291330,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1677348339342540801,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Another Friday in cyber, via @SecurityWeek https://t.co/Sqg7D5YN1b",原创,en,2,7,1,18,2023-07-07 16:06:22,2024-04-16 14:00:07,1677348339342540801,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/F0cjaldaYAEo7lT.png'],
+https://twitter.com/8236572/status/1676627374627262465,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"We're up on Spotify: A new pod with OpenSSF GM Omkhar Arasaratnam on open-source software supply chain security
+https://t.co/K0tvu7URjM &lt;-- ep sponsored by @binarly_io",原创,en,0,9,0,8,2023-07-05 16:21:30,2024-04-16 14:00:24,1676627374627262465,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1676595562555097091,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"🎧 New pod  alert 🎧
+
+A conversation with OpenSSF GM Omkhar Arasaratnam (@omkhar_openssf) on open-source software security, lessons from the Log4j crisis, the value of SBOMs, and the U.S. government efforts at securing America's software supply chains.
+
+https://t.co/V8QFHMFS8z",原创,en,0,1,0,2,2023-07-05 14:15:06,2024-04-16 14:00:24,1676595562555097091,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1674269767623114757,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,PERFECTO,原创,es,1,0,0,5,2023-06-29 04:13:13,2024-04-16 14:00:24,1674269767623114757,8236572,ryanaraine,0,[],,,
+https://twitter.com/8236572/status/1671924660357992448,https://twitter.com/ryanaraine,https://pbs.twimg.com/profile_images/1630677032299565056/BIHI2aRd_normal.jpg,,,Ryan Naraine,"Another week in the cybersecurity trenches:
+
+""CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.""
+
+https://t.co/9roGZzxm2E https://t.co/HU854HdikI",原创,en,1,1,1,6,2023-06-22 16:54:36,2024-04-16 14:00:24,1671924660357992448,8236572,ryanaraine,0,[],,['https://pbs.twimg.com/media/FzPemBnaQAEDDvc.jpg'],
